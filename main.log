@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  13 MAY 2025 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  13 MAY 2025 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,7 +306,11 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 \@quotelevel=\count398
 \@quotereset=\count399
 
-(./main.aux (./Introduction/introduction.aux))
+(./main.aux (./Abstract/abstract.aux) (./Introduction/introduction.aux)
+(./Plant-Phenotyping/plant_phenotyping.aux)
+(./Image-Processing-Techniques/image_processing_techniques.aux)
+(./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.aux
+) (./Conclusion/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -340,24 +344,77 @@ Package biblatex Info: ... file 'main.bbl' found.
 (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 12.
 Package biblatex Info: Reference segment=0 on input line 12.
-\openout2 = `Introduction/introduction.aux'.
+\openout2 = `Abstract/abstract.aux'.
 
- (./Introduction/introduction.tex)
+ (./Abstract/abstract.tex)
 
 [1
 
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
+\openout2 = `Introduction/introduction.aux'.
 
+
+(./Introduction/introduction.tex)
 
 [2
 
 
-] (./main.aux (./Introduction/introduction.aux))
+
+]
+\openout2 = `Plant-Phenotyping/plant_phenotyping.aux'.
+
+ (./Plant-Phenotyping/plant_phenotyping.tex)
+
+[3
+
+
+
+]
+\openout2 = `Image-Processing-Techniques/image_processing_techniques.aux'.
+
+ (./Image-Processing-Techniques/image_processing_techniques.tex)
+
+[4
+
+
+
+]
+\openout2 = `Applications-In-LowCost-Greenhouses/applications_in_low_cost_green
+houses.aux'.
+
+
+(./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.tex
+)
+
+[5
+
+
+
+]
+\openout2 = `Conclusion/conclusion.aux'.
+
+ (./Conclusion/conclusion.tex)
+
+[6
+
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
+
+
+[7
+
+
+] (./main.aux (./Abstract/abstract.aux) (./Introduction/introduction.aux)
+(./Plant-Phenotyping/plant_phenotyping.aux)
+(./Image-Processing-Techniques/image_processing_techniques.aux)
+(./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.aux
+) (./Conclusion/conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -367,22 +424,24 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8757 strings out of 473190
- 172789 string characters out of 5715800
- 987719 words of memory out of 5000000
- 31987 multiletter control sequences out of 15000+600000
- 560257 words of font info for 41 fonts, out of 8000000 for 9000
+ 8894 strings out of 473190
+ 179793 string characters out of 5715800
+ 1000339 words of memory out of 5000000
+ 32083 multiletter control sequences out of 15000+600000
+ 560864 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,5n,81p,1010b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,5n,81p,1011b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (2 pages, 62887 bytes).
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (7 pages, 88894 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
