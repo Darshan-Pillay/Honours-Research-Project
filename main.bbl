@@ -1,0 +1,87 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{walterPlantPhenotypingBean2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=28d23497489e43cb9dd156eeb4c03984}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a87ae23efc6b6a4bad6a8547204dc67c}{%
+           family={Liebisch},
+           familyi={L\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ab49c9d89ccf6e041cfb8eeeec6ef144}{%
+           family={Hund},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{fullhash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{fullhashraw}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{bibnamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorbibnamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authornamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorfullhash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorfullhashraw}{c765b43ff439e43c61f1a453dcc76246}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Plant phenotyping refers to a quantitative description of the plant’s anatomical, ontogenetical, physiological and biochemical properties. Today, rapid developments are taking place in the field of non-destructive, image-analysis -based phenotyping that allow for a characterization of plant traits in high-throughput. During the last decade, ‘the field of image-based phenotyping has broadened its focus from the initial characterization of single-plant traits in controlled conditions towards ‘real-life’ applications of robust field techniques in plant plots and canopies. An important component of successful phenotyping approaches is the holistic characterization of plant performance that can be achieved with several methodologies, ranging from multispectral image analyses via thermographical analyses to growth measurements, also taking root phenotypes into account.}
+      \field{day}{4}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{shorttitle}{Plant Phenotyping}
+      \field{title}{Plant Phenotyping: From Bean Weighing to Image Analysis}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13007-015-0056-8
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/XWCW3GVP/Walter et al. - 2015 - Plant phenotyping from bean weighing to image analysis.pdf;/Users/darshanpillay/Zotero/storage/4C33DLE3/s13007-015-0056-8.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s13007-015-0056-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s13007-015-0056-8
+      \endverb
+      \keyw{Canopy Temperature,Chlorophyll Fluorescence,Honours Research: Introduction,Normalize Difference Vegetation Index,Plant phenotyping,Root Length Density,Unmanned Aerial Vehicle}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
