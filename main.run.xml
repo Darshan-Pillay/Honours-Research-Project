@@ -80,6 +80,7 @@
     </requires>
     <requires type="editable">
       <file>Introduction/Bibliography/introduction_references.bib</file>
+      <file>Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib</file>
     </requires>
   </external>
 </requests>

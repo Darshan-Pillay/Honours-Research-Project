@@ -19,67 +19,270 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
-    \entry{walterPlantPhenotypingBean2015}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=28d23497489e43cb9dd156eeb4c03984}{%
-           family={Walter},
-           familyi={W\bibinitperiod},
-           given={Achim},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a87ae23efc6b6a4bad6a8547204dc67c}{%
-           family={Liebisch},
-           familyi={L\bibinitperiod},
-           given={Frank},
+    \entry{fioraniFutureScenariosPlant2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=95589f8de90b846467f4f387b0d214f8}{%
+           family={Fiorani},
+           familyi={F\bibinitperiod},
+           given={Fabio},
            giveni={F\bibinitperiod}}}%
-        {{hash=ab49c9d89ccf6e041cfb8eeeec6ef144}{%
-           family={Hund},
-           familyi={H\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
+        {{hash=43677feff02df8cd1730c806f1af7312}{%
+           family={Schurr},
+           familyi={S\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
       }
-      \strng{namehash}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{fullhash}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{fullhashraw}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{bibnamehash}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{authorbibnamehash}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{authornamehash}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{authorfullhash}{c765b43ff439e43c61f1a453dcc76246}
-      \strng{authorfullhashraw}{c765b43ff439e43c61f1a453dcc76246}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \strng{namehash}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{fullhash}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{fullhashraw}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{bibnamehash}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{authorbibnamehash}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{authornamehash}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{authorfullhash}{7d55fe3437aab0bce3817fc7489a06c5}
+      \strng{authorfullhashraw}{7d55fe3437aab0bce3817fc7489a06c5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Plant phenotyping refers to a quantitative description of the plant’s anatomical, ontogenetical, physiological and biochemical properties. Today, rapid developments are taking place in the field of non-destructive, image-analysis -based phenotyping that allow for a characterization of plant traits in high-throughput. During the last decade, ‘the field of image-based phenotyping has broadened its focus from the initial characterization of single-plant traits in controlled conditions towards ‘real-life’ applications of robust field techniques in plant plots and canopies. An important component of successful phenotyping approaches is the holistic characterization of plant performance that can be achieved with several methodologies, ranging from multispectral image analyses via thermographical analyses to growth measurements, also taking root phenotypes into account.}
-      \field{day}{4}
-      \field{issn}{1746-4811}
-      \field{journaltitle}{Plant Methods}
-      \field{month}{3}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With increasing demand to support and accelerate progress in breeding for novel traits, the plant research community faces the need to accurately measure increasingly large numbers of plants and plant parameters. The goal is to provide quantitative analyses of plant structure and function relevant for traits that help plants better adapt to lowinput agriculture and resource-limited environments. We provide an overview of the inherently multidisciplinary research in plant phenotyping, focusing on traits that will assist in selecting genotypes with increased resource use efficiency. We highlight opportunities and challenges for integrating noninvasive or minimally invasive technologies into screening protocols to characterize plant responses to environmental challenges for both controlled and field experimentation. Although technology evolves rapidly, parallel efforts are still required because large-scale phenotyping demands accurate reporting of at least a minimum set of information concerning experimental protocols, data management schemas, and integration with modeling. The journey toward systematic plant phenotyping has only just begun.}
+      \field{day}{29}
+      \field{issn}{1543-5008, 1545-2123}
+      \field{journaltitle}{Annual Review of Plant Biology}
+      \field{langid}{english}
+      \field{month}{4}
       \field{number}{1}
-      \field{shortjournal}{Plant Methods}
-      \field{shorttitle}{Plant Phenotyping}
-      \field{title}{Plant Phenotyping: From Bean Weighing to Image Analysis}
+      \field{shortjournal}{Annu. Rev. Plant Biol.}
+      \field{title}{Future {{Scenarios}} for {{Plant Phenotyping}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{64}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{267\bibrangedash 291}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1146/annurev-arplant-050312-120137
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/JSLZPLCW/Fiorani and Schurr - 2013 - Future Scenarios for Plant Phenotyping.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.annualreviews.org/doi/10.1146/annurev-arplant-050312-120137
+      \endverb
+      \verb{url}
+      \verb https://www.annualreviews.org/doi/10.1146/annurev-arplant-050312-120137
+      \endverb
+      \keyw{Plant Phenotyping}
+    \endentry
+    \entry{guoPhenotypingPlants2014}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=6d124d2b17e3bc46830143d1320725b6}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Qiaosheng},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=cfce5a8fba58c427379dd45f448f4d19}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Zaibiao},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{fullhash}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{fullhashraw}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{bibnamehash}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{authorbibnamehash}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{authornamehash}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{authorfullhash}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \strng{authorfullhashraw}{e49d9caafdd318ff2a7c7ff58665ff7b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of phenotyping is to produce a description of the plant's anatomical, ontological, physiological, and biochemical properties. The description needs to be numerical, and the methodology needs to be rapid, repeatable, and inexpensive if a large number of samples need to be measured. In recent years, high throughput phenotyping analysis methods have become state of the art in the life sciences. The recent advancement in currently used new high throughput and high resolution phenotyping technologies is reviewed.}
+      \field{booktitle}{Encyclopedia of {{Analytical Chemistry}}}
+      \field{isbn}{978-0-470-02731-8}
+      \field{langid}{english}
+      \field{title}{Phenotyping of {{Plants}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1002/9780470027318.a9934
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/Y6CSCNF8/Guo and Zhu - 2014 - Phenotyping of Plants.pdf;/Users/darshanpillay/Zotero/storage/CQRQ2UNA/9780470027318.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470027318.a9934
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470027318.a9934
+      \endverb
+      \keyw{3D laser scanner,genotype,high resolution,high throughput analysis,phenotyping,Plant Phenotyping}
+    \endentry
+    \entry{johannsenGenotypeConceptionHeredity1911a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=51d6795360ee32ab13273ec886b70132}{%
+           family={Johannsen},
+           familyi={J\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{51d6795360ee32ab13273ec886b70132}
+      \strng{fullhash}{51d6795360ee32ab13273ec886b70132}
+      \strng{fullhashraw}{51d6795360ee32ab13273ec886b70132}
+      \strng{bibnamehash}{51d6795360ee32ab13273ec886b70132}
+      \strng{authorbibnamehash}{51d6795360ee32ab13273ec886b70132}
+      \strng{authornamehash}{51d6795360ee32ab13273ec886b70132}
+      \strng{authorfullhash}{51d6795360ee32ab13273ec886b70132}
+      \strng{authorfullhashraw}{51d6795360ee32ab13273ec886b70132}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-0147, 1537-5323}
+      \field{journaltitle}{The American Naturalist}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{531}
+      \field{shortjournal}{The American Naturalist}
+      \field{title}{The {{Genotype Conception}} of {{Heredity}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{45}
+      \field{year}{1911}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 159}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1086/279202
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/3ZXCQVXI/Johannsen - 1911 - The Genotype Conception of Heredity.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.uchicago.edu/doi/10.1086/279202
+      \endverb
+      \verb{url}
+      \verb https://www.journals.uchicago.edu/doi/10.1086/279202
+      \endverb
+      \keyw{Plant Phenotyping}
+    \endentry
+    \entry{liReviewImagingTechniques2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ad7517ebe80619f75e6261e4aae4f0e1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ddff1c6ccb542f71c04756739d1db1c5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=eed3cc4d53c4f07095819bb66d38e7a5}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Danfeng},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{fullhash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{fullhashraw}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{bibnamehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authorbibnamehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authornamehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authorfullhash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authorfullhashraw}{b4a71df6eeb7f2f65e80763ce8148098}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given the rapid development of plant genomic technologies, a lack of access to plant phenotyping capabilities limits our ability to dissect the genetics of quantitative traits. Effective, high-throughput phenotyping platforms have recently been developed to solve this problem. In high-throughput phenotyping platforms, a variety of imaging methodologies are being used to collect data for quantitative studies of complex traits related to the growth, yield and adaptation to biotic or abiotic stress (disease, insects, drought and salinity). These imaging techniques include visible imaging (machine vision), imaging spectroscopy (multispectral and hyperspectral remote sensing), thermal infrared imaging, fluorescence imaging, 3D imaging and tomographic imaging (MRT, PET and CT). This paper presents a brief review on these imaging techniques and their applications in plant phenotyping. The features used to apply these imaging techniques to plant phenotyping are described and discussed in this review.}
+      \field{day}{24}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{month}{10}
+      \field{number}{11}
+      \field{shortjournal}{Sensors (Basel)}
+      \field{title}{A {{Review}} of {{Imaging Techniques}} for {{Plant Phenotyping}}}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20078\bibrangedash 20111}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.3390/s141120078
+      \endverb
+      \verb{eprint}
+      \verb 25347588
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/LYCK58TF/Li et al. - 2014 - A Review of Imaging Techniques for Plant Phenotyping.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279472/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279472/
+      \endverb
+      \keyw{Plant phenotyping}
+    \endentry
+    \entry{mohammedReviewPlantPhenotyping}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=954973c6f498062beb3a313d7a2134ab}{%
+           family={Mohammed},
+           familyi={M\bibinitperiod},
+           given={Semira\bibnamedelima Ebrahim},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{954973c6f498062beb3a313d7a2134ab}
+      \strng{fullhash}{954973c6f498062beb3a313d7a2134ab}
+      \strng{fullhashraw}{954973c6f498062beb3a313d7a2134ab}
+      \strng{bibnamehash}{954973c6f498062beb3a313d7a2134ab}
+      \strng{authorbibnamehash}{954973c6f498062beb3a313d7a2134ab}
+      \strng{authornamehash}{954973c6f498062beb3a313d7a2134ab}
+      \strng{authorfullhash}{954973c6f498062beb3a313d7a2134ab}
+      \strng{authorfullhashraw}{954973c6f498062beb3a313d7a2134ab}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To ensure that crop production keeps up with population growth, it is necessary to select crops with high yields and stress tolerance. It is possible to im..1102322}
+      \field{langid}{english}
+      \field{title}{Review on Plant Phenotyping}
       \field{urlday}{5}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
-      \field{volume}{11}
-      \field{year}{2015}
-      \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{14}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1186/s13007-015-0056-8
-      \endverb
       \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/XWCW3GVP/Walter et al. - 2015 - Plant phenotyping from bean weighing to image analysis.pdf;/Users/darshanpillay/Zotero/storage/4C33DLE3/s13007-015-0056-8.html
+      \verb /Users/darshanpillay/Zotero/storage/A4G66B2W/Mohammed - Review on plant phenotyping 1102322.pdf
       \endverb
       \verb{urlraw}
-      \verb https://doi.org/10.1186/s13007-015-0056-8
+      \verb https://www.abrinternationaljournal.org/abstract/review-on-plant-phenotyping-1102322.html
       \endverb
       \verb{url}
-      \verb https://doi.org/10.1186/s13007-015-0056-8
+      \verb https://www.abrinternationaljournal.org/abstract/review-on-plant-phenotyping-1102322.html
       \endverb
-      \keyw{Canopy Temperature,Chlorophyll Fluorescence,Honours Research: Introduction,Normalize Difference Vegetation Index,Plant phenotyping,Root Length Density,Unmanned Aerial Vehicle}
+      \keyw{Plant Phenotyping}
     \endentry
   \enddatalist
 \endrefsection

@@ -2370,9 +2370,14 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">Introduction/Bibliography/introduction_references.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">walterPlantPhenotypingBean2015</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">johannsenGenotypeConceptionHeredity1911a</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">guoPhenotypingPlants2014</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">mohammedReviewPlantPhenotyping</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

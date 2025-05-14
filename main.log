@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  13 MAY 2025 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  14 MAY 2025 22:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,20 +313,20 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ) (./Conclusion/conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -342,8 +342,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 12.
-Package biblatex Info: Reference segment=0 on input line 12.
+Package biblatex Info: Reference section=0 on input line 13.
+Package biblatex Info: Reference segment=0 on input line 13.
 \openout2 = `Abstract/abstract.aux'.
 
  (./Abstract/abstract.tex)
@@ -371,11 +371,13 @@ Package biblatex Info: Reference segment=0 on input line 12.
 
 
 ]
+
+[4]
 \openout2 = `Image-Processing-Techniques/image_processing_techniques.aux'.
 
  (./Image-Processing-Techniques/image_processing_techniques.tex)
 
-[4
+[5
 
 
 
@@ -387,7 +389,7 @@ houses.aux'.
 (./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.tex
 )
 
-[5
+[6
 
 
 
@@ -396,18 +398,25 @@ houses.aux'.
 
  (./Conclusion/conclusion.tex)
 
-[6
+[7
 
 
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 28.
+(Font)              <7> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 28.
+(Font)              <5> on input line 29.
+
+Overfull \hbox (2.35829pt too wide) in paragraph at lines 30--30
+\OT1/cmr/m/n/10 2014), pp. 20078{20111. \OT1/cmr/m/sc/10 issn\OT1/cmr/m/n/10 : 
+1424-8220. \OT1/cmr/m/sc/10 doi\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 10 . 3390 / 
+s141120078$\OT1/cmr/m/n/10 . PMID:
+ []
 
 
-[7
+
+[8
 
 
 ] (./main.aux (./Abstract/abstract.aux) (./Introduction/introduction.aux)
@@ -424,13 +433,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8894 strings out of 473190
- 179793 string characters out of 5715800
- 1000339 words of memory out of 5000000
- 32083 multiletter control sequences out of 15000+600000
- 560864 words of font info for 43 fonts, out of 8000000 for 9000
+ 8914 strings out of 473190
+ 180946 string characters out of 5715800
+ 1006321 words of memory out of 5000000
+ 32102 multiletter control sequences out of 15000+600000
+ 561172 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,5n,81p,1011b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,5n,81p,1285b,1333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
@@ -438,10 +447,10 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (7 pages, 88894 bytes).
+Output written on main.pdf (8 pages, 104399 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
