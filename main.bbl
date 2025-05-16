@@ -83,6 +83,57 @@
       \endverb
       \keyw{CRISPR Cas-9,genomic selection,genotypic technology,marker-assisted selection,plant breeding,Plant Phenotyping}
     \endentry
+    \entry{arnalbarbedoDigitalImageProcessing2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7b64b289446966b22b23a151244f02af}{%
+           family={Arnal\bibnamedelima Barbedo},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jayme\bibnamedelima Garcia},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b64b289446966b22b23a151244f02af}
+      \strng{fullhash}{7b64b289446966b22b23a151244f02af}
+      \strng{fullhashraw}{7b64b289446966b22b23a151244f02af}
+      \strng{bibnamehash}{7b64b289446966b22b23a151244f02af}
+      \strng{authorbibnamehash}{7b64b289446966b22b23a151244f02af}
+      \strng{authornamehash}{7b64b289446966b22b23a151244f02af}
+      \strng{authorfullhash}{7b64b289446966b22b23a151244f02af}
+      \strng{authorfullhashraw}{7b64b289446966b22b23a151244f02af}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a survey on methods that use digital image processing techniques to detect, quantify and classify plant diseases from digital images in the visible spectrum. Although disease symptoms can manifest in any part of the plant, only methods that explore visible symptoms in leaves and stems were considered. This was done for two main reasons: to limit the length of the paper and because methods dealing with roots, seeds and fruits have some peculiarities that would warrant a specific survey. The selected proposals are divided into three classes according to their objective: detection, severity quantification, and classification. Each of those classes, in turn, are subdivided according to the main technical solution used in the algorithm. This paper is expected to be useful to researchers working both on vegetable pathology and pattern recognition, providing a comprehensive and accessible overview of this important field of research.}
+      \field{day}{7}
+      \field{issn}{2193-1801}
+      \field{journaltitle}{SpringerPlus}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{SpringerPlus}
+      \field{title}{Digital Image Processing Techniques for Detecting, Quantifying and Classifying Plant Diseases}
+      \field{urlday}{11}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{660}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/2193-1801-2-660
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/DL8WQ6KR/Arnal Barbedo - 2013 - Digital image processing techniques for detecting, quantifying and classifying plant diseases.pdf;/Users/darshanpillay/Zotero/storage/PES3R4WQ/2193-1801-2-660.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/2193-1801-2-660
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/2193-1801-2-660
+      \endverb
+      \keyw{Diseased Region,image processing algorithms,plant pathology,Powdery Mildew,Radial Basis Function,Texture Feature}
+    \endentry
     \entry{fioraniFutureScenariosPlant2013}{article}{}{}
       \name{author}{2}{}{%
         {{hash=95589f8de90b846467f4f387b0d214f8}{%
