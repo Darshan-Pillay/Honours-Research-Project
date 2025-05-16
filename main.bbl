@@ -19,6 +19,70 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{anandBreedingTechniquesDispense2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d9bb1eb6a2d3470fab6efc47fefdff8e}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={Achala},
+           giveni={A\bibinitperiod}}}%
+        {{hash=542bb8bfc6257ff0265d4bc5d473109e}{%
+           family={Subramanian},
+           familyi={S\bibinitperiod},
+           given={Madhumitha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ead9be14e2d54354d09e035f897d9b76}{%
+           family={Kar},
+           familyi={K\bibinitperiod},
+           given={Debasish},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{fullhash}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{fullhashraw}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{bibnamehash}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{authorbibnamehash}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{authornamehash}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{authorfullhash}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \strng{authorfullhashraw}{5b8a7aa1f6af6052305ac6e7e36004e9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant breeding techniques encompass all the processes aimed at improving the genetic characteristics of a crop. It helps in achieving desirable characteristics like resistance to diseases and pests, tolerance to environmental stresses, higher yield and improved quality of the crop. This review article aims to describe and evaluate the current plant breeding techniques and novel methods. This qualitative review employs a comparative approach in exploring the different plant breeding techniques. Conventional plant breeding techniques were compared with modern ones to understand the advancements in plant biotechnology. Backcross breeding, mass selection, and pure-line selection were all discussed in conventional plant breeding for self-pollination and recurrent selection and hybridisation were employed for cross-pollinated crops. Modern techniques comprise of CRISPR Cas-9, high-throughput phenotyping, marker-assisted selection and genomic selection. Further, novel techniques were reviewed to gain more insight. An in-depth analysis of conventional and modern plant breeding has helped gain insight on the advantages and disadvantages of the two. Modern breeding techniques have an upper hand as they are more reliable and less time consuming. It is also more accurate as it is a genotype-based method. However, conventional breeding techniques are cost effective and require less expertise. Modern plant breeding has an upper hand as it uses genomics techniques. Techniques like QTL mapping, marker assisted breeding aid in selection of superior plants right at the seedling stage, which is impossible with conventional breeding. Unlike the conventional method, modern methods are capable of selecting recessive alleles by using different markers. Modern plant breeding is a science and therefore more reliable and accurate.}
+      \field{day}{19}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Front. Plant Sci.}
+      \field{title}{Breeding Techniques to Dispense Higher Genetic Gains}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4\bibrangedash 5}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.3389/fpls.2022.1076094
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/ABP4W8EQ/Anand et al. - 2023 - Breeding techniques to dispense higher genetic gains.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1076094/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1076094/full
+      \endverb
+      \keyw{CRISPR Cas-9,genomic selection,genotypic technology,marker-assisted selection,plant breeding,Plant Phenotyping}
+    \endentry
     \entry{fioraniFutureScenariosPlant2013}{article}{}{}
       \name{author}{2}{}{%
         {{hash=95589f8de90b846467f4f387b0d214f8}{%
@@ -281,6 +345,55 @@
       \endverb
       \verb{url}
       \verb https://www.abrinternationaljournal.org/abstract/review-on-plant-phenotyping-1102322.html
+      \endverb
+      \keyw{Plant Phenotyping}
+    \endentry
+    \entry{ortonIntroduction2020}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=2b5552182036160f072d916172054f0a}{%
+           family={Orton},
+           familyi={O\bibinitperiod},
+           given={Thomas\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2b5552182036160f072d916172054f0a}
+      \strng{fullhash}{2b5552182036160f072d916172054f0a}
+      \strng{fullhashraw}{2b5552182036160f072d916172054f0a}
+      \strng{bibnamehash}{2b5552182036160f072d916172054f0a}
+      \strng{authorbibnamehash}{2b5552182036160f072d916172054f0a}
+      \strng{authornamehash}{2b5552182036160f072d916172054f0a}
+      \strng{authorfullhash}{2b5552182036160f072d916172054f0a}
+      \strng{authorfullhashraw}{2b5552182036160f072d916172054f0a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Horticultural {{Plant Breeding}}}
+      \field{isbn}{978-0-12-815396-3}
+      \field{langid}{english}
+      \field{title}{Introduction}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-815396-3.09986-8
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/Y2F9J2IX/Orton - 2020 - Introduction.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
