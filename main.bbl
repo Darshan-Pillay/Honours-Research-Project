@@ -191,6 +191,52 @@
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
+    \entry{grimeEvidenceExistenceThree1997}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=615d76860b383a74fa25b54893e7ec56}{%
+           family={Grime},
+           familyi={G\bibinitperiod},
+           given={J.P},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{615d76860b383a74fa25b54893e7ec56}
+      \strng{fullhash}{615d76860b383a74fa25b54893e7ec56}
+      \strng{fullhashraw}{615d76860b383a74fa25b54893e7ec56}
+      \strng{bibnamehash}{615d76860b383a74fa25b54893e7ec56}
+      \strng{authorbibnamehash}{615d76860b383a74fa25b54893e7ec56}
+      \strng{authornamehash}{615d76860b383a74fa25b54893e7ec56}
+      \strng{authorfullhash}{615d76860b383a74fa25b54893e7ec56}
+      \strng{authorfullhashraw}{615d76860b383a74fa25b54893e7ec56}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Naturalist}
+      \field{number}{982}
+      \field{title}{Evidence for the {{Existence}} of {{Three Primary Strategies}} in {{Plants}} and {{Its Relevance}} to {{Ecological}} and {{Evolutionary Theory}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{111}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1169}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/283244
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/NRWJEK2M/Grime1977.pdf;/Users/darshanpillay/Zotero/storage/9QMHXV5A/283244.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.uchicago.edu/doi/abs/10.1086/283244
+      \endverb
+      \verb{url}
+      \verb https://www.journals.uchicago.edu/doi/abs/10.1086/283244
+      \endverb
+      \keyw{Plant phenotyping,Plant Stress}
+    \endentry
     \entry{guoPhenotypingPlants2014}{incollection}{}{}
       \name{author}{2}{}{%
         {{hash=6d124d2b17e3bc46830143d1320725b6}{%
@@ -245,6 +291,66 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470027318.a9934
       \endverb
       \keyw{3D laser scanner,genotype,high resolution,high throughput analysis,phenotyping,Plant Phenotyping}
+    \endentry
+    \entry{ishimweApplicationsThermalImaging2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=fd00b6ac7f5a5b54a5c9b4ec867b312c}{%
+           family={Ishimwe},
+           familyi={I\bibinitperiod},
+           given={Roselyne},
+           giveni={R\bibinitperiod}}}%
+        {{hash=49361a4e51735e72651c452b396efa99}{%
+           family={Abutaleb},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=83d195bc773f00c6a2177fd0901f02ef}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{17e2562805f581a885590dfd8380091d}
+      \strng{fullhash}{17e2562805f581a885590dfd8380091d}
+      \strng{fullhashraw}{17e2562805f581a885590dfd8380091d}
+      \strng{bibnamehash}{17e2562805f581a885590dfd8380091d}
+      \strng{authorbibnamehash}{17e2562805f581a885590dfd8380091d}
+      \strng{authornamehash}{17e2562805f581a885590dfd8380091d}
+      \strng{authorfullhash}{17e2562805f581a885590dfd8380091d}
+      \strng{authorfullhashraw}{17e2562805f581a885590dfd8380091d}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In thermal remote sensing the invisible radiation patterns of objects are converted into visible images and these images are called thermograms or thermal images. Thermal images can be acquired using portable, hand-held or thermal sensors that are coupled with optical systems mounted on an airplane or satellite. This technology is a non-invasive, non-contact and non-destructive technique used to determine thermal properties and features of any object of interest and therefore it can be used in many fields, where heat is generated or lost in space and time. Potential use of thermal remote sensing in agriculture includes nursery and greenhouse monitoring, irrigation scheduling, plants disease detection, estimating fruit yield, evaluating maturity of fruits and bruise detection in fruits and vegetables. This paper reviews the application of thermal imaging in agriculture and its potential use in various agricultural practices.}
+      \field{issn}{2169-267X, 2169-2688}
+      \field{journaltitle}{Advances in Remote Sensing}
+      \field{langid}{english}
+      \field{number}{03}
+      \field{shortjournal}{ARS}
+      \field{title}{Applications of {{Thermal Imaging}} in {{Agriculture}}—{{A Review}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{03}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{128\bibrangedash 140}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.4236/ars.2014.33011
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/SG7L7EXP/Ishimwe et al. - 2014 - Applications of Thermal Imaging in Agriculture—A Review.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ars.2014.33011
+      \endverb
+      \verb{url}
+      \verb http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ars.2014.33011
+      \endverb
+      \keyw{Plant Phenotyping,Thermal Imaging}
     \endentry
     \entry{johannsenGenotypeConceptionHeredity1911a}{article}{}{}
       \name{author}{1}{}{%
@@ -361,6 +467,43 @@
       \endverb
       \keyw{Plant phenotyping}
     \endentry
+    \entry{martinMethodsDeterminingWhen2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=bf2807d5536e528001ac9146d8a74bec}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{fullhash}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{fullhashraw}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{bibnamehash}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{authorbibnamehash}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{authornamehash}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{authorfullhash}{bf2807d5536e528001ac9146d8a74bec}
+      \strng{authorfullhashraw}{bf2807d5536e528001ac9146d8a74bec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Methods of {{Determining When}} to {{Irrigate}}}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{5}
+      \range{pages}{1}
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/I3HB28YY/Methods of Determining When to Irrigate.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://irrigationtoolbox.com/ReferenceDocuments/Extension/Arizona/az1220.pdf
+      \endverb
+      \verb{url}
+      \verb https://irrigationtoolbox.com/ReferenceDocuments/Extension/Arizona/az1220.pdf
+      \endverb
+      \keyw{Plant Phenotyping,Thermal Imaging}
+    \endentry
     \entry{mohammedReviewPlantPhenotyping}{article}{}{}
       \name{author}{1}{}{%
         {{hash=954973c6f498062beb3a313d7a2134ab}{%
@@ -447,6 +590,88 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
       \endverb
       \keyw{Plant Phenotyping}
+    \endentry
+    \entry{SensorsMeasuringPlant}{online}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensors for Measuring Plant Phenotyping: {{A}} Review}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/U4N53SQQ/Sensors for measuring plant phenotyping A review.pdf;/Users/darshanpillay/Zotero/storage/9SA77YJR/j.ijabe.20181102.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ijabe.net/cn/article/doi/10.25165/j.ijabe.20181102.2696
+      \endverb
+      \verb{url}
+      \verb http://www.ijabe.net/cn/article/doi/10.25165/j.ijabe.20181102.2696
+      \endverb
+      \keyw{Plant phenotyping technology}
+    \endentry
+    \entry{walterPlantPhenotypingBean2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=28d23497489e43cb9dd156eeb4c03984}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a87ae23efc6b6a4bad6a8547204dc67c}{%
+           family={Liebisch},
+           familyi={L\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ab49c9d89ccf6e041cfb8eeeec6ef144}{%
+           family={Hund},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{fullhash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{fullhashraw}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{bibnamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorbibnamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authornamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorfullhash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorfullhashraw}{c765b43ff439e43c61f1a453dcc76246}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Plant phenotyping refers to a quantitative description of the plant’s anatomical, ontogenetical, physiological and biochemical properties. Today, rapid developments are taking place in the field of non-destructive, image-analysis -based phenotyping that allow for a characterization of plant traits in high-throughput. During the last decade, ‘the field of image-based phenotyping has broadened its focus from the initial characterization of single-plant traits in controlled conditions towards ‘real-life’ applications of robust field techniques in plant plots and canopies. An important component of successful phenotyping approaches is the holistic characterization of plant performance that can be achieved with several methodologies, ranging from multispectral image analyses via thermographical analyses to growth measurements, also taking root phenotypes into account.}
+      \field{day}{4}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{shorttitle}{Plant Phenotyping}
+      \field{title}{Plant Phenotyping: From Bean Weighing to Image Analysis}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13007-015-0056-8
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/XWCW3GVP/Walter et al. - 2015 - Plant phenotyping from bean weighing to image analysis.pdf;/Users/darshanpillay/Zotero/storage/4C33DLE3/s13007-015-0056-8.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s13007-015-0056-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s13007-015-0056-8
+      \endverb
+      \keyw{Canopy Temperature,Chlorophyll Fluorescence,Honours Research: Introduction,Normalize Difference Vegetation Index,Plant phenotyping,Root Length Density,Unmanned Aerial Vehicle}
     \endentry
   \enddatalist
 \endrefsection

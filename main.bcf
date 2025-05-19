@@ -2382,6 +2382,11 @@
     <bcf:citekey order="7" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
     <bcf:citekey order="8" intorder="1">mohammedReviewPlantPhenotyping</bcf:citekey>
     <bcf:citekey order="9" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">walterPlantPhenotypingBean2015</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">SensorsMeasuringPlant</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">grimeEvidenceExistenceThree1997</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">martinMethodsDeterminingWhen2009</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">ishimweApplicationsThermalImaging2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
