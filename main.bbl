@@ -292,6 +292,66 @@
       \endverb
       \keyw{3D laser scanner,genotype,high resolution,high throughput analysis,phenotyping,Plant Phenotyping}
     \endentry
+    \entry{ishimweApplicationsThermalImaging2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=fd00b6ac7f5a5b54a5c9b4ec867b312c}{%
+           family={Ishimwe},
+           familyi={I\bibinitperiod},
+           given={Roselyne},
+           giveni={R\bibinitperiod}}}%
+        {{hash=49361a4e51735e72651c452b396efa99}{%
+           family={Abutaleb},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=83d195bc773f00c6a2177fd0901f02ef}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{17e2562805f581a885590dfd8380091d}
+      \strng{fullhash}{17e2562805f581a885590dfd8380091d}
+      \strng{fullhashraw}{17e2562805f581a885590dfd8380091d}
+      \strng{bibnamehash}{17e2562805f581a885590dfd8380091d}
+      \strng{authorbibnamehash}{17e2562805f581a885590dfd8380091d}
+      \strng{authornamehash}{17e2562805f581a885590dfd8380091d}
+      \strng{authorfullhash}{17e2562805f581a885590dfd8380091d}
+      \strng{authorfullhashraw}{17e2562805f581a885590dfd8380091d}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In thermal remote sensing the invisible radiation patterns of objects are converted into visible images and these images are called thermograms or thermal images. Thermal images can be acquired using portable, hand-held or thermal sensors that are coupled with optical systems mounted on an airplane or satellite. This technology is a non-invasive, non-contact and non-destructive technique used to determine thermal properties and features of any object of interest and therefore it can be used in many fields, where heat is generated or lost in space and time. Potential use of thermal remote sensing in agriculture includes nursery and greenhouse monitoring, irrigation scheduling, plants disease detection, estimating fruit yield, evaluating maturity of fruits and bruise detection in fruits and vegetables. This paper reviews the application of thermal imaging in agriculture and its potential use in various agricultural practices.}
+      \field{issn}{2169-267X, 2169-2688}
+      \field{journaltitle}{Advances in Remote Sensing}
+      \field{langid}{english}
+      \field{number}{03}
+      \field{shortjournal}{ARS}
+      \field{title}{Applications of {{Thermal Imaging}} in {{Agriculture}}—{{A Review}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{03}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{128\bibrangedash 140}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.4236/ars.2014.33011
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/SG7L7EXP/Ishimwe et al. - 2014 - Applications of Thermal Imaging in Agriculture—A Review.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ars.2014.33011
+      \endverb
+      \verb{url}
+      \verb http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ars.2014.33011
+      \endverb
+      \keyw{Plant Phenotyping,Thermal Imaging}
+    \endentry
     \entry{johannsenGenotypeConceptionHeredity1911a}{article}{}{}
       \name{author}{1}{}{%
         {{hash=51d6795360ee32ab13273ec886b70132}{%
@@ -407,6 +467,65 @@
       \endverb
       \keyw{Plant phenotyping}
     \endentry
+    \entry{lichtenthalerRoleChlorophyllFluorescence1988}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=76c8d5028a2cc68f3beb65bb53418272}{%
+           family={Lichtenthaler},
+           familyi={L\bibinitperiod},
+           given={Hartmut\bibnamedelima K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{useprefix=true,hash=d67c5054e933d99f8e4689fe939fc187}{%
+           family={Rinderle},
+           familyi={R\bibinitperiod},
+           given={Ursula},
+           giveni={U\bibinitperiod},
+           prefix={and},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{fullhash}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{fullhashraw}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{bibnamehash}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{authorbibnamehash}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{authornamehash}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{authorfullhash}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \strng{authorfullhashraw}{6f00d7e98ab637a9e112a3d8e1c590d0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0007-8980}
+      \field{issue}{sup1}
+      \field{journaltitle}{C R C Critical Reviews in Analytical Chemistry}
+      \field{month}{1}
+      \field{title}{The {{Role}} of {{Chlorophyll Fluorescence}} in {{The Detection}} of {{Stress Conditions}} in {{Plants}}}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{19}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{S29\bibrangedash S85}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1080/15476510.1988.10401466
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/3GB3KTNC/Lichtenthaler and and Rinderle - 1988 - The Role of Chlorophyll Fluorescence in The Detection of Stress Conditions in Plants.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/15476510.1988.10401466
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/15476510.1988.10401466
+      \endverb
+      \keyw{Image Acquisition,Phenotyping Sensor}
+    \endentry
     \entry{mohammedReviewPlantPhenotyping}{article}{}{}
       \name{author}{1}{}{%
         {{hash=954973c6f498062beb3a313d7a2134ab}{%
@@ -494,6 +613,212 @@
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
+    \entry{prakashTHERMALREMOTESENSING2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cd65c77f305d19bf517ae46519430aaf}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={Anupma},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{fullhash}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{fullhashraw}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{bibnamehash}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{authorbibnamehash}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{authornamehash}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{authorfullhash}{cd65c77f305d19bf517ae46519430aaf}
+      \strng{authorfullhashraw}{cd65c77f305d19bf517ae46519430aaf}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the last few decades remote sensing has reached from an experimental to an operational level. The increase in the number of earth observation satellites, the advancement in tools and processing techniques, and the use of data for new applications has been phenomenal. However, the major part of the efforts were directed in the past towards the use of optical data and now also to the use of microwave data. The available literature underlines the fact that the use of data acquired in the thermal infrared region has been relatively limited within the scientific and application community. The limited use of thermal data is linked to several facts such as the limitation of the sensor capabilities, the nature of data itself, and the reluctance of many to explore the potentials of thermal remote sensing. This paper deals with the concepts and issues of thermal remote sensing and presents a variety of applications where thermal data finds its way. The benefits and limitations of thermal data are discussed and the potential of thermal remote sensing, specially in light of future high resolution satellites, is highlighted. The paper concludes with the author's views on the importance of these aspects specially in the standard remote sensing educational programmes.}
+      \field{journaltitle}{International Archives of Photogrammetry and Remote Sensing}
+      \field{langid}{english}
+      \field{title}{{{THERMAL REMOTE SENSING}}: {{CONCEPTS}}, {{ISSUES AND APPLICATIONS}}}
+      \field{volume}{33}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{239\bibrangedash 243}
+      \range{pages}{5}
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/8LANL6P4/Prakash - THERMAL REMOTE SENSING CONCEPTS, ISSUES AND APPLICATIONS.pdf
+      \endverb
+      \keyw{Phenotyping Sensor}
+    \endentry
+    \entry{slatonEstimatingNearinfraredLeaf2001}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ccf98a06e590c1167ddd5eb39f4adc0c}{%
+           family={Slaton},
+           familyi={S\bibinitperiod},
+           given={Michèle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a8aaa80a30881b9de72649a2f235a655}{%
+           family={Raymond\bibnamedelimb Hunt\bibnamedelima Jr.},
+           familyi={R\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=745165fea5dceedef59b07cd981bdb1b}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima K.},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{543622b97616d033d059bfda96f85322}
+      \strng{fullhash}{543622b97616d033d059bfda96f85322}
+      \strng{fullhashraw}{543622b97616d033d059bfda96f85322}
+      \strng{bibnamehash}{543622b97616d033d059bfda96f85322}
+      \strng{authorbibnamehash}{543622b97616d033d059bfda96f85322}
+      \strng{authornamehash}{543622b97616d033d059bfda96f85322}
+      \strng{authorfullhash}{543622b97616d033d059bfda96f85322}
+      \strng{authorfullhashraw}{543622b97616d033d059bfda96f85322}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The relationship between near-infrared reflectance at 800 nm (NIRR) from leaves and characteristics of leaf structure known to affect photosynthesis was investigated in 48 species of alpine angiosperms. This wavelength was selected to discriminate the effects of leaf structure vs. chemical or water content on leaf reflectance. A quantitative model was first constructed correlating NIRR with leaf structural characteristics for six species, and then validated using all 48 species. Among the structural characteristics tested in the reflectance model were leaf trichome density, the presence or absence of both leaf bicoloration and a thick leaf cuticle ({$>$}1 μm), leaf thickness, the ratio of palisade mesophyll to spongy mesophyll thickness (PM/SM), the proportion of the mesophyll occupied by intercellular air spaces (\%IAS), and the ratio of mesophyll cell surface area exposed to IAS (Ames) per unit leaf surface area (A), or Ames/A. Multiple regression analysis showed that measured NIRR was highly correlated with Ames/A, leaf bicoloration, and the presence of a thick leaf cuticle (r2 = 0.93). In contrast, correlations between NIRR and leaf trichome density, leaf thickness, the PM/SM ratio, or \%IAS were relatively weak (r2 {$<$} 0.25). A model incorporating Ames/A, leaf bicoloration, and cuticle thickness predicted NIRR accurately for 48 species (r2 = 0.43; P {$<$} 0.01) and may be useful for linking remotely sensed data to plant structure and function.}
+      \field{issn}{1537-2197}
+      \field{journaltitle}{American Journal of Botany}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Estimating Near-Infrared Leaf Reflectance from Leaf Structural Characteristics}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{88}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{278\bibrangedash 284}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.2307/2657019
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/AS6SI9Q4/Slaton et al. - 2001 - Estimating near-infrared leaf reflectance from leaf structural characteristics.pdf;/Users/darshanpillay/Zotero/storage/A5ZFMXNU/2657019.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.2307/2657019
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.2307/2657019
+      \endverb
+      \keyw{Ames/A,bicoloration,Image Acquisition,leaf structure,mesophyll,near-infrared,Phenotyping Sensor,reflectance}
+    \endentry
+    \entry{tanFarredLightRegulator2022a}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=0c0123a01b093fecfcb5ee80af44f112}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Tingting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8866f445c79aa3f8bd99e10d2ac043c4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shenglan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0dec059de8d804a893a98da568690143}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Yuanfang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9a4fc32b98002569295dd8be85097fc1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhonglin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=cf3b6feeddd61ff8a4f132a373c40917}{%
+           family={Ali\bibnamedelima Raza},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=99eca37ba0fc5cd453b765e8d2765f09}{%
+           family={Shafiq},
+           familyi={S\bibinitperiod},
+           given={Iram},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7bfd12a15b465b2833eabb0849908454}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Beibei},
+           giveni={B\bibinitperiod}}}%
+        {{hash=455f36072bb09b1c857f53a0c94c3ed6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xiaoling},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7afe2fefb3cf0e2f8d32827d253f79c4}{%
+           family={Yong},
+           familyi={Y\bibinitperiod},
+           given={Taiwen},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b14042e27a7c47eb828b42f3fc8a070e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaochun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=fc47258d9d022f1886fb6e42f709c39e}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yushan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f92b99567ca18f79ac55f8db57b458f1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0cc42e4ba8eae58542b7aa6b1592e057}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wenyu},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{4081206b9f8a4d093db327f13e63f645}
+      \strng{fullhash}{fbe8dc4974e993666bda962c0285f23d}
+      \strng{fullhashraw}{fbe8dc4974e993666bda962c0285f23d}
+      \strng{bibnamehash}{4081206b9f8a4d093db327f13e63f645}
+      \strng{authorbibnamehash}{4081206b9f8a4d093db327f13e63f645}
+      \strng{authornamehash}{4081206b9f8a4d093db327f13e63f645}
+      \strng{authorfullhash}{fbe8dc4974e993666bda962c0285f23d}
+      \strng{authorfullhashraw}{fbe8dc4974e993666bda962c0285f23d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Plant photosynthetic capacity directly determines crop yield. Light quality regulates photosynthetic capacity. This review discusses plant responses to far-red light from the phenotypic to the molecular level, focusing specifically on the improvement of photosynthetic capacity by adjustment of photosynthetic electron transport and the path of light energy. Far-red light can also regulate leaf angle and increase plant height and leaf area, via expression of associated genes, to capture more light energy. Thus, far-red light regulates plant morphology and photosynthetic capacity. Identifying the mechanism of this regulation may lead to increased crop yields.}
+      \field{issn}{2214-5141}
+      \field{journaltitle}{The Crop Journal}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Far-Red Light}
+      \field{title}{Far-Red Light: {{A}} Regulator of Plant Morphology and Photosynthetic Capacity}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{300\bibrangedash 309}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.cj.2021.06.007
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/ESAA8IPD/Tan et al. - 2022 - Far-red light A regulator of plant morphology and photosynthetic capacity.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2214514121001501
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2214514121001501
+      \endverb
+    \endentry
     \entry{violleLetConceptTrait2007}{article}{}{}
       \name{author}{7}{}{%
         {{hash=8f524674b7870bae7bfbc772ee46b984}{%
@@ -574,6 +899,7 @@
       \keyw{Plant Phenotyping}
     \endentry
   \enddatalist
+  \missing{saricApplicationsHyperspectralI}
 \endrefsection
 \endinput
 

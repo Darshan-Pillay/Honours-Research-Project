@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  21 MAY 2025 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  22 MAY 2025 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,7 +341,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
-(./main.bbl)
+(./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                saricApplicationsHyperspectralI
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 13.
 Package biblatex Info: Reference segment=0 on input line 13.
 \openout2 = `Abstract/abstract.aux'.
@@ -380,13 +388,26 @@ Package biblatex Info: Reference segment=0 on input line 13.
 [6]
 \openout2 = `Image-Processing-Techniques/image_processing_techniques.aux'.
 
- (./Image-Processing-Techniques/image_processing_techniques.tex)
+ (./Image-Processing-Techniques/image_processing_techniques.tex
 
 [7
 
 
 
 ]
+
+LaTeX Warning: Citation 'saricApplicationsHyperspectralI' on page 8 undefined o
+n input line 37.
+
+
+Overfull \hbox (1.55615pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/m/n/10 Any stress or dis-tur-bance can in-di-rectly or di-rectly af-
+fect plant metabolism,
+ []
+
+)
+
+[8]
 \openout2 = `Applications-In-LowCost-Greenhouses/applications_in_low_cost_green
 houses.aux'.
 
@@ -394,7 +415,7 @@ houses.aux'.
 (./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.tex
 )
 
-[8
+[9
 
 
 
@@ -403,7 +424,7 @@ houses.aux'.
 
  (./Conclusion/conclusion.tex)
 
-[9
+[10
 
 
 
@@ -435,12 +456,18 @@ c/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / www . ncbi . nlm . nih
 
 
 
-[10
+[11
 
 
 ]
+Overfull \hbox (6.05276pt too wide) in paragraph at lines 30--30
+\OT1/cmtt/m/n/10 https : / / linkinghub . elsevier . com / retrieve / pii / S22
+14514121001501$
+ []
 
-[11] (./main.aux (./Abstract/abstract.aux) (./Introduction/introduction.aux)
+
+
+[12] (./main.aux (./Abstract/abstract.aux) (./Introduction/introduction.aux)
 (./Plant-Phenotyping/plant_phenotyping.aux)
 (./Image-Processing-Techniques/image_processing_techniques.aux)
 (./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.aux
@@ -454,10 +481,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8947 strings out of 473190
- 182365 string characters out of 5715800
- 1012808 words of memory out of 5000000
- 32133 multiletter control sequences out of 15000+600000
+ 8974 strings out of 473190
+ 183669 string characters out of 5715800
+ 1012405 words of memory out of 5000000
+ 32160 multiletter control sequences out of 15000+600000
  561507 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,5n,81p,1968b,1331s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -470,10 +497,10 @@ r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/loc
 al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (11 pages, 140298 bytes).
+Output written on main.pdf (12 pages, 144860 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
