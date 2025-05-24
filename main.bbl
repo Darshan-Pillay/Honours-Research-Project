@@ -134,6 +134,101 @@
       \endverb
       \keyw{Diseased Region,image processing algorithms,plant pathology,Powdery Mildew,Radial Basis Function,Texture Feature}
     \endentry
+    \entry{duGreenhousebasedVegetableHighthroughput2021}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=d465f5408f9c8d32375153e6413b1662}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Jianjun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7f598652a766bfadbf8e79d1d1e23c61}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Jiangchuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9bda51178ae82b5ceb74e7fec13a7b24}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuanyu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5effb3d576a91bdce962b11f8530e951}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Xianju},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f5acec98b29ee91fa6b08b85a6a0adad}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8142ed2a3512f27b21b9e84a3cd965ac}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Weiliang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=0e17ed8f1edc0a56653f6eb8f0796303}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Shengjin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=81eb805b83c219e6e3578a323252de25}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiaozeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1695e401c159b3f047b8497eb5113561}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Xinyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=cd33bc2a189b96b115b62306707221c6}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Chunjiang},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{25d5aae80d0fea9189f00058943867bb}
+      \strng{fullhash}{497f7faccd3163cb5da3befd40927f78}
+      \strng{fullhashraw}{497f7faccd3163cb5da3befd40927f78}
+      \strng{bibnamehash}{25d5aae80d0fea9189f00058943867bb}
+      \strng{authorbibnamehash}{25d5aae80d0fea9189f00058943867bb}
+      \strng{authornamehash}{25d5aae80d0fea9189f00058943867bb}
+      \strng{authorfullhash}{497f7faccd3163cb5da3befd40927f78}
+      \strng{authorfullhashraw}{497f7faccd3163cb5da3befd40927f78}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Large-scale screening and assessment of lettuce resources are valuable to help discover significant traits and assist in genetic breeding. In this research, a greenhouse-based vegetable high-throughput phenotyping platform (VHPP) was established to evaluate the multidimensional characteristics of various lettuce varieties. The platform contains an imaging unit with four degrees of freedom (DOFs) to cruise on the crop overhead for image acquisition. The platform also has an automated global semantic phenotyping pipeline (GSPP) for locating pots in sequential images and matching each plant at different growth points. Multidimensional image-based traits were automatically extracted and classified into six categories, including geometry, structure, texture, color, color moment and color indices. We calculated and evaluated 63 static traits (ST) and 189 dynamic traits (DT) by principal component (PC), correlation and heritability analysis, and new PCs provided valuable perspective in describing the lettuce canopy. The results demonstrated the ability of a phenotyping system and pipeline to rapidly investigate and evaluate the growth status of thousands of vegetables. Besides, we identified lots of valuable traits that could be of positive significance in revealing the genetic basis of complex features and exploring the excellent attributes for use in the large-scale lettuce screening and assessment.}
+      \field{issn}{01681699}
+      \field{journaltitle}{Computers and Electronics in Agriculture}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shortjournal}{Computers and Electronics in Agriculture}
+      \field{title}{Greenhouse-Based Vegetable High-Throughput Phenotyping Platform and Trait Evaluation for Large-Scale Lettuces}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{186}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{106193}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compag.2021.106193
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/MGFIXBZX/Du et al. - 2021 - Greenhouse-based vegetable high-throughput phenotyping platform and trait evaluation for large-scale.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0168169921002106
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0168169921002106
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
     \entry{fioraniFutureScenariosPlant2013}{article}{}{}
       \name{author}{2}{}{%
         {{hash=95589f8de90b846467f4f387b0d214f8}{%
@@ -402,6 +497,295 @@
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
+    \entry{kimDevelopmentLowcostAutomated2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e3573ea7ea5e2e585dbd09c660642edd}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yonghyun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=038dcd3f9e7b1b8b5d801db8a113156c}{%
+           family={Barnaby},
+           familyi={B\bibinitperiod},
+           given={Jinyoung\bibnamedelima Y.},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=46eb58992a22992a02a83ff82900b781}{%
+           family={Warnke},
+           familyi={W\bibinitperiod},
+           given={Scott\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{fullhash}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{fullhashraw}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{bibnamehash}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{authorbibnamehash}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{authornamehash}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{authorfullhash}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \strng{authorfullhashraw}{d0fa88c5c11fb06c3662fe383c853ea4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Extreme weather events due to climate change threaten sustainable crop production and quality, and developing crop varieties with resilient yield and quality traits through breeding is needed. One of the major issues for turfgrass management is excessive water use for irrigation. In the face of climate change, water availability is becoming increasingly limited and more costly, and water conservation in turfgrass culture has become extremely important; development of drought tolerant turfgrass germplasm is therefore critical. Precise phenotypic assessment of large mapping populations, comprising a few thousand plants, is time-consuming and labor-intensive. Depending on the trait being phenotyped, results may be subjectively assessed and variable due to environmental effects. This is particularly the case when evaluating genetic responses to stresses which may involve multiple measurements over time as well as a range of induced stress levels. A machine learning (ML)-based imaging analysis system offers an efficient and precise means to capture temporal progression of stress symptoms within a large genetic population that can be interpreted through computer vision algorithms. In this study, we developed an automatic image analysis system through ML methods that can automatically (1) capture images, (2) segment an image containing numerous plants into sub-images with individual turfgrass plants, (3) label each image with the corresponding sample information, (4) quantify stress symptoms (i.e. percent green cover), and (5) classify breeding lines based on the progression pattern of drought stress symptoms. This system enabled effective and precise evaluation of genetic performance of drought tolerance based on temporal progression of drought symptoms in a large turfgrass hybrid population (about 1,000 lines including three replications), with a processing time to quantify drought stress symptoms from 345,600 images was accomplished within 30~min. Such a machine learning (ML)-based imaging processing/analysis platform along with a low-cost automated greenhouse-based RGB imaging system can significantly boost the effectiveness of germplasm evaluation, quantitative trait locus (QTL) mapping and candidate gene identification to develop potential molecular markers that will aid in faster development of improved germplasm.}
+      \field{day}{1}
+      \field{issn}{0168-1699}
+      \field{journaltitle}{Computers and Electronics in Agriculture}
+      \field{month}{9}
+      \field{shortjournal}{Computers and Electronics in Agriculture}
+      \field{title}{Development of a Low-Cost Automated Greenhouse Imaging System with Machine Learning-Based Processing for Evaluating Genetic Performance of Drought Tolerance in a Bentgrass Hybrid Population}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{224}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{108896}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compag.2024.108896
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/SEJBL6QC/Kim et al. - 2024 - Development of a low-cost automated greenhouse imaging system with machine learning-based processing.pdf;/Users/darshanpillay/Zotero/storage/L9Y9SAZS/S0168169924002874.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168169924002874
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168169924002874
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses,Bentgrass Hybrid Population,Drought,Germplasm Evaluation,Good example of introduction,High-Throughput Phenotyping System,Machine Learning,Methodology}
+    \endentry
+    \entry{laxmanNoninvasiveQuantificationTomato2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=2d13925b434efe35513f054359740891}{%
+           family={Laxman},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1caac02a4e8ffef54b9665c5112408ea}{%
+           family={Hemamalini},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=df0e53522844ed116a76ab616cb0a130}{%
+           family={Bhatt},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e95748b88c69bc59caad5757c58ef6c4}{%
+           family={Sadashiva},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{90ff2d1f6b73b14a46a3988c89ef0b95}
+      \strng{fullhash}{4b98428251d174a8e6d6530295d92d4e}
+      \strng{fullhashraw}{4b98428251d174a8e6d6530295d92d4e}
+      \strng{bibnamehash}{90ff2d1f6b73b14a46a3988c89ef0b95}
+      \strng{authorbibnamehash}{90ff2d1f6b73b14a46a3988c89ef0b95}
+      \strng{authornamehash}{90ff2d1f6b73b14a46a3988c89ef0b95}
+      \strng{authorfullhash}{4b98428251d174a8e6d6530295d92d4e}
+      \strng{authorfullhashraw}{4b98428251d174a8e6d6530295d92d4e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Phenotyping approaches, using high throughput imaging techniques, are being adopted over the traditional methodologies which are manpower intensive, time consuming and low throughput. However, the effectiveness of high throughput plant phenotyping through imaging in plant phenomics facility essentially requires establishing relationship between plant areas quantified through imaging and the actual biomass. The present study was conducted with an aim to standardise the methodology for digital quantification of tomato biomass using plant phenomics facility. A strong linear relationship was observed between the actual tomato plant fresh mass, digital biomass and projected shoot area. The correlations between plant fresh mass, plant digital biomass and projected shoot area were highly significant at 30, 45 and 60~days after transplanting, but at 75~days no correlation was observed. Hence, the present study clearly demonstrated that the growth of tomato plants could be monitored through digital imaging using either projected shoot area or digital biomass till 60~days after transplanting across genotypes for high throughput phenotyping.}
+      \field{day}{1}
+      \field{issn}{0974-0252}
+      \field{journaltitle}{Indian Journal of Plant Physiology}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{Ind J Plant Physiol.}
+      \field{title}{Non-Invasive Quantification of Tomato ({{Solanum}} Lycopersicum {{L}}.) Plant Biomass through Digital Imaging Using Phenomics Platform}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{369\bibrangedash 375}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s40502-018-0374-8
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/4JC7VIDD/Laxman et al. - 2018 - Non-invasive quantification of tomato (Solanum lycopersicum L.) plant biomass through digital imagin.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s40502-018-0374-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s40502-018-0374-8
+      \endverb
+      \keyw{Digital biomass,Digital imaging,Horticulture,Image analysis,Introduction,Model plants,Phenology,Plant Biotechnology,Plant Development,Plant phenomics,Projected shoot area,Time-lapse Imaging}
+    \endentry
+    \entry{liHighThroughputPlantPhenotyping2021}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=8d323f8cc1207ad5262240e6a1eaa2cb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Daoliang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=136a533563b0d7fab4b1278d885f3d2b}{%
+           family={Quan},
+           familyi={Q\bibinitperiod},
+           given={Chaoqun},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bff051b68c0963be4ed03aca2f32ef43}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Zhaoyang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=09e1a64c667557dd7866bc4e66d193ce}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=374d7db0f1c7b647caf6a8d5d818b226}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Guanghui},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0fa86ce76f38abb4293116ef56b787fa}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6313646d6385a36a9f496b39b3c1de39}{%
+           family={Muhammad},
+           familyi={M\bibinitperiod},
+           given={Akhter},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{40bed3fbad39caebdbbbcf8f5979c20f}
+      \strng{fullhash}{4a8aeeed21ef081ee68595bb6be6c74c}
+      \strng{fullhashraw}{4a8aeeed21ef081ee68595bb6be6c74c}
+      \strng{bibnamehash}{40bed3fbad39caebdbbbcf8f5979c20f}
+      \strng{authorbibnamehash}{40bed3fbad39caebdbbbcf8f5979c20f}
+      \strng{authornamehash}{40bed3fbad39caebdbbbcf8f5979c20f}
+      \strng{authorfullhash}{4a8aeeed21ef081ee68595bb6be6c74c}
+      \strng{authorfullhashraw}{4a8aeeed21ef081ee68595bb6be6c74c}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Food scarcity, population growth, and global climate change have propelled crop yield growth driven by high-throughput phenotyping into the era of big data. However, access to large-scale phenotypic data has now become a critical barrier that phenomics urgently must overcome. Fortunately, the high-throughput plant phenotyping platform (HT3P), employing advanced sensors and data collection systems, can take full advantage of non-destructive and high-throughput methods to monitor, quantify, and evaluate specific phenotypes for large-scale agricultural experiments, and it can effectively perform phenotypic tasks that traditional phenotyping could not do. In this way, HT3Ps are novel and powerful tools, for which various commercial, customized, and even self-developed ones have been recently introduced in rising numbers. Here, we review these HT3Ps in nearly 7 years from greenhouses and growth chambers to the field, and from ground-based proximal phenotyping to aerial large-scale remote sensing. Platform configurations, novelties, operating modes, current developments, as well the strengths and weaknesses of diverse types of HT3Ps are thoroughly and clearly described. Then, miscellaneous combinations of HT3Ps for comparative validation and comprehensive analysis are systematically present, for the first time. Finally, we consider current phenotypic challenges and provide fresh perspectives on future development trends of HT3Ps. This review aims to provide ideas, thoughts, and insights for the optimal selection, exploitation, and utilization of HT3Ps, and thereby pave the way to break through current phenotyping bottlenecks in botany.}
+      \field{day}{13}
+      \field{issn}{2296-4185}
+      \field{journaltitle}{Frontiers in Bioengineering and Biotechnology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Front. Bioeng. Biotechnol.}
+      \field{title}{High-{{Throughput Plant Phenotyping Platform}} ({{HT3P}}) as a {{Novel Tool}} for {{Estimating Agronomic Traits From}} the {{Lab}} to the {{Field}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{623705}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fbioe.2020.623705
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/C5PVPC7T/Li et al. - 2021 - High-Throughput Plant Phenotyping Platform (HT3P) as a Novel Tool for Estimating Agronomic Traits Fr.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fbioe.2020.623705/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fbioe.2020.623705/full
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
+    \entry{liDigitizationVisualizationGreenhouse2015}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=5d347014590ab2d9450a92400b1f5f00}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dawei},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4363387d4c987928994b605137db857b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lihong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0cddda4271c99cd04eb73a79ad30ec0a}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Chengxiang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9671393fe336ad87eeb90db0bbb925d2}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Erik\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5e68cac7142f2ccd26dfc309f502a74d}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Daichang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=df84ad902cd7ecf26190c13edd50d0b0}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Longjiao},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{34744ed22b7e1b591e0dcfff89ba3714}
+      \strng{fullhash}{e67df5d359d331cf080ec89f5dbbafa0}
+      \strng{fullhashraw}{e67df5d359d331cf080ec89f5dbbafa0}
+      \strng{bibnamehash}{34744ed22b7e1b591e0dcfff89ba3714}
+      \strng{authorbibnamehash}{34744ed22b7e1b591e0dcfff89ba3714}
+      \strng{authornamehash}{34744ed22b7e1b591e0dcfff89ba3714}
+      \strng{authorfullhash}{e67df5d359d331cf080ec89f5dbbafa0}
+      \strng{authorfullhashraw}{e67df5d359d331cf080ec89f5dbbafa0}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper is concerned with the digitization and visualization of potted greenhouse tomato plants in indoor environments. For the digitization, an inexpensive and efficient commercial stereo sensor—a Microsoft Kinect—is used to separate visual information about tomato plants from background. Based on the Kinect, a 4-step approach that can automatically detect and segment stems of tomato plants is proposed, including acquisition and preprocessing of image data, detection of stem segments, removing false detections and automatic segmentation of stem segments. Correctly segmented texture samples including stems and leaves are then stored in a texture database for further usage. Two types of tomato plants—the cherry tomato variety and the ordinary variety are studied in this paper. The stem detection accuracy (under a simulated greenhouse environment) for the cherry tomato variety is 98.4\% at a true positive rate of 78.0\%, whereas the detection accuracy for the ordinary variety is 94.5\% at a true positive of 72.5\%. In visualization, we combine L-system theory and digitized tomato organ texture data to build realistic 3D virtual tomato plant models that are capable of exhibiting various structures and poses in real time. In particular, we also simulate the growth process on virtual tomato plants by exerting controls on two L-systems via parameters concerning the age and the form of lateral branches. This research may provide useful visual cues for improving intelligent greenhouse control systems and meanwhile may facilitate research on artificial organisms.}
+      \field{issn}{1424-8220}
+      \field{issue}{2}
+      \field{journaltitle}{Sensors}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Digitization and {{Visualization}} of {{Greenhouse Tomato Plants}} in {{Indoor Environments}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4019\bibrangedash 4051}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.3390/s150204019
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/V9Z93DSA/Li et al. - 2015 - Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/15/2/4019
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/15/2/4019
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses,greenhouse climate control,L-system,plant digitization,plant visualization,stem detection,tomato plant}
+    \endentry
     \entry{liReviewImagingTechniques2014}{article}{}{}
       \name{author}{3}{}{%
         {{hash=ad7517ebe80619f75e6261e4aae4f0e1}{%
@@ -526,6 +910,67 @@
       \endverb
       \keyw{Image Acquisition,Phenotyping Sensor}
     \endentry
+    \entry{minerviniImageAnalysisNew2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3b6aaf2559b35d08cdc003f3871bd6d0}{%
+           family={Minervini},
+           familyi={M\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b81fba05da4550e3b3fdad84305dd27a}{%
+           family={Scharr},
+           familyi={S\bibinitperiod},
+           given={Hanno},
+           giveni={H\bibinitperiod}}}%
+        {{hash=837d1f71e1b92108907a6b40b27bc9b8}{%
+           family={Tsaftaris},
+           familyi={T\bibinitperiod},
+           given={Sotirios\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{fullhash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{fullhashraw}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{bibnamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authorbibnamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authornamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authorfullhash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authorfullhashraw}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1053-5888, 1558-0792}
+      \field{journaltitle}{IEEE Signal Processing Magazine}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{4}
+      \field{shortjournal}{IEEE Signal Process. Mag.}
+      \field{shorttitle}{Image {{Analysis}}}
+      \field{title}{Image {{Analysis}}: {{The New Bottleneck}} in {{Plant Phenotyping}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{32}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{126\bibrangedash 131}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MSP.2015.2405111
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/ZLBZAMQM/Minervini et al. - 2015 - Image Analysis The New Bottleneck in Plant Phenotyping [Applications Corner].pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/7123050/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/7123050/
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
     \entry{mohammedReviewPlantPhenotyping}{article}{}{}
       \name{author}{1}{}{%
         {{hash=954973c6f498062beb3a313d7a2134ab}{%
@@ -613,6 +1058,59 @@
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
+    \entry{paulusMeasuringCrops3D2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3e8d4812bd2a56cbaec295c7ece6f091}{%
+           family={Paulus},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{fullhash}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{fullhashraw}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{bibnamehash}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{authorbibnamehash}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{authornamehash}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{authorfullhash}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \strng{authorfullhashraw}{3e8d4812bd2a56cbaec295c7ece6f091}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Using 3D sensing for plant phenotyping has risen within the last years. This review provides an overview on 3D traits for the demands of plant phenotyping considering different measuring techniques, derived traits and use-cases of biological applications. A comparison between a high resolution 3D measuring device and an established measuring tool, the leaf meter, is shown to categorize the possible measurement accuracy. Furthermore, different measuring techniques such as laser triangulation, structure from motion, time-of-flight, terrestrial laser scanning or structured light approaches enable the assessment of plant traits such as leaf width and length, plant size, volume and development on plant and organ level. The introduced traits were shown with respect to the measured plant types, the used measuring technique and the link to their biological use case. These were trait and growth analysis for measurements over time as well as more complex investigation on water budget, drought responses and QTL (quantitative trait loci) analysis. The used processing pipelines were generalized in a 3D point cloud processing workflow showing the single processing steps to derive plant parameters on plant level, on organ level using machine learning or over time using time series measurements. Finally the next step in plant sensing, the fusion of different sensor types namely 3D and spectral measurements is introduced by an example on sugar beet. This multi-dimensional plant model is the key to model the influence of geometry on radiometric measurements and to correct it. This publication depicts the state of the art for 3D measuring of plant traits as they were used in plant phenotyping regarding how the data is acquired, how this data is processed and what kind of traits is measured at the single plant, the miniplot, the experimental field and the open field scale. Future research will focus on highly resolved point clouds on the experimental and field scale as well as on the automated trait extraction of organ traits to track organ development at these scales.}
+      \field{day}{3}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{shorttitle}{Measuring Crops in {{3D}}}
+      \field{title}{Measuring Crops in {{3D}}: Using Geometry for Plant Phenotyping}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{103}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13007-019-0490-0
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/TZXKPNBE/Paulus - 2019 - Measuring crops in 3D using geometry for plant phenotyping.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s13007-019-0490-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s13007-019-0490-0
+      \endverb
+      \keyw{3D plant scanning,Agronomy,Model plants,Parameterization,Plant Breeding,Plant Development,Plant model,Plant Physiology,Plant traits,Point cloud,Three-Dimensional Imaging}
+    \endentry
     \entry{prakashTHERMALREMOTESENSING2000}{article}{}{}
       \name{author}{1}{}{%
         {{hash=cd65c77f305d19bf517ae46519430aaf}{%
@@ -646,6 +1144,166 @@
       \verb /Users/darshanpillay/Zotero/storage/8LANL6P4/Prakash - THERMAL REMOTE SENSING CONCEPTS, ISSUES AND APPLICATIONS.pdf
       \endverb
       \keyw{Phenotyping Sensor}
+    \endentry
+    \entry{saddikMappingAgriculturalSoil}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=e759a09ca289adcb5c2eada5faefde26}{%
+           family={Saddik},
+           familyi={S\bibinitperiod},
+           given={Amine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28d0e8ef98dbd2f274eda5c44b8df465}{%
+           family={Latif},
+           familyi={L\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ffa3fa8f17088e72e458ceb82b9eadb3}{%
+           family={Taher},
+           familyi={T\bibinitperiod},
+           given={Fatma},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4371640b8e1436fee98e854f4134f165}{%
+           family={El\bibnamedelima Ouardi},
+           familyi={E\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Abdelhafid},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7cb6ffb56069e2d3e3c9c807318ee433}{%
+           family={Elhoseny},
+           familyi={E\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{0358cb904d2ba27bb257c1e0b0a11f44}
+      \strng{fullhash}{2edc1957c27863194b9e46095a6f5f4e}
+      \strng{fullhashraw}{2edc1957c27863194b9e46095a6f5f4e}
+      \strng{bibnamehash}{0358cb904d2ba27bb257c1e0b0a11f44}
+      \strng{authorbibnamehash}{0358cb904d2ba27bb257c1e0b0a11f44}
+      \strng{authornamehash}{0358cb904d2ba27bb257c1e0b0a11f44}
+      \strng{authorfullhash}{2edc1957c27863194b9e46095a6f5f4e}
+      \strng{authorfullhashraw}{2edc1957c27863194b9e46095a6f5f4e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Our work is focused on developing an autonomous robot to monitor greenhouses and large fields. This system is designed to operate autonomously to extract useful information from the plants based on precise GPS localization. The proposed robot is based on an RGB camera for plant detection and a multispectral camera for extracting the different special bands for processing, and an embedded architecture integrating a Nvidia Jetson Nano, which allows us to perform the required processing. Our system uses a multi-sensor fusion to manage two parts of the algorithm. Therefore, the proposed algorithm was partitioned on the CPU-GPU embedded architecture. This allows us to process each image in 1.94 s in a sequential implementation on the embedded architecture. The approach followed in our implementation is based on a Hardware/Software Co-Design study to propose an optimal implementation. The experiments were conducted on a tomato farm, and the system showed that we can process different images in real time. The parallel implementation allows to process each image in 36 ms allowing us to satisfy the real-time constraints based on 5 images/s. On a laptop, we have a total processing time of 604 ms for the sequential implementation and 9 ms for the parallel processing. In this context, we obtained an acceleration factor of 66 for the laptop and 54 for the embedded architecture. The energy consumption evaluation showed that the prototyped system consumes a power between 4 W and 8 W. For this raison, in our case, we opted a low-cost embedded architecture based on Nvidia Jetson Nano.}
+      \field{issn}{2071-1050}
+      \field{issue}{23}
+      \field{journaltitle}{Sustainability}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{23}
+      \field{title}{Mapping {{Agricultural Soil}} in {{Greenhouse Using}} an {{Autonomous Low-Cost Robot}} and {{Precise Monitoring}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{15539}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su142315539
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/YYPVISKZ/Saddik et al. - 2022 - Mapping Agricultural Soil in Greenhouse Using an Autonomous Low-Cost Robot and Precise Monitoring.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/14/23/15539
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/14/23/15539
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses,autonomous robot,embedded architecture,energy,GPS localization,greenhouses,multi-sensor fusion,multispectral camera,real-time}
+    \endentry
+    \entry{saricApplicationsHyperspectralImaging2022}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=0e51b4e3777c66c9dbdb9e737ac81617}{%
+           family={Sarić},
+           familyi={S\bibinitperiod},
+           given={Rijad},
+           giveni={R\bibinitperiod}}}%
+        {{hash=63ef28e6f62e135cac3505fabdad6119}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Viet\bibnamedelima D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b6614f5ca219c6baf53538911dfa83bb}{%
+           family={Burge},
+           familyi={B\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=433d55764240aeeb69d9d83881151603}{%
+           family={Berkowitz},
+           familyi={B\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=714ad71c6c600ffdc50d62cc77876a9e}{%
+           family={Trtílek},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f75e2c4dcba352dee28aca3900ff38aa}{%
+           family={Whelan},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=211d11e667d105a1bd8b3c12dc7968ec}{%
+           family={Lewsey},
+           familyi={L\bibinitperiod},
+           given={Mathew\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=69ee8823ed7a52179fe01ba8cc2cdd08}{%
+           family={Čustović},
+           familyi={Č\bibinitperiod},
+           given={Edhem},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6af0547170b3cde5db2d6e36133719f9}
+      \strng{fullhash}{87c5e1dd53a5cbe65ff19932882f4dcb}
+      \strng{fullhashraw}{87c5e1dd53a5cbe65ff19932882f4dcb}
+      \strng{bibnamehash}{6af0547170b3cde5db2d6e36133719f9}
+      \strng{authorbibnamehash}{6af0547170b3cde5db2d6e36133719f9}
+      \strng{authornamehash}{6af0547170b3cde5db2d6e36133719f9}
+      \strng{authorfullhash}{87c5e1dd53a5cbe65ff19932882f4dcb}
+      \strng{authorfullhashraw}{87c5e1dd53a5cbe65ff19932882f4dcb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Our ability to interrogate and manipulate the genome far exceeds our capacity to measure the effects of genetic changes on plant traits. Much effort has been made recently by the plant science research community to address this imbalance. The responses of plants to environmental conditions can now be defined using a variety of imaging approaches. Hyperspectral imaging (HSI) has emerged as a promising approach to measure traits using a wide range of wavebands simultaneously in 3D to capture information in lab, glasshouse, or field settings. HSI has been applied to define abiotic, biotic, and quality traits for optimisation of crop management.}
+      \field{day}{1}
+      \field{issn}{1360-1385}
+      \field{journaltitle}{Trends in Plant Science}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Trends in Plant Science}
+      \field{title}{Applications of Hyperspectral Imaging in Plant Phenotyping}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{301\bibrangedash 315}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.tplants.2021.12.003
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/C8YUDA7K/Sarić et al. - 2022 - Applications of hyperspectral imaging in plant phenotyping.pdf;/Users/darshanpillay/Zotero/storage/XP8EWMR8/S1360138521003460.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1360138521003460
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1360138521003460
+      \endverb
+      \keyw{hyperspectral imaging,noninvasive imaging,Phenotyping Sensor,plant phenotyping,traits}
     \endentry
     \entry{slatonEstimatingNearinfraredLeaf2001}{article}{}{}
       \name{author}{3}{}{%
@@ -819,6 +1477,190 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2214514121001501
       \endverb
     \endentry
+    \entry{tovarRaspberryPiPowered2018a}{article}{}{}
+      \name{author}{12}{}{%
+        {{hash=25830183be4d70cf486baed7817fe02d}{%
+           family={Tovar},
+           familyi={T\bibinitperiod},
+           given={Jose\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=77e67d6f369df89b24d35a08ab074ad4}{%
+           family={Hoyer},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi Steen},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8d15464809881482e43f43697b02e415}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=81e39c0fbda586c62a4c33204b4d3c95}{%
+           family={Tielking},
+           familyi={T\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=857a5796c4a7e8f3ab1c166ffbcc28da}{%
+           family={Callen},
+           familyi={C\bibinitperiod},
+           given={Steven\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=594ec7d10bfc6aad612377de19e28468}{%
+           family={Elizabeth\bibnamedelima Castillo},
+           familyi={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8f0c34c8cdd5cdaafe9a245ce4e6a144}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cfea455b3e3d4b50ef282f33fc0d2071}{%
+           family={Tessman},
+           familyi={T\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3c46fd7e43fd3e552fd44dff2873749e}{%
+           family={Fahlgren},
+           familyi={F\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fd542b8cf21cf3f0ac1d45c703689852}{%
+           family={Carrington},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=72403d16f30891667fb0204569561f1c}{%
+           family={Nusinow},
+           familyi={N\bibinitperiod},
+           given={Dmitri\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4f0901842b5521e092f7d44b66962fde}{%
+           family={Gehan},
+           familyi={G\bibinitperiod},
+           given={Malia\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4503934697ebc1ff39114a83d83755af}
+      \strng{fullhash}{e4f3d0aeab4f96aea446be7aa6d79ce9}
+      \strng{fullhashraw}{e4f3d0aeab4f96aea446be7aa6d79ce9}
+      \strng{bibnamehash}{4503934697ebc1ff39114a83d83755af}
+      \strng{authorbibnamehash}{4503934697ebc1ff39114a83d83755af}
+      \strng{authornamehash}{4503934697ebc1ff39114a83d83755af}
+      \strng{authorfullhash}{e4f3d0aeab4f96aea446be7aa6d79ce9}
+      \strng{authorfullhashraw}{e4f3d0aeab4f96aea446be7aa6d79ce9}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Premise of the Study Image-based phenomics is a powerful approach to capture and quantify plant diversity. However, commercial platforms that make consistent image acquisition easy are often cost-prohibitive. To make high-throughput phenotyping methods more accessible, low-cost microcomputers and cameras can be used to acquire plant image data. Methods and Results We used low-cost Raspberry Pi computers and cameras to manage and capture plant image data. Detailed here are three different applications of Raspberry Pi–controlled imaging platforms for seed and shoot imaging. Images obtained from each platform were suitable for extracting quantifiable plant traits (e.g., shape, area, height, color) en masse using open-source image processing software such as PlantCV. Conclusions This protocol describes three low-cost platforms for image acquisition that are useful for quantifying plant diversity. When coupled with open-source image processing tools, these imaging platforms provide viable low-cost solutions for incorporating high-throughput phenomics into a wide range of research programs.}
+      \field{issn}{2168-0450}
+      \field{journaltitle}{Applications in Plant Sciences}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{Raspberry {{Pi}}–Powered Imaging for Plant Phenotyping}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e1031}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/aps3.1031
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/9DBGXHB2/Tovar et al. - 2018 - Raspberry Pi–powered imaging for plant phenotyping.pdf;/Users/darshanpillay/Zotero/storage/3IT9RBV9/aps3.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/aps3.1031
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/aps3.1031
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses,imaging,low-cost phenotyping,morphology,Raspberry Pi}
+    \endentry
+    \entry{vadezLeasyScanNovelConcept2015}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=7ba90c1d657c601c3bb01aa3dcc83e07}{%
+           family={Vadez},
+           familyi={V\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a01bfd37d2dc7512f123f459731a2b6b}{%
+           family={Kholová},
+           familyi={K\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b1694260c51ab16aa573318b85487c7c}{%
+           family={Hummel},
+           familyi={H\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2f18156771800b0659b567fb7d37a340}{%
+           family={Zhokhavets},
+           familyi={Z\bibinitperiod},
+           given={Uladzimir},
+           giveni={U\bibinitperiod}}}%
+        {{hash=ce6485123ecc3103cef2a56d947b4e08}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a3e4d8f129b8840cfd83b7fa3ea9ecb3}{%
+           family={Hash},
+           familyi={H\bibinitperiod},
+           given={C.\bibnamedelimi Tom},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
+      \strng{namehash}{b77cb8ef89249e4a77962aaf44cb897b}
+      \strng{fullhash}{2416bbae327de416621caa208676ebbe}
+      \strng{fullhashraw}{2416bbae327de416621caa208676ebbe}
+      \strng{bibnamehash}{b77cb8ef89249e4a77962aaf44cb897b}
+      \strng{authorbibnamehash}{b77cb8ef89249e4a77962aaf44cb897b}
+      \strng{authornamehash}{b77cb8ef89249e4a77962aaf44cb897b}
+      \strng{authorfullhash}{2416bbae327de416621caa208676ebbe}
+      \strng{authorfullhashraw}{2416bbae327de416621caa208676ebbe}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this paper, we describe the thought process and initial data behind the development of an imaging platform (LeasyScan) combined with lysimetric capacity, to assess canopy traits affecting water use (leaf area, leaf area index, transpiration). LeasyScan is based on a novel 3D scanning technique to capture leaf area development continuously, a scanner-to-plant concept to increase imaging throughput and analytical scales to combine gravimetric transpiration measurements. The paper presents how the technology functions, how data are visualised via a web-based interface and how data extraction and analysis is interfaced through ‘R’ libraries. Close agreement between scanned and observed leaf area data of individual plants in different crops was found (R2 between 0.86 and 0.94). Similar agreement was found when comparing scanned and observed area of plants cultivated at densities reflecting field conditions (R2 between 0.80 and 0.96). An example in monitoring plant transpiration by the analytical scales is presented. The last section illustrates some of the early ongoing applications of the platform to target key phenotypes: (i) the comparison of the leaf area development pattern of fine mapping recombinants of pearl millet; (ii) the leaf area development pattern of pearl millet breeding material targeted to different agro-ecological zones; (iii) the assessment of the transpiration response to high VPD in sorghum and pearl millet. This new platform has the potential to phenotype for traits controlling plant water use at a high rate and precision, of critical importance for drought adaptation, and creates an opportunity to harness their genetics for the breeding of improved varieties.}
+      \field{issn}{0022-0957, 1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{18}
+      \field{shortjournal}{EXBOTJ}
+      \field{shorttitle}{{{LeasyScan}}}
+      \field{title}{{{LeasyScan}}: A Novel Concept Combining {{3D}} Imaging and Lysimetry for High-Throughput Phenotyping of Traits Controlling Plant Water Budget}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{66}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5581\bibrangedash 5593}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1093/jxb/erv251
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/6VM96Z59/Vadez et al. - 2015 - LeasyScan a novel concept combining 3D imaging and lysimetry for high-throughput phenotyping of tra.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/erv251
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/erv251
+      \endverb
+      \keyw{Good example of introduction,Phenotyping Sensor,Tomography}
+    \endentry
     \entry{violleLetConceptTrait2007}{article}{}{}
       \name{author}{7}{}{%
         {{hash=8f524674b7870bae7bfbc772ee46b984}{%
@@ -898,8 +1740,84 @@
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
+    \entry{yassueLowcostGreenhousebasedHighthroughput2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=8a410cb7a4ac8ab4c2eeb074bf75c480}{%
+           family={Yassue},
+           familyi={Y\bibinitperiod},
+           given={Rafael\bibnamedelima Massahiro},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ddd67c7035da4f519043cb703cbe4ad9}{%
+           family={Galli},
+           familyi={G\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=644b98d096c799baf46feffb4e0bef54}{%
+           family={Borsato},
+           familyi={B\bibinitperiod},
+           given={Ronaldo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f72448b448f784a30f7d333a8eee90be}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=78f6e3dd3e8efad2b9cebf3e4e1b4e98}{%
+           family={Morota},
+           familyi={M\bibinitperiod},
+           given={Gota},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f54804c0b742a18590471d3eeda413bb}{%
+           family={Fritsche‐Neto},
+           familyi={F\bibinithyphendelim N\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{30965ee479534bfbcd4d63e499b647c1}
+      \strng{fullhash}{43d5d597310f14d7706fb403f32b6d72}
+      \strng{fullhashraw}{43d5d597310f14d7706fb403f32b6d72}
+      \strng{bibnamehash}{30965ee479534bfbcd4d63e499b647c1}
+      \strng{authorbibnamehash}{30965ee479534bfbcd4d63e499b647c1}
+      \strng{authornamehash}{30965ee479534bfbcd4d63e499b647c1}
+      \strng{authorfullhash}{43d5d597310f14d7706fb403f32b6d72}
+      \strng{authorfullhashraw}{43d5d597310f14d7706fb403f32b6d72}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Greenhouse-based high-throughput phenotyping (HTP) presents a useful approach for studying novel plant growth-promoting bacteria (PGPB). Despite the potential of this approach to leverage genetic variability for breeding new maize (Zea Mays L.) cultivars exhibiting highly stable symbiosis with PGPB, greenhouse-based HTP platforms are not yet widely used because they are highly expensive; hence, it is challenging to perform HTP studies under a limited budget. In this study, we built a low-cost greenhouse-based HTP platform to collect growth-related image-derived phenotypes. We assessed 360 inbred maize lines with or without PGPB inoculation under nitrogen-limited conditions. Plant height, canopy coverage, and canopy volume obtained from photogrammetry were evaluated five times during early maize development. A plant biomass index was constructed as a function of plant height and canopy coverage. Inoculation with PGPB promoted plant growth in early developmental stages. Phenotypic correlations between the image-derived phenotypes and manual measurements were at least 0.47 in the later stages of plant development. The genomic heritability estimates of the image-derived phenotypes ranged from 0.23 to 0.54. Moderate-to-strong genomic correlations between the plant biomass index and shoot dry mass (0.24–0.47) and between HTP-based plant height and manually measured plant height (0.55–0.68) across the developmental stages showed the utility of our HTP platform. Collectively, our results demonstrate the usefulness of the lowcost HTP platform for large-scale genetic and management studies to capture plant growth.}
+      \field{issn}{2578-2703, 2578-2703}
+      \field{journaltitle}{The Plant Phenome Journal}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{The Plant Phenome Journal}
+      \field{shorttitle}{A Low‐cost Greenhouse‐based High‐throughput Phenotyping Platform for Genetic Studies}
+      \field{title}{A Low‐cost Greenhouse‐based High‐throughput Phenotyping Platform for Genetic Studies: {{A}} Case Study in Maize under Inoculation with Plant Growth‐promoting Bacteria}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e20043}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/ppj2.20043
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/RJQTN3EF/Yassue et al. - 2022 - A low‐cost greenhouse‐based high‐throughput phenotyping platform for genetic studies A case study i.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20043
+      \endverb
+      \verb{url}
+      \verb https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20043
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
   \enddatalist
-  \missing{saricApplicationsHyperspectralI}
 \endrefsection
 \endinput
 

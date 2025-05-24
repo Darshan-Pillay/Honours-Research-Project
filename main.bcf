@@ -2371,30 +2371,47 @@
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">Introduction/Bibliography/introduction_references.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">ortonIntroduction2020</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">anandBreedingTechniquesDispense2023</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">guoPhenotypingPlants2014</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">laxmanNoninvasiveQuantificationTomato2018</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">duGreenhousebasedVegetableHighthroughput2021</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">ortonIntroduction2020</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">anandBreedingTechniquesDispense2023</bcf:citekey>
     <bcf:citekey order="5" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">mohammedReviewPlantPhenotyping</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">johannsenGenotypeConceptionHeredity1911a</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">arnalbarbedoDigitalImageProcessing2013</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">grimeEvidenceExistenceThree1997</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">violleLetConceptTrait2007</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">guoPhenotypingPlants2014</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">mohammedReviewPlantPhenotyping</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">johannsenGenotypeConceptionHeredity1911a</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">arnalbarbedoDigitalImageProcessing2013</bcf:citekey>
     <bcf:citekey order="12" intorder="1">grimeEvidenceExistenceThree1997</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">violleLetConceptTrait2007</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">grimeEvidenceExistenceThree1997</bcf:citekey>
     <bcf:citekey order="15" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
     <bcf:citekey order="16" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">prakashTHERMALREMOTESENSING2000</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">ishimweApplicationsThermalImaging2014</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">slatonEstimatingNearinfraredLeaf2001</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">saricApplicationsHyperspectralI</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">tanFarredLightRegulator2022a</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">lichtenthalerRoleChlorophyllFluorescence1988</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">prakashTHERMALREMOTESENSING2000</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">ishimweApplicationsThermalImaging2014</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">slatonEstimatingNearinfraredLeaf2001</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">saricApplicationsHyperspectralImaging2022</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">vadezLeasyScanNovelConcept2015</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">paulusMeasuringCrops3D2019</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">tanFarredLightRegulator2022a</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">lichtenthalerRoleChlorophyllFluorescence1988</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">tovarRaspberryPiPowered2018a</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">saddikMappingAgriculturalSoil</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">liDigitizationVisualizationGreenhouse2015</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">kimDevelopmentLowcostAutomated2024</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">duGreenhousebasedVegetableHighthroughput2021</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">liHighThroughputPlantPhenotyping2021</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">liHighThroughputPlantPhenotyping2021</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">liHighThroughputPlantPhenotyping2021</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">saddikMappingAgriculturalSoil</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">yassueLowcostGreenhousebasedHighthroughput2022</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -81,6 +81,7 @@
     <requires type="editable">
       <file>Introduction/Bibliography/introduction_references.bib</file>
       <file>Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib</file>
+      <file>Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib</file>
     </requires>
   </external>
 </requests>

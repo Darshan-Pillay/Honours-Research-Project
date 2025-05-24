@@ -1,21 +1,23 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[33] biber-darwin:340> INFO - === Thu May 22, 2025, 22:53:33
-[44] Biber.pm:420> INFO - Reading 'main.bcf'
-[78] Biber.pm:994> INFO - Found 16 citekeys in bib section 0
+[32] biber-darwin:340> INFO - === Sat May 24, 2025, 21:10:20
+[43] Biber.pm:420> INFO - Reading 'main.bcf'
+[78] Biber.pm:994> INFO - Found 27 citekeys in bib section 0
 [86] Biber.pm:4463> INFO - Processing section 0
 [92] Biber.pm:4654> INFO - Looking for bibtex file 'Introduction/Bibliography/introduction_references.bib' for section 0
-[94] bibtex.pm:1713> INFO - LaTeX decoding ...
-[97] bibtex.pm:1519> INFO - Found BibTeX data source 'Introduction/Bibliography/introduction_references.bib'
-[98] Biber.pm:4654> INFO - Looking for bibtex file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib' for section 0
-[102] bibtex.pm:1713> INFO - LaTeX decoding ...
-[127] bibtex.pm:1519> INFO - Found BibTeX data source 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib'
-[203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[203] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[203] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[214] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[219] bbl.pm:779> INFO - Output to main.bbl
-[219] Biber.pm:131> WARN - Duplicate entry key: 'carvajal-yepesGlobalSurveillanceSystem2019' in file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib', skipping ...
-[219] Biber.pm:131> WARN - I didn't find a database entry for 'saricApplicationsHyperspectralI' (section 0)
-[219] Biber.pm:133> INFO - WARNINGS: 2
+[95] bibtex.pm:1713> INFO - LaTeX decoding ...
+[99] bibtex.pm:1519> INFO - Found BibTeX data source 'Introduction/Bibliography/introduction_references.bib'
+[116] Biber.pm:4654> INFO - Looking for bibtex file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib' for section 0
+[122] bibtex.pm:1713> INFO - LaTeX decoding ...
+[152] bibtex.pm:1519> INFO - Found BibTeX data source 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib'
+[220] Biber.pm:4654> INFO - Looking for bibtex file 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib' for section 0
+[223] bibtex.pm:1713> INFO - LaTeX decoding ...
+[234] bibtex.pm:1519> INFO - Found BibTeX data source 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib'
+[295] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[295] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[295] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[295] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[316] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[326] bbl.pm:779> INFO - Output to main.bbl
+[326] Biber.pm:131> WARN - Duplicate entry key: 'carvajal-yepesGlobalSurveillanceSystem2019' in file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib', skipping ...
+[326] Biber.pm:133> INFO - WARNINGS: 1
