@@ -274,6 +274,68 @@
       \endverb
       \keyw{Introduction,Plant Morphology,Plant Pathology,Plant Stress}
     \endentry
+    \entry{daschoudhuryLeveragingImageAnalysis2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a6c18b8156280772d3aa7851821d045d}{%
+           family={Das\bibnamedelima Choudhury},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Sruti},
+           giveni={S\bibinitperiod}}}%
+        {{hash=952e66ef4980a1e69cb230e58453bd33}{%
+           family={Samal},
+           familyi={S\bibinitperiod},
+           given={Ashok},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a06b922515160d418e2516e190bc51e7}{%
+           family={Awada},
+           familyi={A\bibinitperiod},
+           given={Tala},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{fullhash}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{fullhashraw}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{bibnamehash}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{authorbibnamehash}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{authornamehash}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{authorfullhash}{f9317c414f783f5d0dfe09f473ed3b28}
+      \strng{authorfullhashraw}{f9317c414f783f5d0dfe09f473ed3b28}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The complex interaction between a genotype and its environment controls the biophysical properties of a plant, manifested in observable traits, i.e., plant's phenome, which influences resources acquisition, performance, and yield. High-throughput automated image-based plant phenotyping refers to the sensing and quantifying plant traits non-destructively by analyzing images captured at regular intervals and with precision. While phenomic research has drawn significant attention in the last decade, extracting meaningful and reliable numerical phenotypes from plant images especially by considering its individual components, e.g., leaves, stem, fruit, and flower, remains a critical bottleneck to the translation of advances of phenotyping technology into genetic insights due to various challenges including lighting variations, plant rotations, and self-occlusions. The paper provides (1) a framework for plant phenotyping in a multimodal, multi-view, time-lapsed, high-throughput imaging system; (2) a taxonomy of phenotypes that may be derived by image analysis for better understanding of morphological structure and functional processes in plants; (3) a brief discussion on publicly available datasets to encourage algorithm development and uniform comparison with the state-of-the-art methods; (4) an overview of the state-of-the-art image-based high-throughput plant phenotyping methods; and (5) open problems for the advancement of this research field.}
+      \field{day}{24}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shortjournal}{Front. Plant Sci.}
+      \field{title}{Leveraging {{Image Analysis}} for {{High-Throughput Plant Phenotyping}}}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpls.2019.00508
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/AWAVD6W7/Das Choudhury et al. - 2019 - Leveraging Image Analysis for High-Throughput Plant Phenotyping.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00508/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00508/full
+      \endverb
+      \keyw{high-throughput plant phenotyping,image analysis,multimodal image sequence,phenotype taxonomy,physiological phenotype,Plant Morphology,structural phenotype,Temporal phenotype}
+    \endentry
     \entry{duGreenhousebasedVegetableHighthroughput2021}{article}{}{}
       \name{author}{10}{}{%
         {{hash=d465f5408f9c8d32375153e6413b1662}{%
@@ -1801,84 +1863,67 @@
       \endverb
       \keyw{Good example of introduction,Phenotyping Sensor,Tomography}
     \endentry
-    \entry{violleLetConceptTrait2007}{article}{}{}
-      \name{author}{7}{}{%
-        {{hash=8f524674b7870bae7bfbc772ee46b984}{%
-           family={Violle},
-           familyi={V\bibinitperiod},
-           given={Cyrille},
-           giveni={C\bibinitperiod}}}%
-        {{hash=335c97b0d11aedf8e1f612f7c73d573f}{%
-           family={Navas},
-           familyi={N\bibinitperiod},
-           given={Marie-Laure},
-           giveni={M\bibinithyphendelim L\bibinitperiod}}}%
-        {{hash=86ed80e824386c21ba5732efb54df414}{%
-           family={Vile},
-           familyi={V\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod}}}%
-        {{hash=0ddd9b9db09f18412fb8f6a6c699639c}{%
-           family={Kazakou},
-           familyi={K\bibinitperiod},
-           given={Elena},
-           giveni={E\bibinitperiod}}}%
-        {{hash=d0cf736c0235143c3cd6e7aa5d1b6c2e}{%
-           family={Fortunel},
-           familyi={F\bibinitperiod},
-           given={Claire},
-           giveni={C\bibinitperiod}}}%
-        {{hash=0faac4ea1ae3fa975b2a54800ff9e59a}{%
-           family={Hummel},
+    \entry{walterPlantPhenotypingBean2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=28d23497489e43cb9dd156eeb4c03984}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a87ae23efc6b6a4bad6a8547204dc67c}{%
+           family={Liebisch},
+           familyi={L\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ab49c9d89ccf6e041cfb8eeeec6ef144}{%
+           family={Hund},
            familyi={H\bibinitperiod},
-           given={Irène},
-           giveni={I\bibinitperiod}}}%
-        {{hash=adce00945e25fd9866396dce1da9fb57}{%
-           family={Garnier},
-           familyi={G\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{bb015bf77099b74cca30361e4af9f65f}
-      \strng{fullhash}{9b7a00ba1dff409dc5eb391391fd683c}
-      \strng{fullhashraw}{9b7a00ba1dff409dc5eb391391fd683c}
-      \strng{bibnamehash}{bb015bf77099b74cca30361e4af9f65f}
-      \strng{authorbibnamehash}{bb015bf77099b74cca30361e4af9f65f}
-      \strng{authornamehash}{bb015bf77099b74cca30361e4af9f65f}
-      \strng{authorfullhash}{9b7a00ba1dff409dc5eb391391fd683c}
-      \strng{authorfullhashraw}{9b7a00ba1dff409dc5eb391391fd683c}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \strng{namehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{fullhash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{fullhashraw}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{bibnamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorbibnamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authornamehash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorfullhash}{c765b43ff439e43c61f1a453dcc76246}
+      \strng{authorfullhashraw}{c765b43ff439e43c61f1a453dcc76246}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In its simplest definition, a trait is a surrogate of organismal performance, and this meaning of the term has been used by evolutionists for a long time. Over the last three decades, developments in community and ecosystem ecology have forced the concept of trait beyond these original boundaries, and trait-based approaches are now widely used in studies ranging from the level of organisms to that of ecosystems. Despite some attempts to fix the terminology, especially in plant ecology, there is currently a high degree of confusion in the use, not only of the term “trait” itself, but also in the underlying concepts it refers to. We therefore give an unambiguous definition of plant trait, with a particular emphasis on functional trait. A hierarchical perspective is proposed, extending the “performance paradigm” to plant ecology. “Functional traits” are defined as morpho-physio-phenological traits which impact fitness indirectly via their effects on growth, reproduction and survival, the three components of individual performance. We finally present an integrative framework explaining how changes in trait values due to environmental variations are translated into organismal performance, and how these changes may influence processes at higher organizational levels. We argue that this can be achieved by developing “integration functions” which can be grouped into functional response (community level) and effect (ecosystem level) algorithms.}
-      \field{issn}{1600-0706}
-      \field{journaltitle}{Oikos}
-      \field{langid}{english}
-      \field{number}{5}
-      \field{title}{Let the Concept of Trait Be Functional!}
-      \field{urlday}{20}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Plant phenotyping refers to a quantitative description of the plant’s anatomical, ontogenetical, physiological and biochemical properties. Today, rapid developments are taking place in the field of non-destructive, image-analysis -based phenotyping that allow for a characterization of plant traits in high-throughput. During the last decade, ‘the field of image-based phenotyping has broadened its focus from the initial characterization of single-plant traits in controlled conditions towards ‘real-life’ applications of robust field techniques in plant plots and canopies. An important component of successful phenotyping approaches is the holistic characterization of plant performance that can be achieved with several methodologies, ranging from multispectral image analyses via thermographical analyses to growth measurements, also taking root phenotypes into account.}
+      \field{day}{4}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{shorttitle}{Plant Phenotyping}
+      \field{title}{Plant Phenotyping: From Bean Weighing to Image Analysis}
+      \field{urlday}{5}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
-      \field{volume}{116}
-      \field{year}{2007}
+      \field{volume}{11}
+      \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{882\bibrangedash 892}
-      \range{pages}{11}
+      \field{pages}{14}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1111/j.0030-1299.2007.15559.x
+      \verb 10.1186/s13007-015-0056-8
       \endverb
       \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/2LJF56Q2/Violle et al. - 2007 - Let the concept of trait be functional!.pdf;/Users/darshanpillay/Zotero/storage/DA2QUE8R/j.0030-1299.2007.15559.html
+      \verb /Users/darshanpillay/Zotero/storage/XWCW3GVP/Walter et al. - 2015 - Plant phenotyping from bean weighing to image analysis.pdf;/Users/darshanpillay/Zotero/storage/4C33DLE3/s13007-015-0056-8.html
       \endverb
       \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0030-1299.2007.15559.x
+      \verb https://doi.org/10.1186/s13007-015-0056-8
       \endverb
       \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0030-1299.2007.15559.x
+      \verb https://doi.org/10.1186/s13007-015-0056-8
       \endverb
-      \keyw{Plant Phenotyping}
+      \keyw{Canopy Temperature,Chlorophyll Fluorescence,Honours Research: Introduction,Normalize Difference Vegetation Index,Plant phenotyping,Root Length Density,Unmanned Aerial Vehicle}
     \endentry
     \entry{yassueLowcostGreenhousebasedHighthroughput2022}{article}{}{}
       \name{author}{6}{}{%
@@ -1956,6 +2001,160 @@
       \verb https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20043
       \endverb
       \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
+    \entry{zhangHighthroughputPhenotypingPlant2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=5dc47fd87f12ee5ea7259a6b241b7679}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Huichun},
+           giveni={H\bibinitperiod}}}%
+        {{hash=55f210233ac686af68eba11a97bd84e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8f78109ff863f7f05f30f804b48d0ef1}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Xiuliang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=58f2aff416d95507554a7294088b03e9}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Liming},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9887f3927bed4a9b6f9546d19b040159}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Yufeng},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{fullhash}{cc134acc2bd3aba4ef2279104228758c}
+      \strng{fullhashraw}{cc134acc2bd3aba4ef2279104228758c}
+      \strng{bibnamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{authorbibnamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{authornamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{authorfullhash}{cc134acc2bd3aba4ef2279104228758c}
+      \strng{authorfullhashraw}{cc134acc2bd3aba4ef2279104228758c}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Acquisition of plant phenotypic information facilitates plant breeding, sheds light on gene action, and can be applied to optimize the quality of agricultural and forestry products. Because leaves often show the fastest responses to external environmental stimuli, leaf phenotypic traits are indicators of plant growth, health, and stress levels. Combination of new imaging sensors, image processing, and data analytics permits measurement over the full life span of plants at high temporal resolution and at several organizational levels from organs to individual plants to field populations of plants. We review the optical sensors and associated data analytics used for measuring morphological, physiological, and biochemical traits of plant leaves on multiple scales. We summarize the characteristics, advantages and limitations of optical sensing and data-processing methods applied in various plant phenotyping scenarios. Finally, we discuss the future prospects of plant leaf phenotyping research. This review aims to help researchers choose appropriate optical sensors and data processing methods to acquire plant leaf phenotypes rapidly, accurately, and cost-effectively.}
+      \field{day}{1}
+      \field{issn}{2214-5141}
+      \field{journaltitle}{The Crop Journal}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{The Crop Journal}
+      \field{title}{High-Throughput Phenotyping of Plant Leaf Morphological, Physiological, and Biochemical Traits on Multiple Scales Using Optical Sensing}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1303\bibrangedash 1318}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.cj.2023.04.014
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/LBQKJ4GD/Zhang et al. - 2023 - High-throughput phenotyping of plant leaf morphological, physiological, and biochemical traits on mu.pdf;/Users/darshanpillay/Zotero/storage/FMEF4B4M/S2214514123000740.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214514123000740
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214514123000740
+      \endverb
+      \keyw{Artificial intelligence,Image processing,Leaf traits,Machine learning,Optical sensing,Plant Phenotyping}
+    \endentry
+    \entry{zhangLeafAreaIndex2021}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=83a9a95b8a6be67affdead9d98f6dd6f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Juanjuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=79f08c0027786f80ab7b6ff360f05407}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=654d043ec8320dd11ba3579ee3a54e11}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b6fc78834b479731029a5edb14fd5de0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=dbc65e2150011ebb783b6b1086abd995}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Hongbo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a253c1ba455e9290ccd0fef53e7e3350}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yimin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6df0bf50c74e74d577b6eaef2d097e9a}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xinming},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{42a8dd130314bba02e70c37b5047edb8}
+      \strng{fullhash}{1852ec711f77cb5c9328ee1124e7136a}
+      \strng{fullhashraw}{1852ec711f77cb5c9328ee1124e7136a}
+      \strng{bibnamehash}{42a8dd130314bba02e70c37b5047edb8}
+      \strng{authorbibnamehash}{42a8dd130314bba02e70c37b5047edb8}
+      \strng{authornamehash}{42a8dd130314bba02e70c37b5047edb8}
+      \strng{authorfullhash}{1852ec711f77cb5c9328ee1124e7136a}
+      \strng{authorfullhashraw}{1852ec711f77cb5c9328ee1124e7136a}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To accurately estimate winter wheat leaf area index (LAI) using unmanned aerial vehicle (UAV) hyperspectral imagery is crucial for crop growth monitoring, fertilization management, and development of precision agriculture.}
+      \field{day}{3}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{month}{5}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{title}{Leaf Area Index Estimation Model for {{UAV}} Image Hyperspectral Data Based on Wavelength Variable Selection and Machine Learning Methods}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{17}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{49}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13007-021-00750-5
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/JGY66KSS/Zhang et al. - 2021 - Leaf area index estimation model for UAV image hyperspectral data based on wavelength variable selec.pdf;/Users/darshanpillay/Zotero/storage/SYMDAWNB/s13007-021-00750-5.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s13007-021-00750-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s13007-021-00750-5
+      \endverb
+      \keyw{Characteristic bands,Hyperspectral imaging data,Leaf area index,Machine learning,Model,Plant Phenotyping,Unmanned aerial vehicle,Winter wheat}
     \endentry
   \enddatalist
   \missing{bauckhageDataMiningPattern2013}
