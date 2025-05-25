@@ -5,12 +5,30 @@
 	\item What does a typical image preprocessing pipeline look like? 
 \end{itemize}
 
-\paragraph{What is the conceptual basis of low-cost automated greenhouses} \hfill
+\paragraph{Basis for future in low-cost imaging analysis} \hfill \\
+The basis for the points below is from \cite{nabwireReviewApplicationArtificial2021}
 \begin{itemize}
-	\item Germplasm Evaluation
-	\item phenotyping platforms
-	\item phenyping image acquistion
-	\item phenotyping image preprocessing
+	\item Existing phenotyping systems are comercially developed and under patent, so are not modifable or readily available \cite{liHighThroughputPlantPhenotyping2021}
+	\item RGB, and hyperspectral sensors most commonly used as they are affordable
+	\item Data collection and analysis tools are not generalizable or standardised, so many custom flows are made
+	\item Indicating the need for standardised, extendable image analysis pipelines using readily avalble open-source softwatre and hardware
+	\item Recenet advances show the use of cheap hardware like raspberry pis, and afforadbale RGB sensors \cite{tovarRaspberryPiPowered2018a}
+	\item However these sensors dont have  a lot of compute power, so analysis and preprocessing is done  remotely
+	\item Cheap sensors but are chaper and faster
+	\item Cloud archtiectures exist, but with amount of data generated this cost can be prohibitive in terms of processing cost \cite{bauckhageDataMiningPattern2013}. Cyberinfrastructure expensive ref (95,96)
+	\item Moreover, existing systems are not designed for multiple genotypes so thier applicability is limited, suggesting need for more generalizable image analysis
+	\item Deeplearning and machine learning can be used to automate image analysis, and reduce costs
+	\item Availablity of large labelled data-is bottleneck
+	\item To use on cheap hardware you also need to optimized
+	\item Therefore low complexity effiecinet algorithms for automated image preprocessing and image analysis is needed
+	\item Using multimodal segmenation is also another angle
+	\item ref[36], one of the advantages of using ML approaches in plant phenotyping is their ability to search large datasets and discover patterns by simultaneously looking at a combination of features (compared to analyzing each feature separately). This was previously a challenge because of the high dimensionality of plant images and their large quantity, making them difficult to analyze through traditional processing methods (ref 37)
+	\item machine learning achived using supervised learning, so we arent able to detect novel or unexpected traits using unsupervised learning (ref 40)
+	\item traditional methods in image processing not geeralizable, in pathogen detection and require strict conditions and custom workflows to work \cite{arnalbarbedoDigitalImageProcessing2013}
+	\item Current research Focus on image sensing, rather on computation which is new bottleneck. Imaging technlogy has advanced, but there is lack of robust analysis and computation tools. \cite{bauckhageDataMiningPattern2013}
+	\item Sensors generate huge amount of data, therefore algorithms need to be designed to deal with Terabytes of date. Furthermore, low cost computing units have limited bandwidth, battery and sensor capablities indicating that algorithms need to take this in to account. Low complexity and efficeint algorithms that can run on resource constrained tech is needed \cite{bauckhageDataMiningPattern2013}
+	\item Mobile applications can be uesd and run processing without need for extranl network, cyberinfrasturcture. Howevere there are not many applications available for this \cite{muller-linowPlantScreenMobile2019}. Image analysis tools are often too expensive to run on these devices due to the constrained resources, however they are much cheaper and therefore can be exploited. In particular low complexict effeicent systems, which generalize to various genotypes, and phenotypcal mesauremtns are needed. In particular the development of effiecnet low resouce intensive machine modelling and deep learning techniques can be made.
+	\item preprocessing technique choice is also needed, for example image segmentation methods can be costly, and a suitable method depends on various factors. Certain methods have cheaper cost, but less accuracy \cite{muller-linowPlantScreenMobile2019}. In developing low-cost image anaysis and preprocessing tools for phenotyping it is neccesary to weight the cost savings versus accuract and precision. But besoke image processing techniques dont lend well to generalziabality and extendability.
 \end{itemize}
 
 \paragraph{Current applications} \hfill

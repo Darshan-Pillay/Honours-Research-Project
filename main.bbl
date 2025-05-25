@@ -67,8 +67,6 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{4\bibrangedash 5}
-      \range{pages}{2}
       \verb{doi}
       \verb 10.3389/fpls.2022.1076094
       \endverb
@@ -133,6 +131,148 @@
       \verb https://doi.org/10.1186/2193-1801-2-660
       \endverb
       \keyw{Diseased Region,image processing algorithms,plant pathology,Powdery Mildew,Radial Basis Function,Texture Feature}
+    \endentry
+    \entry{carvajal-yepesGlobalSurveillanceSystem2019}{article}{}{}
+      \name{author}{19}{}{%
+        {{hash=22dc11184857134ec9f89bf5624caae5}{%
+           family={Carvajal-Yepes},
+           familyi={C\bibinithyphendelim Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=04b1cadaf64d6a541b7419af01e281a2}{%
+           family={Cardwell},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=be068978749852b39900c17c39965bfa}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8e4f4d44509e0de4ae5bb1144d858ffb}{%
+           family={Giovani},
+           familyi={G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=32500605421de50e6a1826933e063340}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi G.\bibnamedelimi O.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=149b5ae2cb6cafa6d0a65402b62a1254}{%
+           family={Kamoun},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=daec2836567d01683dad1ddd99bd8a28}{%
+           family={Legg},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=512e5e7f93158efa129300a9deed43d5}{%
+           family={Verdier},
+           familyi={V\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5e83050c04c4b29ccdad08ed7c750033}{%
+           family={Lessel},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=124df0564688eb733c358dea7be35ce0}{%
+           family={Neher},
+           familyi={N\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d44fc5bbcf0d1f309967da236e28f8ef}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a11a16eba5fa8a1183a6bd805a460595}{%
+           family={Pardey},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bb8bbc9bc3652723c76803e2d6b01dc2}{%
+           family={Gullino},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=4cdd29f0afe35f3040d95a9b8fe0ac09}{%
+           family={Records},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a93329bf3a56765569b409afb0f73414}{%
+           family={Bextine},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fe8cdac4777fd76050f55f1280debfbb}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0783c8820f1d82b4d0ed0bcdb0ace144}{%
+           family={Staiger},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=12dd33b5a6663c7d235a4ac487e866bc}{%
+           family={Tohme},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddfbc52d2f55aaef4457157610d9d7fe}
+      \strng{fullhash}{d57075f2f3043c17b7b348b3c48ad673}
+      \strng{fullhashraw}{d57075f2f3043c17b7b348b3c48ad673}
+      \strng{bibnamehash}{ddfbc52d2f55aaef4457157610d9d7fe}
+      \strng{authorbibnamehash}{ddfbc52d2f55aaef4457157610d9d7fe}
+      \strng{authornamehash}{ddfbc52d2f55aaef4457157610d9d7fe}
+      \strng{authorfullhash}{d57075f2f3043c17b7b348b3c48ad673}
+      \strng{authorfullhashraw}{d57075f2f3043c17b7b348b3c48ad673}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Global preparedness minimizes the risk to food supplies , To satisfy a growing demand for food, global agricultural production must increase by 70\% by 2050. However, pests and crop diseases put global food supplies at risk. Worldwide, yield losses caused by pests and diseases are estimated to average 21.5\% in wheat, 30.0\% in rice, 22.6\% in maize, 17.2\% in potato, and 21.4\% in soybean ( 1 ); these crops account for half of the global human calorie intake ( 2 ). Climate change and global trade drive the distribution, host range, and impact of plant diseases ( 3 ), many of which can spread or reemerge after having been under control ( 4 ). Though many national and regional plant protection organizations (NPPOs and RPPOs) work to monitor and contain crop disease outbreaks, many countries, particularly low-income countries (LICs), do not efficiently exchange information, delaying coordinated responses to prevent disease establishment and spread. To improve responses to unexpected crop disease spread, we propose a Global Surveillance System (GSS) that will extend and adapt established biosecurity practices and networking facilities into LICs, enabling countries and regions to quickly respond to emerging disease outbreaks to stabilize food supplies, enhancing global food protection.}
+      \field{day}{28}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6447}
+      \field{shortjournal}{Science}
+      \field{title}{A Global Surveillance System for Crop Diseases}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{364}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1237\bibrangedash 1239}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaw1572
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/QEX9ARXS/Carvajal-Yepes et al. - 2019 - A global surveillance system for crop diseases.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.aaw1572
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.aaw1572
+      \endverb
+      \keyw{Introduction,Plant Morphology,Plant Pathology,Plant Stress}
     \endentry
     \entry{duGreenhousebasedVegetableHighthroughput2021}{article}{}{}
       \name{author}{10}{}{%
@@ -1818,6 +1958,9 @@
       \keyw{Applications In Low-cost automated Greenhouses}
     \endentry
   \enddatalist
+  \missing{bauckhageDataMiningPattern2013}
+  \missing{muller-linowPlantScreenMobile2019}
+  \missing{nabwireReviewApplicationArtificial2021}
 \endrefsection
 \endinput
 
