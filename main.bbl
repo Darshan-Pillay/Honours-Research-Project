@@ -262,6 +262,63 @@
       \endverb
       \keyw{Diseased Region,image processing algorithms,plant pathology,Powdery Mildew,Radial Basis Function,Texture Feature}
     \endentry
+    \entry{bauckhageDataMiningPattern2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a19299883183370e09a01f6cec3b9ea4}{%
+           family={Bauckhage},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=231ca1992b128d48dbc73100fd196d87}{%
+           family={Kersting},
+           familyi={K\bibinitperiod},
+           given={Kristian},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{fullhash}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{fullhashraw}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{bibnamehash}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{authorbibnamehash}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{authornamehash}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{authorfullhash}{1adf26d5478c034c30f19b06ecb0081b}
+      \strng{authorfullhashraw}{1adf26d5478c034c30f19b06ecb0081b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Modern communication, sensing, and actuator technologies as well as methods from signal processing, pattern recognition, and data mining are increasingly applied in agriculture. Developments such as increased mobility, wireless networks, new environmental sensors, robots, and the computational cloud put the vision of a sustainable agriculture for anybody, anytime, and anywhere within reach. Yet, precision farming is a fundamentally new domain for computational intelligence and constitutes a truly interdisciplinary venture. Accordingly, researchers and experts of complementary skills have to cooperate in order to develop models and tools for data intensive discovery that allow for operation through users that are not necessarily trained computer scientists. We present approaches and applications that address these challenges and underline the potential of data mining and pattern recognition in agriculture.}
+      \field{day}{1}
+      \field{issn}{1610-1987}
+      \field{journaltitle}{KI - Künstliche Intelligenz}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{4}
+      \field{shortjournal}{Künstl Intell}
+      \field{title}{Data {{Mining}} and {{Pattern Recognition}} in {{Agriculture}}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{313\bibrangedash 324}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s13218-013-0273-0
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/Q8TAY8HQ/Bauckhage and Kersting - 2013 - Data Mining and Pattern Recognition in Agriculture.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s13218-013-0273-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s13218-013-0273-0
+      \endverb
+      \keyw{Agriculture,Agronomy,Applications In Low-cost automated Greenhouses,Automated Pattern Recognition,Cercospora Leaf Spot,Data Mining,Data Mining and Knowledge Discovery,Drought Stress,Leaf Spot,Local Binary Pattern,Pattern Recognition Receptors in Plants,Precision Farming}
+    \endentry
     \entry{bodnerHyperspectralImagingNovel2018}{article}{}{}
       \name{author}{4}{}{%
         {{hash=45125257861eeef4aae5fbb28ffd67b5}{%
@@ -328,7 +385,7 @@
       \verb{url}
       \verb https://doi.org/10.1186/s13007-018-0352-1
       \endverb
-      \keyw{Bioluminescence Imaging,Fluorescence Imaging,Hyperspectral imaging,Image processing,Optical Biological Imaging,Phenotyping,Plant Biotechnology,Plant phenotyping,Root apical meristem,Root decomposition,Spectrophotometry,Triticum durum}
+      \keyw{Bioluminescence Imaging,Fluorescence Imaging,Hyperspectral imaging,Image processing,Methodology,Optical Biological Imaging,Phenotyping,Plant Biotechnology,Plant phenotyping,Root apical meristem,Root decomposition,Spectrophotometry,Triticum durum}
     \endentry
     \entry{carvajal-yepesGlobalSurveillanceSystem2019}{article}{}{}
       \name{author}{19}{}{%
@@ -1469,6 +1526,156 @@
       \verb https://www.abrinternationaljournal.org/abstract/review-on-plant-phenotyping-1102322.html
       \endverb
       \keyw{Plant Phenotyping}
+    \endentry
+    \entry{muller-linowPlantScreenMobile2019}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=737c558f13930fdb2cc4f4f746496872}{%
+           family={Müller-Linow},
+           familyi={M\bibinithyphendelim L\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=03990048d56a72ed354235197476d069}{%
+           family={Wilhelm},
+           familyi={W\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=563b65923bac1187abb1dc018b4b09e9}{%
+           family={Briese},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a72d5ec0145c5737fc4dac7d3edaa88a}{%
+           family={Wojciechowski},
+           familyi={W\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=43677feff02df8cd1730c806f1af7312}{%
+           family={Schurr},
+           familyi={S\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+        {{hash=95589f8de90b846467f4f387b0d214f8}{%
+           family={Fiorani},
+           familyi={F\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{fullhash}{dff55cf6392421692c033d3645eccdcd}
+      \strng{fullhashraw}{dff55cf6392421692c033d3645eccdcd}
+      \strng{bibnamehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{authorbibnamehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{authornamehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{authorfullhash}{dff55cf6392421692c033d3645eccdcd}
+      \strng{authorfullhashraw}{dff55cf6392421692c033d3645eccdcd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: The development of leaf area is one of the fundamental variables to quantify plant growth and physi‑ological function and is therefore widely used to characterize genotypes and their interaction with the environment. To date, analysis of leaf area often requires elaborate and destructive measurements or imaging‑based methods accompanied by automation that may result in costly solutions. Consequently in recent years there is an increasing trend towards simple and affordable sensor solutions and methodologies. A major focus is currently on harnessing the potential of applications developed for smartphones that provide access to analysis tools to a wide user basis. However, most existing applications entail significant manual effort during data acquisition and analysis. Results: With the development of Plant Screen Mobile we provide a suitable smartphone solution for estimating digi‑tal proxies of leaf area and biomass in various imaging scenarios in the lab, greenhouse and in the field. To distinguish between plant tissue and background the core of the application comprises different classification approaches that can be parametrized by users delivering results on‑the‑fly. We demonstrate the practical applications of computing projected leaf area based on two case studies with Eragrostis and Musa plants. These studies showed highly significant correlations with destructive measurements of leaf area and biomass from both ground truth measurements and estimations from well‑established screening systems. Conclusions: We show that a smartphone together with our analysis tool Plant Screen Mobile is a suitable platform for rapid quantification of leaf and shoot development of various plant architectures. Beyond the estimation of projected leaf area the app can also be used to quantify color and shape parameters of other plant material including seeds and flowers.}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{shorttitle}{Plant {{Screen Mobile}}}
+      \field{title}{Plant {{Screen Mobile}}: An Open-Source Mobile Device App for Plant Trait Analysis}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13007-019-0386-z
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/PTE3VDSF/Müller-Linow et al. - 2019 - Plant Screen Mobile an open-source mobile device app for plant trait analysis.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0386-z
+      \endverb
+      \verb{url}
+      \verb https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0386-z
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
+    \entry{nabwireReviewApplicationArtificial2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=27c2e4ca2478f46aa2ffcaface327c85}{%
+           family={Nabwire},
+           familyi={N\bibinitperiod},
+           given={Shona},
+           giveni={S\bibinitperiod}}}%
+        {{hash=776ecff7261b205b274e214dde96d349}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Hyun-Kwon},
+           giveni={H\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=abb2b73f825a0261bc31f6580b05f188}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Moon\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=370b8bbe9412a02e72b6c36f5fe3ac50}{%
+           family={Baek},
+           familyi={B\bibinitperiod},
+           given={Insuck},
+           giveni={I\bibinitperiod}}}%
+        {{hash=757a04d2128b0e625a28e8a9bebab9c9}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Byoung-Kwan},
+           giveni={B\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a8b84a415bc863fb9f7f08c3ac5e6bd}
+      \strng{fullhash}{795fe70e4c13c49a65cc8f661b94ac95}
+      \strng{fullhashraw}{795fe70e4c13c49a65cc8f661b94ac95}
+      \strng{bibnamehash}{8a8b84a415bc863fb9f7f08c3ac5e6bd}
+      \strng{authorbibnamehash}{8a8b84a415bc863fb9f7f08c3ac5e6bd}
+      \strng{authornamehash}{8a8b84a415bc863fb9f7f08c3ac5e6bd}
+      \strng{authorfullhash}{795fe70e4c13c49a65cc8f661b94ac95}
+      \strng{authorfullhashraw}{795fe70e4c13c49a65cc8f661b94ac95}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Plant phenomics has been rapidly advancing over the past few years. This advancement is attributed to the increased innovation and availability of new technologies which can enable the high-throughput phenotyping of complex plant traits. The application of artificial intelligence in various domains of science has also grown exponentially in recent years. Notably, the computer vision, machine learning, and deep learning aspects of artificial intelligence have been successfully integrated into non-invasive imaging techniques. This integration is gradually improving the efficiency of data collection and analysis through the application of machine and deep learning for robust image analysis. In addition, artificial intelligence has fostered the development of software and tools applied in field phenotyping for data collection and management. These include opensource devices and tools which are enabling community driven research and data-sharing, thereby availing the large amounts of data required for the accurate study of phenotypes. This paper reviews more than one hundred current state-of-the-art papers concerning AI-applied plant phenotyping published between 2010 and 2020. It provides an overview of current phenotyping technologies and the ongoing integration of artificial intelligence into plant phenotyping. Lastly, the limitations of the current approaches/methods and future directions are discussed.}
+      \field{day}{25}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{13}
+      \field{shortjournal}{Sensors}
+      \field{shorttitle}{Review}
+      \field{title}{Review: {{Application}} of {{Artificial Intelligence}} in {{Phenomics}}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4363}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s21134363
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/75JT69XI/Nabwire et al. - 2021 - Review Application of Artificial Intelligence in Phenomics.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/21/13/4363
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/21/13/4363
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses,Good example of introduction}
     \endentry
     \entry{ortonIntroduction2020}{incollection}{}{}
       \name{author}{1}{}{%
@@ -2630,9 +2837,6 @@
       \keyw{Characteristic bands,Hyperspectral imaging data,Leaf area index,Machine learning,Model,Plant Phenotyping,Unmanned aerial vehicle,Winter wheat}
     \endentry
   \enddatalist
-  \missing{bauckhageDataMiningPattern2013}
-  \missing{muller-linowPlantScreenMobile2019}
-  \missing{nabwireReviewApplicationArtificial2021}
 \endrefsection
 \endinput
 
