@@ -1,23 +1,23 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[33] biber-darwin:340> INFO - === Mon May 26, 2025, 02:02:13
-[43] Biber.pm:420> INFO - Reading 'main.bcf'
-[80] Biber.pm:994> INFO - Found 41 citekeys in bib section 0
+[32] biber-darwin:340> INFO - === Mon May 26, 2025, 07:55:43
+[40] Biber.pm:420> INFO - Reading 'main.bcf'
+[79] Biber.pm:994> INFO - Found 43 citekeys in bib section 0
 [88] Biber.pm:4463> INFO - Processing section 0
-[93] Biber.pm:4654> INFO - Looking for bibtex file 'Introduction/Bibliography/introduction_references.bib' for section 0
-[96] bibtex.pm:1713> INFO - LaTeX decoding ...
-[100] bibtex.pm:1519> INFO - Found BibTeX data source 'Introduction/Bibliography/introduction_references.bib'
-[131] Biber.pm:4654> INFO - Looking for bibtex file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib' for section 0
-[137] bibtex.pm:1713> INFO - LaTeX decoding ...
-[173] bibtex.pm:1519> INFO - Found BibTeX data source 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib'
-[272] Biber.pm:4654> INFO - Looking for bibtex file 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib' for section 0
-[276] bibtex.pm:1713> INFO - LaTeX decoding ...
-[291] bibtex.pm:1519> INFO - Found BibTeX data source 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib'
-[378] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[378] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[378] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[378] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[404] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[419] bbl.pm:779> INFO - Output to main.bbl
-[419] Biber.pm:131> WARN - Duplicate entry key: 'carvajal-yepesGlobalSurveillanceSystem2019' in file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib', skipping ...
-[420] Biber.pm:133> INFO - WARNINGS: 1
+[94] Biber.pm:4654> INFO - Looking for bibtex file 'Introduction/Bibliography/introduction_references.bib' for section 0
+[97] bibtex.pm:1713> INFO - LaTeX decoding ...
+[101] bibtex.pm:1519> INFO - Found BibTeX data source 'Introduction/Bibliography/introduction_references.bib'
+[133] Biber.pm:4654> INFO - Looking for bibtex file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib' for section 0
+[139] bibtex.pm:1713> INFO - LaTeX decoding ...
+[180] bibtex.pm:1519> INFO - Found BibTeX data source 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib'
+[281] Biber.pm:4654> INFO - Looking for bibtex file 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib' for section 0
+[285] bibtex.pm:1713> INFO - LaTeX decoding ...
+[301] bibtex.pm:1519> INFO - Found BibTeX data source 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib'
+[387] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[387] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[387] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[387] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[414] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[431] bbl.pm:779> INFO - Output to main.bbl
+[431] Biber.pm:131> WARN - Duplicate entry key: 'carvajal-yepesGlobalSurveillanceSystem2019' in file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib', skipping ...
+[431] Biber.pm:133> INFO - WARNINGS: 1

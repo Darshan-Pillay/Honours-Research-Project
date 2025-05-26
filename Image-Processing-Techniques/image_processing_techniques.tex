@@ -1,72 +1,31 @@
 \section{Image Processing And Plant Phenotyping}
 
  \paragraph{}
- Traditional plant phenotyping methods are destructive, prone to human error, time-consuming, and challenging to perform from start to end of a plant's ontogenesis \cite{arnalbarbedoDigitalImageProcessing2013, zhangHighthroughputPhenotypingPlant2023}. Recent advances in image sensing, processing, and data management have produced high-throughput image-based plant phenotyping systems, which alleviate the issues with traditional manual methods. These high throughput systems are amenable to automation and can analyse a large sample of data precisely in a very short period. Reducing the need for potentially erroneous, time-consuming, expensive human labour \cite{daschoudhuryLeveragingImageAnalysis2019}. Modern high-throughput image-based plant phenotyping systems are examples of cyberinfrastructure (CI) systems, which are research environments that support data acquisition, storage, management and computing and processing services distributed over some network \cite{nabwireReviewApplicationArtificial2021}. For image-based plant phenotyping, this means that image acquisition and processing techniques are vital.
+ Traditional plant phenotyping methods are destructive, prone to human error, time-consuming, and challenging to perform from start to end of a plant's ontogenesis \cite{arnalbarbedoDigitalImageProcessing2013, zhangHighthroughputPhenotypingPlant2023}. Recent advances in image sensing, processing, and data management have produced high-throughput image-based plant phenotyping systems, which are amenable to automation and can analyse large samples of data precisely in a very short period. Reducing the need for potentially erroneous, time-consuming, expensive human labour in plant phenotyping \cite{daschoudhuryLeveragingImageAnalysis2019}. 
  
- \subsection{Image Acquistion In Plant Phenotyping Systems}
- Fill this out
+ \paragraph{}
+ These Modern high-throughput image-based plant phenotyping systems are examples of cyberinfrastructure (CI) systems \cite{abebeImageBasedHighThroughputPhenotyping2023}, which are research environments that support data acquisition, storage, management and computing and processing services distributed over some network \cite{nabwireReviewApplicationArtificial2021}. For image-based plant phenotyping, this means that image acquisition and processing techniques are vital.
  
- \subsection{Image Processing In Plant Phenotyping Systems}
+ \subsection{Image Acquistion Techniques In Plant Phenotyping Systems}
+ 
+ \paragraph{}
+  
+Image processing techniques in plant phenotyping cannot be applied until suitable images are acquired. Image sensor advancements have provided the foundations for detecting various information from plants using electromagnetic radiation. Plant tissues interact with this radiation by absorbing, reflecting, emitting, transmitting, and fluorescing light. Different ranges of wavelengths correspond to different biochemical or physiological aspects of plant tissue, which are not visible to the naked eye \cite{liReviewImagingTechniques2014}. Thus, the choice of imaging technique for data acquisition affects the types of phenotypical parameters that can be measured. 
+
+\subparagraph{}
+Current imaging techniques are visible, fluorescence, thermal, tomographic, and hyperspectral imaging \cite{SensorsMeasuringPlant, liReviewImagingTechniques2014}, where the most commonly used techniques are visible, and hyperspectral imaging due to their affordablity, robustness and flexibility in measuring a wide range of phenotypic parameters.
+
+\subparagraph{}
+The most common imaging technique is visible-imaging. Typically afforadable, and high-resolution RGB cameras are used in visible imaging. These devices are sensitive to the visible spectral range and have been used to measure various phenotypic parameters like shoot biomass, yield and leaf morphology, and salinity tolerance \cite{golzarianAccurateInferenceShoot2011, hoyos-villegasGroundBasedDigitalImaging2014}.
+ 
+ \subparagraph{}
+ Hyperspectral imaging is another widely used in plant phenotyping. In this technique, sensors capture multiple spectral ranges, enabling detailed measurements for various phenotypic parameters. Notable applications of hyperspectral imaging include estimating nutrient content and detecting plant responses to abiotic or biotic stressors \cite{saricApplicationsHyperspectralImaging2022}.
+ 
+ \subparagraph{}
+The other imaging techniques are not as widely used as visible or hyperspectral imaging; however, they are also effective in measuring plant phenotypic parameters. For instance, thermal imaging in plant water stress relations \cite{liReviewImagingTechniques2014, ishimweApplicationsThermalImaging2014}., fluorescence imaging in used plant pathogenic symptom monitoring \cite{lichtenthalerRoleChlorophyllFluorescence1988, swarbrickMetabolicConsequencesSusceptibility2006}, and tomography in estimating plant organ water content \cite{windtMRILongdistanceWater2006}.
+
+\subsection{Image Processing Techniques In Plant Phenotyping Systems}
+There is a lack of generalized or standardised image processing techniques in plant phenotyping; hence, bespoke image processing pipelines are designed for specific plant species or genotypes. However,  many image-processing pipelines in plant phenotyping perform segmentation, machine learning or deep-learning systems for automated analysis and processing of phenotypic data.
+
  
  % Below is for draft
- 
- 
- \textbf{What is the purpose of this section? }
- \begin{itemize}
- 	\item Discuss image processing in the context of plant phenotyping
- 	\item Discuss image acquistion techniques
- 	\item Discuss image processing techniques used in plant phenotyping
- \end{itemize}
- 
-\paragraph{Foundations of image acquistion in plant phenotyping}
-\begin{itemize}
-	\item  measure a phenotype quantitatively through the interaction between light and plants such as reflected photons, absorbed photons, or transmitted photons. Each component of plant cells and tissues has wavelength-specific absorbance, reflectance, and transmittance properties  \cite{liReviewImagingTechniques2014}
-	\item  For example, chlorophyll absorbs photons primarily in the blue and red spectral region of visible light  \cite{liReviewImagingTechniques2014}
-	\item  Imaging at different wavelengths is used for different aspects of plant phenotyping  \cite{liReviewImagingTechniques2014}.
-	\item  Imaging techniques are very helpful for detecting these properties, especially for those that cannot be seen by the naked eye \cite{liReviewImagingTechniques2014}
-\end{itemize}
-
-\paragraph  {Image acquistion methodologies in plant phenotyping}
-
-\subparagraph{Thermal imaging sensors} \hfill
-\begin{itemize}
-	\item Conceptual basis of this technique \cite{prakashTHERMALREMOTESENSING2000}
-	\item Have been used to measure plant water status. 
-	\item Used in Irrigation scheduling.
-	\item By inferring transpiration rate of leaves which is governed by stomoatal conductance.
-	\item Stomotal conductance can indicate drought, pathogens, and also soil salinity. 
-	\item Have also been used for yield predictions \cite{ishimweApplicationsThermalImaging2014} 
-\end{itemize}
-
-\subparagraph{Hyperspectral sensors} \hfill
-\begin{itemize}
-	\item Based on the principles of spectroscopy. Can detric biochemical, morphological and physilogical traits of plants. Has been used to detect drought stress. Also used to detect water stress, and pathogens. Different reflectance can tell us about different things. Certain band tells us about water stress, some can tell us about clholrphyll content. \cite{slatonEstimatingNearinfraredLeaf2001}.
-	\item Conceptual basis and applications \cite{saricApplicationsHyperspectralImaging2022}
-	\item Crop yield
-	\item Biotic and abiotic factors
-\end{itemize}
-
-\subparagraph{Tomography} \hfill
-\begin{itemize}
-	\item three-dimensional visualization of plant internal structures, root systems, and physiological processes
-	\item Based on principles of xray cts, moving sensor takes planar cross sections to 3d visialize plant
-	\item Drought stress \cite{vadezLeasyScanNovelConcept2015}
-	\item Yield Estimations 
-	\item has references for usages \cite{paulusMeasuringCrops3D2019}
-\end{itemize}
-
-\subparagraph{Flouresnce sensors} \hfill
-\begin{itemize}
-	\item Conceptual basis of this technique \cite{tanFarredLightRegulator2022a}
-	\item Predict metabolism using photosynthesis which tells us about growth status
-	\item Any stress or disturbance can indirectly or directly affect plant metabolism, so chlorphyll content canbe us used as a measure to detect these things like pathogens, light shortage, nitrogen deficiency, water stress etc  \cite{lichtenthalerRoleChlorophyllFluorescence1988}
-	\item In optimal conditions, very little heat is emitted in photosynthesis so in certain near infrared emission should be low
-	\item Acitinic light involved here?
-\end{itemize}
-
-\subparagraph{RGB Camera} \hfill
-\begin{itemize}
-	\item Mimic human vision
-	\item measure plant shoot biomass (yield potential) \cite{liReviewImagingTechniques2014}
-	\item leaf senance (tissue resistance to salt)
-\end{itemize}

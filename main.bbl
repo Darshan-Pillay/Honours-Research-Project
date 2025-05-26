@@ -804,6 +804,86 @@
       \endverb
       \keyw{Plant Phenotyping}
     \endentry
+    \entry{golzarianAccurateInferenceShoot2011}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=41735319f7698d9c55c17561b09be181}{%
+           family={Golzarian},
+           familyi={G\bibinitperiod},
+           given={Mahmood\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7ae4524e017f292ceeed825e1d42ed1a}{%
+           family={Frick},
+           familyi={F\bibinitperiod},
+           given={Ross\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f77a2bf4bf94debcf4ec173a8c3fe365}{%
+           family={Rajendran},
+           familyi={R\bibinitperiod},
+           given={Karthika},
+           giveni={K\bibinitperiod}}}%
+        {{hash=93e66a776aeebdbdeac1deb086ab5544}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b40d2f294ccaaad1f2e2950b8d76a9fa}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=879a09a2e678734e6557841bfc6234ab}{%
+           family={Tester},
+           familyi={T\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=94db3c0160861dc5387579a74a29689b}{%
+           family={Lun},
+           familyi={L\bibinitperiod},
+           given={Desmond\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7957944e924c74333fe0ffcaa4d14b59}
+      \strng{fullhash}{d2083b2076f79401281c17a791e1ffd8}
+      \strng{fullhashraw}{d2083b2076f79401281c17a791e1ffd8}
+      \strng{bibnamehash}{7957944e924c74333fe0ffcaa4d14b59}
+      \strng{authorbibnamehash}{7957944e924c74333fe0ffcaa4d14b59}
+      \strng{authornamehash}{7957944e924c74333fe0ffcaa4d14b59}
+      \strng{authorfullhash}{d2083b2076f79401281c17a791e1ffd8}
+      \strng{authorfullhashraw}{d2083b2076f79401281c17a791e1ffd8}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With the establishment of advanced technology facilities for high throughput plant phenotyping, the problem of estimating plant biomass of individual plants from their two dimensional images is becoming increasingly important. The approach predominantly cited in literature is to estimate the biomass of a plant as a linear function of the projected shoot area of plants in the images. However, the estimation error from this model, which is solely a function of projected shoot area, is large, prohibiting accurate estimation of the biomass of plants, particularly for the salt-stressed plants. In this paper, we propose a method based on plant specific weight for improving the accuracy of the linear model and reducing the estimation bias (the difference between actual shoot dry weight and the value of the shoot dry weight estimated with a predictive model). For the proposed method in this study, we modeled the plant shoot dry weight as a function of plant area and plant age. The data used for developing our model and comparing the results with the linear model were collected from a completely randomized block design experiment. A total of 320 plants from two bread wheat varieties were grown in a supported hydroponics system in a greenhouse. The plants were exposed to two levels of hydroponic salt treatments (NaCl at 0 and 100 mM) for 6 weeks. Five harvests were carried out. Each time 64 randomly selected plants were imaged and then harvested to measure the shoot fresh weight and shoot dry weight. The results of statistical analysis showed that with our proposed method, most of the observed variance can be explained, and moreover only a small difference between actual and estimated shoot dry weight was obtained. The low estimation bias indicates that our proposed method can be used to estimate biomass of individual plants regardless of what variety the plant is and what salt treatment has been applied. We validated this model on an independent set of barley data. The technique presented in this paper may extend to other plants and types of stresses.}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{title}{Accurate Inference of Shoot Biomass from High-Throughput Images of Cereal Plants}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/1746-4811-7-2
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/7KC9AR8Z/Golzarian et al. - 2011 - Accurate inference of shoot biomass from high-throughput images of cereal plants.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://plantmethods.biomedcentral.com/articles/10.1186/1746-4811-7-2
+      \endverb
+      \verb{url}
+      \verb https://plantmethods.biomedcentral.com/articles/10.1186/1746-4811-7-2
+      \endverb
+    \endentry
     \entry{grimeEvidenceExistenceThree1997}{article}{}{}
       \name{author}{1}{}{%
         {{hash=615d76860b383a74fa25b54893e7ec56}{%
@@ -904,6 +984,69 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470027318.a9934
       \endverb
       \keyw{3D laser scanner,genotype,high resolution,high throughput analysis,phenotyping,Plant Phenotyping}
+    \endentry
+    \entry{hoyos-villegasGroundBasedDigitalImaging2014}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=468deedb084588e0b278a9122241390a}{%
+           family={Hoyos-Villegas},
+           familyi={H\bibinithyphendelim V\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9c977925e15d5b10615f7fb0eb97a1ac}{%
+           family={Houx},
+           familyi={H\bibinitperiod},
+           given={J.h.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8edb8501aa50790df4bc679bf70948d8}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={S.k.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a2a26f1ce12a84082e7edeab404ba866}{%
+           family={Fritschi},
+           familyi={F\bibinitperiod},
+           given={F.b.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{979be9a42707d60baf5005c3244fa714}
+      \strng{fullhash}{3e5bd57cf2e986d4823d28e74dea6601}
+      \strng{fullhashraw}{3e5bd57cf2e986d4823d28e74dea6601}
+      \strng{bibnamehash}{979be9a42707d60baf5005c3244fa714}
+      \strng{authorbibnamehash}{979be9a42707d60baf5005c3244fa714}
+      \strng{authornamehash}{979be9a42707d60baf5005c3244fa714}
+      \strng{authorfullhash}{3e5bd57cf2e986d4823d28e74dea6601}
+      \strng{authorfullhashraw}{3e5bd57cf2e986d4823d28e74dea6601}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Leaf and canopy characteristics influence light interception and photosynthesis, which ultimately contribute to total biomass production and crop yield. Inexpensive hand-held digital cameras may provide an alternative to time-consuming destructive sampling methods used to assess these traits. The objective of this study was to test the use of common digital cameras as a potential phenotyping tool to predict yield and other crop traits in two soybean (Glycine max L. Merr.) cultivars subjected to differences in soil moisture availability. Weekly digital images were acquired from each plot and used to estimate canopy cover, total aboveground biomass, leaf biomass, photosynthesis, and grain yield. The method proved effective in identifying the dynamics of canopy cover and changes in biomass and grain yield as influenced by soil water availability. Further, it was possible to differentiate between cultivars and accurately determine the timing of maximum crop biomass and canopy cover. The image analysis also indicated the onset of leaf senescence which led to a decrease in total biomass around 90 to 105 d after planting. Principal components analysis showed that canopy coverage extracted from images collected spanning a period from beginning pod to seed filling was positively correlated with grain yield. Models developed using multiple regression analysis exhibited strong relationships between the ground cover data obtained using image analysis and grain yield (R2 = 0.74), crop growth rate (R2 = 0.69), and photosynthesis (R2 = 0.80). Based on these results, digital imaging has potential as a tool to rapidly assess soybean canopy development and estimate biomass accumulation and grain yield.}
+      \field{issn}{1435-0653}
+      \field{journaltitle}{Crop Science}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{title}{Ground-{{Based Digital Imaging}} as a {{Tool}} to {{Assess Soybean Growth}} and {{Yield}}}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{54}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1756\bibrangedash 1768}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.2135/cropsci2013.08.0540
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/LAFIJRPH/cropsci2013.08.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.2135/cropsci2013.08.0540
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.2135/cropsci2013.08.0540
+      \endverb
     \endentry
     \entry{ishimweApplicationsThermalImaging2014}{article}{}{}
       \name{author}{3}{}{%
@@ -1779,40 +1922,6 @@
       \endverb
       \keyw{3D plant scanning,Agronomy,Model plants,Parameterization,Plant Breeding,Plant Development,Plant model,Plant Physiology,Plant traits,Point cloud,Three-Dimensional Imaging}
     \endentry
-    \entry{prakashTHERMALREMOTESENSING2000}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=cd65c77f305d19bf517ae46519430aaf}{%
-           family={Prakash},
-           familyi={P\bibinitperiod},
-           given={Anupma},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{fullhash}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{fullhashraw}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{bibnamehash}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{authorbibnamehash}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{authornamehash}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{authorfullhash}{cd65c77f305d19bf517ae46519430aaf}
-      \strng{authorfullhashraw}{cd65c77f305d19bf517ae46519430aaf}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In the last few decades remote sensing has reached from an experimental to an operational level. The increase in the number of earth observation satellites, the advancement in tools and processing techniques, and the use of data for new applications has been phenomenal. However, the major part of the efforts were directed in the past towards the use of optical data and now also to the use of microwave data. The available literature underlines the fact that the use of data acquired in the thermal infrared region has been relatively limited within the scientific and application community. The limited use of thermal data is linked to several facts such as the limitation of the sensor capabilities, the nature of data itself, and the reluctance of many to explore the potentials of thermal remote sensing. This paper deals with the concepts and issues of thermal remote sensing and presents a variety of applications where thermal data finds its way. The benefits and limitations of thermal data are discussed and the potential of thermal remote sensing, specially in light of future high resolution satellites, is highlighted. The paper concludes with the author's views on the importance of these aspects specially in the standard remote sensing educational programmes.}
-      \field{journaltitle}{International Archives of Photogrammetry and Remote Sensing}
-      \field{langid}{english}
-      \field{title}{{{THERMAL REMOTE SENSING}}: {{CONCEPTS}}, {{ISSUES AND APPLICATIONS}}}
-      \field{volume}{33}
-      \field{year}{2000}
-      \field{dateera}{ce}
-      \field{pages}{239\bibrangedash 243}
-      \range{pages}{5}
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/8LANL6P4/Prakash - THERMAL REMOTE SENSING CONCEPTS, ISSUES AND APPLICATIONS.pdf
-      \endverb
-      \keyw{Phenotyping Sensor}
-    \endentry
     \entry{praveenkumarRosettePlantSegmentation2020}{article}{}{}
       \name{author}{2}{}{%
         {{hash=4ca21e4eccb6f0b8f28bde694523d18d}{%
@@ -2028,177 +2137,84 @@
       \endverb
       \keyw{hyperspectral imaging,noninvasive imaging,Phenotyping Sensor,plant phenotyping,traits}
     \endentry
-    \entry{slatonEstimatingNearinfraredLeaf2001}{article}{}{}
+    \entry{SensorsMeasuringPlant}{online}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensors for Measuring Plant Phenotyping: {{A}} Review}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/U4N53SQQ/Sensors for measuring plant phenotyping A review.pdf;/Users/darshanpillay/Zotero/storage/9SA77YJR/j.ijabe.20181102.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ijabe.net/cn/article/doi/10.25165/j.ijabe.20181102.2696
+      \endverb
+      \verb{url}
+      \verb http://www.ijabe.net/cn/article/doi/10.25165/j.ijabe.20181102.2696
+      \endverb
+      \keyw{Plant phenotyping technology}
+    \endentry
+    \entry{swarbrickMetabolicConsequencesSusceptibility2006}{article}{}{}
       \name{author}{3}{}{%
-        {{hash=ccf98a06e590c1167ddd5eb39f4adc0c}{%
-           family={Slaton},
+        {{hash=bee2602462b2e4f31d59056db80a470a}{%
+           family={Swarbrick},
            familyi={S\bibinitperiod},
-           given={Michèle\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=a8aaa80a30881b9de72649a2f235a655}{%
-           family={Raymond\bibnamedelimb Hunt\bibnamedelima Jr.},
-           familyi={R\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-        {{hash=745165fea5dceedef59b07cd981bdb1b}{%
-           family={Smith},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=866916b40f77a2e0ec09eecf815076a5}{%
+           family={Schulze-Lefert},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1dc952d959598287ae8487665b6ae490}{%
+           family={Scholes},
            familyi={S\bibinitperiod},
-           given={William\bibnamedelima K.},
-           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           given={Julie\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
-      \strng{namehash}{543622b97616d033d059bfda96f85322}
-      \strng{fullhash}{543622b97616d033d059bfda96f85322}
-      \strng{fullhashraw}{543622b97616d033d059bfda96f85322}
-      \strng{bibnamehash}{543622b97616d033d059bfda96f85322}
-      \strng{authorbibnamehash}{543622b97616d033d059bfda96f85322}
-      \strng{authornamehash}{543622b97616d033d059bfda96f85322}
-      \strng{authorfullhash}{543622b97616d033d059bfda96f85322}
-      \strng{authorfullhashraw}{543622b97616d033d059bfda96f85322}
+      \strng{namehash}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{fullhash}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{fullhashraw}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{bibnamehash}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{authorbibnamehash}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{authornamehash}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{authorfullhash}{03a3c2d24050451b3c436ebc1f4a1f2a}
+      \strng{authorfullhashraw}{03a3c2d24050451b3c436ebc1f4a1f2a}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The relationship between near-infrared reflectance at 800 nm (NIRR) from leaves and characteristics of leaf structure known to affect photosynthesis was investigated in 48 species of alpine angiosperms. This wavelength was selected to discriminate the effects of leaf structure vs. chemical or water content on leaf reflectance. A quantitative model was first constructed correlating NIRR with leaf structural characteristics for six species, and then validated using all 48 species. Among the structural characteristics tested in the reflectance model were leaf trichome density, the presence or absence of both leaf bicoloration and a thick leaf cuticle ({$>$}1 μm), leaf thickness, the ratio of palisade mesophyll to spongy mesophyll thickness (PM/SM), the proportion of the mesophyll occupied by intercellular air spaces (\%IAS), and the ratio of mesophyll cell surface area exposed to IAS (Ames) per unit leaf surface area (A), or Ames/A. Multiple regression analysis showed that measured NIRR was highly correlated with Ames/A, leaf bicoloration, and the presence of a thick leaf cuticle (r2 = 0.93). In contrast, correlations between NIRR and leaf trichome density, leaf thickness, the PM/SM ratio, or \%IAS were relatively weak (r2 {$<$} 0.25). A model incorporating Ames/A, leaf bicoloration, and cuticle thickness predicted NIRR accurately for 48 species (r2 = 0.43; P {$<$} 0.01) and may be useful for linking remotely sensed data to plant structure and function.}
-      \field{issn}{1537-2197}
-      \field{journaltitle}{American Journal of Botany}
+      \field{abstract}{In a compatible interaction biotrophic fungi often lower the yield of their hosts by reducing photosynthesis and altering the fluxes of carbon within the infected leaf. In contrast, comparatively little is known about the metabolic consequences of activating resistance responses. In this study we investigated the hypothesis that the activation of both race-specific (Mla12) and broad-spectrum (mlo) resistance pathways in barley leaves infected with Blumeria graminis represents a cost to the plant in terms of carbon production and utilization. We have shown, using quantitative imaging of chlorophyll fluorescence, that during a susceptible interaction, photosynthesis was progressively reduced both in cells directly below fungal colonies and in adjacent cells when compared with uninoculated leaves. The lower rate of photosynthesis was associated with an increase in invertase activity, an accumulation of hexoses and a down-regulation of photosynthetic gene expression. During both Mla12- and mlo-mediated resistance, photosynthesis was also reduced, most severely inhibited in cells directly associated with attempted penetration of the fungus but also in surrounding cells. These cells displayed intense autofluorescence under ultraviolet illumination indicative of the accumulation of phenolic compounds and/or callose deposition. The depression in photosynthesis was not due only to cell death but also to an alteration in source-sink relations and carbon utilization. Apoplastic (cell wall-bound) invertase activity increased more rapidly and to a much greater extent than in infected susceptible leaves and was accompanied by an accumulation of hexoses that was localized to areas of the leaf actively exhibiting resistance responses. The accumulation of hexoses was accompanied by a down-regulation in the expression of Rubisco (rbcS) and chlorophyll a/b binding protein (cab) genes (although to a lesser extent than in a compatible interaction) and with an up-regulation in the expression of the pathogenesis-related protein 1 (PR-1). These results are consistent with a role for invertase in the generation of hexoses, which may supply energy for defence reactions and/or act as signals inducing defence gene expression.}
+      \field{issn}{1365-3040}
+      \field{journaltitle}{Plant, Cell \& Environment}
       \field{langid}{english}
-      \field{number}{2}
-      \field{title}{Estimating Near-Infrared Leaf Reflectance from Leaf Structural Characteristics}
-      \field{urlday}{22}
+      \field{number}{6}
+      \field{title}{Metabolic Consequences of Susceptibility and Resistance (Race-Specific and Broad-Spectrum) in Barley Leaves Challenged with Powdery Mildew}
+      \field{urlday}{26}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
-      \field{volume}{88}
-      \field{year}{2001}
+      \field{volume}{29}
+      \field{year}{2006}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{278\bibrangedash 284}
-      \range{pages}{7}
+      \field{pages}{1061\bibrangedash 1076}
+      \range{pages}{16}
       \verb{doi}
-      \verb 10.2307/2657019
+      \verb 10.1111/j.1365-3040.2005.01472.x
       \endverb
       \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/AS6SI9Q4/Slaton et al. - 2001 - Estimating near-infrared leaf reflectance from leaf structural characteristics.pdf;/Users/darshanpillay/Zotero/storage/A5ZFMXNU/2657019.html
+      \verb /Users/darshanpillay/Zotero/storage/VRLTURD3/Swarbrick et al. - 2006 - Metabolic consequences of susceptibility and resistance (race-specific and broad-spectrum) in barley.pdf;/Users/darshanpillay/Zotero/storage/38PZC3CC/j.1365-3040.2005.01472.html
       \endverb
       \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.2307/2657019
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3040.2005.01472.x
       \endverb
       \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.2307/2657019
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3040.2005.01472.x
       \endverb
-      \keyw{Ames/A,bicoloration,Image Acquisition,leaf structure,mesophyll,near-infrared,Phenotyping Sensor,reflectance}
-    \endentry
-    \entry{tanFarredLightRegulator2022a}{article}{}{}
-      \name{author}{13}{}{%
-        {{hash=0c0123a01b093fecfcb5ee80af44f112}{%
-           family={Tan},
-           familyi={T\bibinitperiod},
-           given={Tingting},
-           giveni={T\bibinitperiod}}}%
-        {{hash=8866f445c79aa3f8bd99e10d2ac043c4}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Shenglan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=0dec059de8d804a893a98da568690143}{%
-           family={Fan},
-           familyi={F\bibinitperiod},
-           given={Yuanfang},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=9a4fc32b98002569295dd8be85097fc1}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Zhonglin},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=cf3b6feeddd61ff8a4f132a373c40917}{%
-           family={Ali\bibnamedelima Raza},
-           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={Muhammad},
-           giveni={M\bibinitperiod}}}%
-        {{hash=99eca37ba0fc5cd453b765e8d2765f09}{%
-           family={Shafiq},
-           familyi={S\bibinitperiod},
-           given={Iram},
-           giveni={I\bibinitperiod}}}%
-        {{hash=7bfd12a15b465b2833eabb0849908454}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Beibei},
-           giveni={B\bibinitperiod}}}%
-        {{hash=455f36072bb09b1c857f53a0c94c3ed6}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={Xiaoling},
-           giveni={X\bibinitperiod}}}%
-        {{hash=7afe2fefb3cf0e2f8d32827d253f79c4}{%
-           family={Yong},
-           familyi={Y\bibinitperiod},
-           given={Taiwen},
-           giveni={T\bibinitperiod}}}%
-        {{hash=b14042e27a7c47eb828b42f3fc8a070e}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Xiaochun},
-           giveni={X\bibinitperiod}}}%
-        {{hash=fc47258d9d022f1886fb6e42f709c39e}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={Yushan},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=f92b99567ca18f79ac55f8db57b458f1}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Feng},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0cc42e4ba8eae58542b7aa6b1592e057}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Wenyu},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier BV}%
-      }
-      \strng{namehash}{4081206b9f8a4d093db327f13e63f645}
-      \strng{fullhash}{fbe8dc4974e993666bda962c0285f23d}
-      \strng{fullhashraw}{fbe8dc4974e993666bda962c0285f23d}
-      \strng{bibnamehash}{4081206b9f8a4d093db327f13e63f645}
-      \strng{authorbibnamehash}{4081206b9f8a4d093db327f13e63f645}
-      \strng{authornamehash}{4081206b9f8a4d093db327f13e63f645}
-      \strng{authorfullhash}{fbe8dc4974e993666bda962c0285f23d}
-      \strng{authorfullhashraw}{fbe8dc4974e993666bda962c0285f23d}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Plant photosynthetic capacity directly determines crop yield. Light quality regulates photosynthetic capacity. This review discusses plant responses to far-red light from the phenotypic to the molecular level, focusing specifically on the improvement of photosynthetic capacity by adjustment of photosynthetic electron transport and the path of light energy. Far-red light can also regulate leaf angle and increase plant height and leaf area, via expression of associated genes, to capture more light energy. Thus, far-red light regulates plant morphology and photosynthetic capacity. Identifying the mechanism of this regulation may lead to increased crop yields.}
-      \field{issn}{2214-5141}
-      \field{journaltitle}{The Crop Journal}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{number}{2}
-      \field{shorttitle}{Far-Red Light}
-      \field{title}{Far-Red Light: {{A}} Regulator of Plant Morphology and Photosynthetic Capacity}
-      \field{urlday}{22}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{10}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{300\bibrangedash 309}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.cj.2021.06.007
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/ESAA8IPD/Tan et al. - 2022 - Far-red light A regulator of plant morphology and photosynthetic capacity.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2214514121001501
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2214514121001501
-      \endverb
+      \keyw{Blumeria graminis,chlorophyll fluorescence imaging,Hordeum vulgare,invertase,photosynthesis,resistance,sugar metabolism}
     \endentry
     \entry{tovarRaspberryPiPowered2018a}{article}{}{}
       \name{author}{12}{}{%
@@ -2524,6 +2540,71 @@
       \verb https://doi.org/10.1007/s12355-021-01087-y
       \endverb
       \keyw{Agriculture,Agronomy,Canopy temperature,Drought,Plant Phenotyping,Plant Physiology,Plant Science,Sugarcane,Thermal image,Time-lapse Imaging,Transpiration,Water stress}
+    \endentry
+    \entry{windtMRILongdistanceWater2006}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=6ef567fc54b66c74ca709eba62e97900}{%
+           family={Windt},
+           familyi={W\bibinitperiod},
+           given={Carel\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=67dd253b02cee81762ccd06237283a50}{%
+           family={Vergeldt},
+           familyi={V\bibinitperiod},
+           given={Frank\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b39f64b4dd663e9de2ac84f81fa65e59}{%
+           family={De\bibnamedelima Jager},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={P.\bibnamedelimi Adrie},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=02d91d64d4d00f8819891698f7d12fae}{%
+           family={Van\bibnamedelima As},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6939a37031b3333755c9172fe210780e}
+      \strng{fullhash}{ca0f03cf7fcfd759b69d0a832ddc9df4}
+      \strng{fullhashraw}{ca0f03cf7fcfd759b69d0a832ddc9df4}
+      \strng{bibnamehash}{6939a37031b3333755c9172fe210780e}
+      \strng{authorbibnamehash}{6939a37031b3333755c9172fe210780e}
+      \strng{authornamehash}{6939a37031b3333755c9172fe210780e}
+      \strng{authorfullhash}{ca0f03cf7fcfd759b69d0a832ddc9df4}
+      \strng{authorfullhashraw}{ca0f03cf7fcfd759b69d0a832ddc9df4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We used dedicated magnetic resonance imaging (MRI) equipment and methods to study phloem and xylem transport in large potted plants. Quantitative flow profiles were obtained on a per-pixel basis, giving parameter maps of velocity, flow-conducting area and volume flow (flux). The diurnal xylem and phloem flow dynamics in poplar, castor bean, tomato and tobacco were compared. In poplar, clear diurnal differences in phloem flow profile were found, but phloem flux remained constant. In tomato, only small diurnal differences in flow profile were observed. In castor bean and tobacco, phloem flow remained unchanged. In all plants, xylem flow profiles showed large diurnal variation. Decreases in xylem flux were accompanied by a decrease in velocity and flow-conducting area. The diurnal changes in flow-conducting area of phloem and xylem could not be explained by pressure-dependent elastic changes in conduit diameter. The phloem to xylem flux ratio reflects what fraction of xylem water is used for phloem transport (Münch’s counterflow). This ratio was large at night for poplar (0.19), castor bean (0.37) and tobacco (0.55), but low in tomato (0.04). The differences in phloem flow velocity between the four species, as well as within a diurnal cycle, were remarkably small (0.25–0.40 mm s−1). We hypothesize that upper and lower bounds for phloem flow velocity may exist: when phloem flow velocity is too high, parietal organelles may be stripped away from sieve tube walls; when sap flow is too slow or is highly variable, phloem-borne signalling could become unpredictable.}
+      \field{issn}{1365-3040}
+      \field{journaltitle}{Plant, Cell \& Environment}
+      \field{langid}{english}
+      \field{number}{9}
+      \field{shorttitle}{{{MRI}} of Long-Distance Water Transport}
+      \field{title}{{{MRI}} of Long-Distance Water Transport: A Comparison of the Phloem and Xylem Flow Characteristics and Dynamics in Poplar, Castor Bean, Tomato and Tobacco}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{29}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1715\bibrangedash 1729}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/j.1365-3040.2006.01544.x
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/L5LM64IH/Windt et al. - 2006 - MRI of long-distance water transport a comparison of the phloem and xylem flow characteristics and.pdf;/Users/darshanpillay/Zotero/storage/ZQTYSGKF/j.1365-3040.2006.01544.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3040.2006.01544.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3040.2006.01544.x
+      \endverb
+      \keyw{diurnal cycle,flow conducting area,flow imaging,hydraulic conductivity,Münch,NMR,pressure-flow hypothesis}
     \endentry
     \entry{yassueLowcostGreenhousebasedHighthroughput2022}{article}{}{}
       \name{author}{6}{}{%
