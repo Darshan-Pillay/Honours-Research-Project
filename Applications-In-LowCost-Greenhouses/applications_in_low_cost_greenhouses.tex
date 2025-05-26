@@ -1,27 +1,34 @@
-\textbf{What is the purpose of this section? }
-\begin{itemize}
-	\item Discuss how image processing and plant phenotyping are applied in low-cost automated greenhouses
-	\item What methods, limitations and advances have there been.
-	\item What does a typical image preprocessing pipeline look like? 
-\end{itemize}
+\section{Low-cost  Automated Image-Based Plant Phenotyping In Greenhouses}
+\paragraph{}
+There is a growing need for low-cost, flexible, modifiable, and extendable automated image processing systems for plant phenotyping applications. Many automated phenotypical image processing systems in greenhouses employ various advanced technologies, such as robotics \cite{saddikMappingAgriculturalSoil}, automated conveyor belts, and benchtop configurations \cite{bruningDevelopmentHyperspectralDistribution2019, peironeAssessingEfficiencyPhenotyping2018}, and advanced image sensors in high-throughput phenotyping systems \cite{liHighThroughputPlantPhenotyping2021}. However, these solutions are not accessible to all plant growers because they tend to be costly \cite{lienLowcostOpensourcePlatform2019}, and many systems are patented by specialized companies, rendering the hardware and software inflexible and unmodifiable \cite{czedik-eysenbergPhenoBoxFlexibleAutomated2018}. Therefore, there is a need for low-cost, flexible, modifiable, and extendable automated image processing systems for plant phenotyping applications.
+
+\subsection{Open-source Software, Systems and Affordable Hardware As Cost Reducers In Image-Based Plant Phenotyping}
+Recent studies in low-cost automated image-based plant phenotyping show increased development of open-source phenotyping systems and the use of readily accessible commercial off-the-shelf hardware \cite{liDigitizationVisualizationGreenhouse2015} to reduce the costs of image-based phenotyping in greenhouse environments. Cheap low-cost compute sensors called Raspberry PIs have been used with affordable RGB and hyperspectral sensors to monitor phenotypic traits in greenhouse environments \cite{tovarRaspberryPiPowered2018a}. Additionally, there is an increase in open-source image-processing plant phenotyping systems like Phenonbox \cite{czedik-eysenbergPhenoBoxFlexibleAutomated2018}.
+
+\subsection{Challenges In Low-Cost Automated Image-Based Plant Phenotyping}
+\paragraph{}
+Although the use of open-source phenotyping systems and affordable off-the-shelf hardware can reduce the cost of phenotypical automated image processing, several challenges concerning image processing, analysis, acquisition, and data management limit the accessibility, applicability, and affordability of automated image processing in greenhouse environments. 
+
+\subparagraph{}
+Because modern image sensors generate a large amount of data, cost-effective data management techniques are required. Image sensors can generate large amounts of data; hyperspectral imaging can require terabytes of data to store \cite{bauckhageDataMiningPattern2013}, and low-cost hardware like Raspberry PIs used in automated greenhouse image processing pipelines have limited bandwidth, storage, and computing power available. Phenotyping cloud architecture systems exist \cite{debaucheCloudArchitecturePlant2020} where compute, and data storage retrieval and uploading is delegated to, however this delegation incurs additional costs, and can potentially be cost prohibitive.
+
+\subsection{Potential Advances For Low-Cost Automated Image-Based Plant Phenotyping}
+Fill this out
+
+% everything below is a draft
 
 \paragraph{Basis for future in low-cost imaging analysis} \hfill \\
 The basis for the points below is from \cite{nabwireReviewApplicationArtificial2021}
 \begin{itemize}
-	\item Existing phenotyping systems are comercially developed and under patent, so are not modifable or readily available \cite{liHighThroughputPlantPhenotyping2021}
 	\item RGB, and hyperspectral sensors most commonly used as they are affordable
 	\item Data collection and analysis tools are not generalizable or standardised, so many custom flows are made
-	\item Indicating the need for standardised, extendable image analysis pipelines using readily avalble open-source softwatre and hardware
-	\item Recenet advances show the use of cheap hardware like raspberry pis, and afforadbale RGB sensors \cite{tovarRaspberryPiPowered2018a}
 	\item However these sensors dont have  a lot of compute power, so analysis and preprocessing is done  remotely
 	\item Cheap sensors but are chaper and faster
-	\item Cloud archtiectures exist, but with amount of data generated this cost can be prohibitive in terms of processing cost \cite{bauckhageDataMiningPattern2013}. Cyberinfrastructure expensive ref (95,96)
 	\item Moreover, existing systems are not designed for multiple genotypes so thier applicability is limited, suggesting need for more generalizable image analysis
 	\item Deeplearning and machine learning can be used to automate image analysis, and reduce costs
 	\item Availablity of large labelled data-is bottleneck
 	\item To use on cheap hardware you also need to optimized
 	\item Therefore low complexity effiecinet algorithms for automated image preprocessing and image analysis is needed
-	\item Using multimodal segmenation is also another angle
 	\item ref[36], one of the advantages of using ML approaches in plant phenotyping is their ability to search large datasets and discover patterns by simultaneously looking at a combination of features (compared to analyzing each feature separately). This was previously a challenge because of the high dimensionality of plant images and their large quantity, making them difficult to analyze through traditional processing methods (ref 37)
 	\item machine learning achived using supervised learning, so we arent able to detect novel or unexpected traits using unsupervised learning (ref 40)
 	\item traditional methods in image processing not geeralizable, in pathogen detection and require strict conditions and custom workflows to work \cite{arnalbarbedoDigitalImageProcessing2013}
@@ -37,7 +44,6 @@ The basis for the points below is from \cite{nabwireReviewApplicationArtificial2
 \begin{itemize}
 	\item Often combined with machine learning algorithms
 	\item Cheap Rasberry PI with RGB camera \cite{tovarRaspberryPiPowered2018a}
-	\item Autonomous robots with sensors and cameras \cite{saddikMappingAgriculturalSoil}
 	\item use off the shelf commerical software like microsoft xbox360 kinect  \cite{liDigitizationVisualizationGreenhouse2015}
 \end{itemize}
 
@@ -58,7 +64,6 @@ Points from this paper \cite{kimDevelopmentLowcostAutomated2024}
 	\item Current applications use moving conveyor belt (benchtop) \cite{liHighThroughputPlantPhenotyping2021}
 	\item or convery belt \cite{liHighThroughputPlantPhenotyping2021} 
 	\item or moving robotic arm to move sensors around to get high-throughput measurements.
-	\item Robot solutions not cheap for farmers \cite{saddikMappingAgriculturalSoil}
 	\item large amounts of data need to be colleceted, and processed. Exisitng phenotyping platforms exist, but they are expensive and have restricted running environments.
 	\item Many systems developed for labratory systems, but not extended for real applications. Standarides off the shelf equipment, open-source software allow modular and extensible plus affordable solutions \cite{minerviniImageAnalysisNew2015}
 	\item Custom data collection schemes need to be made very little standards
