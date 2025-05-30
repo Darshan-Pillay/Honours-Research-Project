@@ -1,23 +1,24 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[31] biber-darwin:340> INFO - === Mon May 26, 2025, 22:56:50
-[43] Biber.pm:420> INFO - Reading 'main.bcf'
-[82] Biber.pm:994> INFO - Found 56 citekeys in bib section 0
-[89] Biber.pm:4463> INFO - Processing section 0
-[94] Biber.pm:4654> INFO - Looking for bibtex file 'Introduction/Bibliography/introduction_references.bib' for section 0
-[96] bibtex.pm:1713> INFO - LaTeX decoding ...
-[100] bibtex.pm:1519> INFO - Found BibTeX data source 'Introduction/Bibliography/introduction_references.bib'
-[129] Biber.pm:4654> INFO - Looking for bibtex file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib' for section 0
-[137] bibtex.pm:1713> INFO - LaTeX decoding ...
-[191] bibtex.pm:1519> INFO - Found BibTeX data source 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib'
-[324] Biber.pm:4654> INFO - Looking for bibtex file 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib' for section 0
-[327] bibtex.pm:1713> INFO - LaTeX decoding ...
-[341] bibtex.pm:1519> INFO - Found BibTeX data source 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib'
-[427] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[427] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[427] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[428] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[449] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[469] bbl.pm:779> INFO - Output to main.bbl
-[469] Biber.pm:131> WARN - Duplicate entry key: 'carvajal-yepesGlobalSurveillanceSystem2019' in file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib', skipping ...
-[469] Biber.pm:133> INFO - WARNINGS: 1
+[33] biber-darwin:340> INFO - === Fri May 30, 2025, 08:02:30
+[48] Biber.pm:420> INFO - Reading 'main.bcf'
+[86] Biber.pm:994> INFO - Found 57 citekeys in bib section 0
+[96] Biber.pm:4463> INFO - Processing section 0
+[103] Biber.pm:4654> INFO - Looking for bibtex file 'Introduction/Bibliography/introduction_references.bib' for section 0
+[113] bibtex.pm:1713> INFO - LaTeX decoding ...
+[119] bibtex.pm:1519> INFO - Found BibTeX data source 'Introduction/Bibliography/introduction_references.bib'
+[151] Biber.pm:4654> INFO - Looking for bibtex file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib' for section 0
+[160] bibtex.pm:1713> INFO - LaTeX decoding ...
+[215] bibtex.pm:1519> INFO - Found BibTeX data source 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib'
+[353] Biber.pm:4654> INFO - Looking for bibtex file 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib' for section 0
+[361] bibtex.pm:1713> INFO - LaTeX decoding ...
+[377] bibtex.pm:1519> INFO - Found BibTeX data source 'Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib'
+[464] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[464] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[464] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[464] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[486] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[505] bbl.pm:779> INFO - Output to main.bbl
+[505] Biber.pm:131> WARN - Duplicate entry key: 'carvajal-yepesGlobalSurveillanceSystem2019' in file 'Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib', skipping ...
+[505] Biber.pm:131> WARN - I didn't find a database entry for 'gomesComputationalSustainabilityComputational2009' (section 0)
+[505] Biber.pm:133> INFO - WARNINGS: 2

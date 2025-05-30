@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  26 MAY 2025 23:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  30 MAY 2025 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,7 +339,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
-(./main.bbl)
+(./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                gomesComputationalSustainabilityComputational2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 14.
 Package biblatex Info: Reference segment=0 on input line 14.
 \openout2 = `Abstract/abstract.aux'.
@@ -399,6 +407,10 @@ Overfull \hbox (6.0167pt too wide) in paragraph at lines 8--8
  []
 
 
+LaTeX Warning: Citation 'gomesComputationalSustainabilityComputational2009' on 
+page 7 undefined on input line 11.
+
+
 
 [7
 
@@ -407,14 +419,14 @@ Overfull \hbox (6.0167pt too wide) in paragraph at lines 8--8
 ]
 
 [8]
-
-[9]
-Overfull \hbox (5.30621pt too wide) in paragraph at lines 63--64
+Overfull \hbox (5.30621pt too wide) in paragraph at lines 64--65
 []\OT1/cmr/m/n/10 Many phe-no-typ-ing sys-tems ex-isit-ing are com-er-cially de
 -vel-oped un-der patent
  []
 
-)
+
+
+[9])
 
 [10]
 \openout2 = `Conclusion/conclusion.aux'.
@@ -507,15 +519,24 @@ d High-throughput
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9250 strings out of 473190
- 197166 string characters out of 5715800
- 1018721 words of memory out of 5000000
- 32436 multiletter control sequences out of 15000+600000
+ 9251 strings out of 473190
+ 197176 string characters out of 5715800
+ 1018821 words of memory out of 5000000
+ 32437 multiletter control sequences out of 15000+600000
  562112 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,5n,81p,2487b,1328s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -528,7 +549,7 @@ r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/loc
 al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (18 pages, 174289 bytes).
+Output written on main.pdf (18 pages, 175202 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
