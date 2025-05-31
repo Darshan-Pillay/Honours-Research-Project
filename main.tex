@@ -11,9 +11,17 @@ sorting=none
 \addbibresource{Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib}
 \addbibresource{Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib}
 
+% PDF Insertion Dependencies
+
+\usepackage{pdfpages}
+
 \begin{document}
 	
+\includepdf{front_page}
+	
 \include{Abstract/abstract}
+
+\tableofcontents
 	
 \include{Introduction/introduction}
 
@@ -28,5 +36,9 @@ sorting=none
 \newpage
 
 \printbibliography
+
+\includepdf[
+pagecommand={}
+]{plagiarism_pledge}
 
 \end{document}
