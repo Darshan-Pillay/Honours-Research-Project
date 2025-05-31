@@ -29,9 +29,5 @@
 \contentsline {paragraph}{}{9}{}%
 \contentsline {subparagraph}{}{9}{}%
 \contentsline {subparagraph}{}{10}{}%
-\contentsline {subparagraph}{}{10}{}%
 \contentsline {subsection}{\numberline {3.3}Potential Advances For Low-Cost Automated Image-Based Plant Phenotyping}{10}{}%
 \contentsline {paragraph}{Basis for future in low-cost imaging analysis}{10}{}%
-\contentsline {paragraph}{Current applications}{11}{}%
-\contentsline {paragraph}{What affects a low-cost automated greenhouse cost}{11}{}%
-\contentsline {paragraph}{Challenges of low-cost automated greenhouses}{11}{}%

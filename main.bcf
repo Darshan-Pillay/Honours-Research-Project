@@ -2369,9 +2369,7 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">Introduction/Bibliography/introduction_references.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">Plant-Phenotyping/Bibliography/plant_phenotyping_references.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">Applications-In-LowCost-Greenhouses/Bibliography/applications_in_low_cost_automated_greenhouses_references.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">laxmanNoninvasiveQuantificationTomato2018</bcf:citekey>
@@ -2450,24 +2448,16 @@
     <bcf:citekey order="59" intorder="1">bauckhageDataMiningPattern2013</bcf:citekey>
     <bcf:citekey order="60" intorder="1">debaucheCloudArchitecturePlant2020</bcf:citekey>
     <bcf:citekey order="61" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">bauckhageDataMiningPattern2013</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">choudhurySegmentationTechniquesChallenges2020</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">arnalbarbedoDigitalImageProcessing2013</bcf:citekey>
-    <bcf:citekey order="65" intorder="2">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">nabwireReviewApplicationArtificial2021</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">choudhurySegmentationTechniquesChallenges2020</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">minerviniApplicationawareImageCompression2013</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">arnalbarbedoDigitalImageProcessing2013</bcf:citekey>
+    <bcf:citekey order="66" intorder="2">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">nabwireReviewApplicationArtificial2021</bcf:citekey>
     <bcf:citekey order="68" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">tovarRaspberryPiPowered2018a</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">liDigitizationVisualizationGreenhouse2015</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">kimDevelopmentLowcostAutomated2024</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">duGreenhousebasedVegetableHighthroughput2021</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">liHighThroughputPlantPhenotyping2021</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">liHighThroughputPlantPhenotyping2021</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">liHighThroughputPlantPhenotyping2021</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
-    <bcf:citekey order="78" intorder="1">yassueLowcostGreenhousebasedHighthroughput2022</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
