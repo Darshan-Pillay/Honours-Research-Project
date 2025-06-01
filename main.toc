@@ -1,4 +1,3 @@
-\contentsline {paragraph}{Why choose image processing techniques?}{4}{}%
 \contentsline {section}{\numberline {1}Plant Phenotyping}{5}{}%
 \contentsline {paragraph}{}{5}{}%
 \contentsline {subsection}{\numberline {1.1}What Is Plant Phenotyping?}{5}{}%
