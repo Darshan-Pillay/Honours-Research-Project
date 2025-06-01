@@ -9,19 +9,16 @@
 \contentsline {paragraph}{}{5}{}%
 \contentsline {paragraph}{}{6}{}%
 \contentsline {paragraph}{}{6}{}%
-\contentsline {section}{\numberline {2}Image Processing And Plant Phenotyping}{7}{}%
+\contentsline {section}{\numberline {2}Image-Based Plant Phenotyping}{7}{}%
 \contentsline {paragraph}{}{7}{}%
 \contentsline {paragraph}{}{7}{}%
-\contentsline {subsection}{\numberline {2.1}Image Acquistion Techniques}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Acquistion Techniques}{7}{}%
 \contentsline {paragraph}{}{7}{}%
 \contentsline {subparagraph}{}{7}{}%
-\contentsline {subparagraph}{}{7}{}%
-\contentsline {subparagraph}{}{7}{}%
-\contentsline {subparagraph}{}{8}{}%
-\contentsline {subsection}{\numberline {2.2}Image Processing Techniques}{8}{}%
+\contentsline {subsection}{\numberline {2.2}Processing Techniques}{8}{}%
 \contentsline {paragraph}{}{8}{}%
 \contentsline {subparagraph}{}{8}{}%
-\contentsline {subsection}{\numberline {2.3}Image Analysis Techniques}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Analysis Techniques}{8}{}%
 \contentsline {section}{\numberline {3}Low-cost Automated Image-Based Plant Phenotyping In Greenhouses}{9}{}%
 \contentsline {paragraph}{}{9}{}%
 \contentsline {subsection}{\numberline {3.1}Open-source Software, Systems and Affordable Hardware As Cost Reducers In Image-Based Plant Phenotyping}{9}{}%
@@ -30,4 +27,3 @@
 \contentsline {subparagraph}{}{9}{}%
 \contentsline {subparagraph}{}{10}{}%
 \contentsline {subsection}{\numberline {3.3}Potential Advances For Low-Cost Automated Image-Based Plant Phenotyping}{10}{}%
-\contentsline {paragraph}{Basis for future in low-cost imaging analysis}{10}{}%

@@ -2437,27 +2437,29 @@
     <bcf:citekey order="50" intorder="2">tovarRaspberryPiPowered2018a</bcf:citekey>
     <bcf:citekey order="50" intorder="3">minerviniImageAnalysisNew2015</bcf:citekey>
     <bcf:citekey order="51" intorder="1">czedik-eysenbergPhenoBoxFlexibleAutomated2018</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">liDigitizationVisualizationGreenhouse2015</bcf:citekey>
-    <bcf:citekey order="52" intorder="2">minerviniImageAnalysisNew2015</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">tovarRaspberryPiPowered2018a</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">czedik-eysenbergPhenoBoxFlexibleAutomated2018</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">zhangHighthroughputPhenotypingPlant2023</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">gomesComputationalSustainabilityComputational2009</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">bauckhageDataMiningPattern2013</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">debaucheCloudArchitecturePlant2020</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">choudhurySegmentationTechniquesChallenges2020</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">minerviniApplicationawareImageCompression2013</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">arnalbarbedoDigitalImageProcessing2013</bcf:citekey>
-    <bcf:citekey order="66" intorder="2">liReviewImagingTechniques2014</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">nabwireReviewApplicationArtificial2021</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">fioraniFutureScenariosPlant2013</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">arnalbarbedoDigitalImageProcessing2013</bcf:citekey>
+    <bcf:citekey order="52" intorder="2">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">liDigitizationVisualizationGreenhouse2015</bcf:citekey>
+    <bcf:citekey order="53" intorder="2">minerviniImageAnalysisNew2015</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">tovarRaspberryPiPowered2018a</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">czedik-eysenbergPhenoBoxFlexibleAutomated2018</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">zhangHighthroughputPhenotypingPlant2023</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">gomesComputationalSustainabilityComputational2009</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">bauckhageDataMiningPattern2013</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">bauckhageDataMiningPattern2013</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">debaucheCloudArchitecturePlant2020</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">minerviniImageAnalysisNew2015</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">choudhurySegmentationTechniquesChallenges2020</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">minerviniApplicationawareImageCompression2013</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">nabwireReviewApplicationArtificial2021</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">liReviewImagingTechniques2014</bcf:citekey>
+    <bcf:citekey order="69" intorder="2">arvidssonGrowthPhenotypingPipeline2011a</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">czedik-eysenbergPhenoBoxFlexibleAutomated2018</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">muller-linowPlantScreenMobile2019</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
