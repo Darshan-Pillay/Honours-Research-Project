@@ -1,28 +1,33 @@
-\contentsline {section}{\numberline {1}Plant Phenotyping}{5}{}%
+\contentsline {section}{\numberline {1}Introduction}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {section}{\numberline {2}Plant Phenotyping}{5}{}%
 \contentsline {paragraph}{}{5}{}%
-\contentsline {subsection}{\numberline {1.1}What Is Plant Phenotyping?}{5}{}%
+\contentsline {subsection}{\numberline {2.1}What Is Plant Phenotyping?}{5}{}%
 \contentsline {paragraph}{}{5}{}%
-\contentsline {subsection}{\numberline {1.2}Plant Phenotyping As Method For Improving Plant Traits}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Plant Phenotyping As Method For Improving Plant Traits}{5}{}%
 \contentsline {paragraph}{}{5}{}%
-\contentsline {subsection}{\numberline {1.3}Image-Obtainable Phenotypical Traits As Indicators Of Plant Health, Growth, And Stress}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Image-Obtainable Phenotypical Traits As Indicators Of Plant Health, Growth, And Stress}{5}{}%
 \contentsline {paragraph}{}{5}{}%
 \contentsline {paragraph}{}{6}{}%
 \contentsline {paragraph}{}{6}{}%
-\contentsline {section}{\numberline {2}Image-Based Plant Phenotyping}{7}{}%
+\contentsline {section}{\numberline {3}Image-Based Plant Phenotyping}{7}{}%
 \contentsline {paragraph}{}{7}{}%
 \contentsline {paragraph}{}{7}{}%
-\contentsline {subsection}{\numberline {2.1}Acquistion Techniques}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Acquistion Techniques}{7}{}%
 \contentsline {paragraph}{}{7}{}%
 \contentsline {subparagraph}{}{7}{}%
-\contentsline {subsection}{\numberline {2.2}Processing Techniques}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Processing Techniques}{8}{}%
 \contentsline {paragraph}{}{8}{}%
 \contentsline {subparagraph}{}{8}{}%
-\contentsline {subsection}{\numberline {2.3}Analysis Techniques}{8}{}%
-\contentsline {section}{\numberline {3}Low-cost Automated Image-Based Plant Phenotyping In Greenhouses}{9}{}%
+\contentsline {section}{\numberline {4}Low-cost Automated Image-Based Plant Phenotyping In Greenhouses}{9}{}%
 \contentsline {paragraph}{}{9}{}%
-\contentsline {subsection}{\numberline {3.1}Open-source Software, Systems and Affordable Hardware As Cost Reducers In Image-Based Plant Phenotyping}{9}{}%
-\contentsline {subsection}{\numberline {3.2}Challenges In Automated Image-Based Plant Phenotyping}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Open-source Software, Systems and Affordable Hardware As Cost Reducers In Image-Based Plant Phenotyping}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Challenges In Automated Image-Based Plant Phenotyping}{9}{}%
 \contentsline {paragraph}{}{9}{}%
 \contentsline {subparagraph}{}{9}{}%
 \contentsline {subparagraph}{}{10}{}%
-\contentsline {subsection}{\numberline {3.3}Potential Advances For Low-Cost Automated Image-Based Plant Phenotyping}{10}{}%
+\contentsline {subsection}{\numberline {4.3}Potential Advances For Low-Cost Automated Image-Based Plant Phenotyping}{10}{}%
+\contentsline {section}{\numberline {5}Conclusion}{11}{}%
