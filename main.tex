@@ -10,7 +10,7 @@ backend=biber,
 sorting=none
 ]{biblatex}
 
-\addbibresource{bibliography.bib}
+\addbibresource{Bibliography/bibliography.bib}
 
 % PDF Insertion Dependencies
 
@@ -31,10 +31,10 @@ sorting=none
 \begin{document}
 
 % Title Page	
-\includepdf{front_page}
+\includepdf{External-Documents/front_page}
 
 %Abstract
-\include{abstract}
+\subfile{Abstract/abstract}
 
 %Table Of Contents		
 \tableofcontents
@@ -45,9 +45,7 @@ sorting=none
 %References
 \printbibliography
 
-%Appendix	
-\includepdf[
-pagecommand={}
-]{plagiarism_pledge}
+%Appendices
+\subfile{Appendices/appendices}
 	
 \end{document}
