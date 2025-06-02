@@ -1,0 +1,50 @@
+\documentclass{report}
+
+% Muti-file Management Depedency
+\usepackage{subfiles}
+
+% Bibliography Dependencies
+
+\usepackage[
+backend=biber, 
+sorting=none
+]{biblatex}
+
+\addbibresource{bibliography.bib}
+
+% PDF Insertion Dependencies
+
+\usepackage{pdfpages}
+
+% Table Of Contents Dependencies
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\Large}
+{} % Hide chapter number prefix
+{0pt}
+{\Huge} 
+
+\begin{document}
+
+% Title Page	
+\includepdf{front_page}
+
+%Abstract
+\include{abstract}
+
+%Table Of Contents		
+\tableofcontents
+
+%Literature Review
+\subfile{Literature-Review/literature_review_main}
+
+%References
+\printbibliography
+
+%Appendix	
+\includepdf[
+pagecommand={}
+]{plagiarism_pledge}
+	
+\end{document}
