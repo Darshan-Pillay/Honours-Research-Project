@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  2 JUN 2025 09:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  2 JUN 2025 09:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -380,11 +380,9 @@ File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
 \@quotelevel=\count404
 \@quotereset=\count405
 
-(./main.aux (./Abstract/abstract.aux) (./Introduction/introduction.aux)
-(./Plant-Phenotyping/plant_phenotyping.aux)
-(./Image-Processing-Techniques/image_processing_techniques.aux)
-(./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.aux
-) (./Conclusion/conclusion.aux))
+(./main.aux (./abstract.aux) (./ntroduction.aux) (./plant_phenotyping.aux)
+(./image_processing_techniques.aux) (./applications_in_low_cost_greenhouses.aux
+) (./conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -485,20 +483,20 @@ Package pdftex.def Info: front_page.pdf , page1 used on input line 18.
 
 
  <./front_page.pdf>]
-\openout2 = `Abstract/abstract.aux'.
+\openout2 = `abstract.aux'.
 
- (./Abstract/abstract.tex)
+ (./abstract.tex)
 
 [2
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
+(Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
+(Font)              <5> on input line 3.
 
-Overfull \hbox (2.23718pt too wide) in paragraph at lines 25--25
+Overfull \hbox (2.23718pt too wide) in paragraph at lines 20--20
  [] []\OT1/cmr/bx/n/10 Low-cost Au-to-mated Image-Based Plant Phe-no-typ-ing In
  Green- 
  []
@@ -513,27 +511,25 @@ Overfull \hbox (2.23718pt too wide) in paragraph at lines 25--25
 
 
 ]
-\openout2 = `Introduction/introduction.aux'.
+\openout2 = `ntroduction.aux'.
 
- (./Introduction/introduction.tex)
+
+No file ntroduction.tex.
+\openout2 = `plant_phenotyping.aux'.
+
+(./plant_phenotyping.tex
 
 [4
 
-]
-\openout2 = `Plant-Phenotyping/plant_phenotyping.aux'.
-
- (./Plant-Phenotyping/plant_phenotyping.tex
-
-[5
 
 
 
 ])
 
-[6]
-\openout2 = `Image-Processing-Techniques/image_processing_techniques.aux'.
+[5]
+\openout2 = `image_processing_techniques.aux'.
 
- (./Image-Processing-Techniques/image_processing_techniques.tex
+ (./image_processing_techniques.tex
 Overfull \hbox (2.66727pt too wide) in paragraph at lines 15--16
  [] \OT1/cmr/m/n/10 Cur-rent imag-ing tech-niques are vis-i-ble, flu-o-res-cenc
 e, ther-mal, to-mo-graphic,
@@ -541,21 +537,18 @@ e, ther-mal, to-mo-graphic,
 
 
 
-[7
+[6
 
 
 
 ])
 
-[8]
-\openout2 = `Applications-In-LowCost-Greenhouses/applications_in_low_cost_green
-houses.aux'.
+[7]
+\openout2 = `applications_in_low_cost_greenhouses.aux'.
 
+ (./applications_in_low_cost_greenhouses.tex
 
-(./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.tex
-
-
-[9
+[8
 
 
 
@@ -567,12 +560,12 @@ data in-clude low-complexity
 
 )
 
-[10]
-\openout2 = `Conclusion/conclusion.aux'.
+[9]
+\openout2 = `conclusion.aux'.
 
- (./Conclusion/conclusion.tex)
+ (./conclusion.tex)
 
-[11
+[10
 
 
 
@@ -599,14 +592,14 @@ c/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / www . ncbi . nlm . nih
 
 
 
-[12
+[11
 
 
 ]
 
-[13]
+[12]
 
-[14]
+[13]
 Overfull \hbox (2.22884pt too wide) in paragraph at lines 37--37
 \OT1/cmr/m/n/10 Phe-no-typ-ing''. In: \OT1/cmr/m/it/10 In-tel-li-gent Im-age An
 al-y-sis for Plant Phe-no-typ-ing\OT1/cmr/m/n/10 . 1st ed.
@@ -614,7 +607,7 @@ al-y-sis for Plant Phe-no-typ-ing\OT1/cmr/m/n/10 . 1st ed.
 
 
 
-[15]
+[14]
 Overfull \hbox (6.05276pt too wide) in paragraph at lines 37--37
 \OT1/cmtt/m/n/10 https : / / linkinghub . elsevier . com / retrieve / pii / S01
 68169916301557$
@@ -634,20 +627,20 @@ m/n/10 (vis-ited on 05/26/2025).
 
 
 
-[16]
+[15]
 
-[17]
+[16]
 Overfull \hbox (13.38226pt too wide) in paragraph at lines 37--37
 \OT1/cmr/m/n/10 39.4 (2009). \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m
 /n/10 https : / / computational -[] sustainability . cis . cornell .
  []
 
-<plagiarism_pledge.pdf, id=78, 597.23125pt x 845.1575pt>
+<plagiarism_pledge.pdf, id=75, 597.23125pt x 845.1575pt>
 File: plagiarism_pledge.pdf Graphic file (type pdf)
 <use plagiarism_pledge.pdf>
 Package pdftex.def Info: plagiarism_pledge.pdf  used on input line 40.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<plagiarism_pledge.pdf, id=80, page=1, 597.23125pt x 845.1575pt>
+<plagiarism_pledge.pdf, id=77, page=1, 597.23125pt x 845.1575pt>
 File: plagiarism_pledge.pdf Graphic file (type pdf)
 <use plagiarism_pledge.pdf, page 1>
 Package pdftex.def Info: plagiarism_pledge.pdf , page1 used on input line 40.
@@ -658,7 +651,7 @@ Package pdftex.def Info: plagiarism_pledge.pdf , page1 used on input line 40.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 
 
-[18]
+[17]
 File: plagiarism_pledge.pdf Graphic file (type pdf)
 <use plagiarism_pledge.pdf, page 1>
 Package pdftex.def Info: plagiarism_pledge.pdf , page1 used on input line 40.
@@ -673,38 +666,27 @@ File: plagiarism_pledge.pdf Graphic file (type pdf)
 <use plagiarism_pledge.pdf, page 1>
 Package pdftex.def Info: plagiarism_pledge.pdf , page1 used on input line 40.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
-[19
+[18
 
- <./plagiarism_pledge.pdf>] (./main.aux (./Abstract/abstract.aux)
-(./Introduction/introduction.aux) (./Plant-Phenotyping/plant_phenotyping.aux)
-(./Image-Processing-Techniques/image_processing_techniques.aux)
-(./Applications-In-LowCost-Greenhouses/applications_in_low_cost_greenhouses.aux
-) (./Conclusion/conclusion.aux))
+ <./plagiarism_pledge.pdf>] (./main.aux (./abstract.aux) (./ntroduction.aux) (.
+/plant_phenotyping.aux) (./image_processing_techniques.aux)
+(./applications_in_low_cost_greenhouses.aux) (./conclusion.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11405 strings out of 473190
- 230249 string characters out of 5715800
+ 11396 strings out of 473190
+ 227276 string characters out of 5715800
  1053760 words of memory out of 5000000
- 34526 multiletter control sequences out of 15000+600000
+ 34525 multiletter control sequences out of 15000+600000
  561777 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,17n,81p,2602b,1306s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,17n,81p,2591b,1306s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -713,10 +695,10 @@ usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (19 pages, 253810 bytes).
+Output written on main.pdf (18 pages, 251412 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 139 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
