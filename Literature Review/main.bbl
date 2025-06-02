@@ -19,55 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{ortonIntroduction2020}{incollection}{}{}
-      \name{author}{1}{}{%
-        {{hash=2b5552182036160f072d916172054f0a}{%
-           family={Orton},
-           familyi={O\bibinitperiod},
-           given={Thomas\bibnamedelima J.},
-           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{2b5552182036160f072d916172054f0a}
-      \strng{fullhash}{2b5552182036160f072d916172054f0a}
-      \strng{fullhashraw}{2b5552182036160f072d916172054f0a}
-      \strng{bibnamehash}{2b5552182036160f072d916172054f0a}
-      \strng{authorbibnamehash}{2b5552182036160f072d916172054f0a}
-      \strng{authornamehash}{2b5552182036160f072d916172054f0a}
-      \strng{authorfullhash}{2b5552182036160f072d916172054f0a}
-      \strng{authorfullhashraw}{2b5552182036160f072d916172054f0a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Horticultural {{Plant Breeding}}}
-      \field{isbn}{978-0-12-815396-3}
-      \field{langid}{english}
-      \field{title}{Introduction}
-      \field{urlday}{16}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{3\bibrangedash 7}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1016/B978-0-12-815396-3.09986-8
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/Y2F9J2IX/Orton - 2020 - Introduction.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
-      \endverb
-      \keyw{Plant Phenotyping}
-    \endentry
     \entry{carvajal-yepesGlobalSurveillanceSystem2019}{article}{}{}
       \name{author}{19}{}{%
         {{hash=22dc11184857134ec9f89bf5624caae5}{%
@@ -174,8 +125,8 @@
       \strng{authornamehash}{ddfbc52d2f55aaef4457157610d9d7fe}
       \strng{authorfullhash}{d57075f2f3043c17b7b348b3c48ad673}
       \strng{authorfullhashraw}{d57075f2f3043c17b7b348b3c48ad673}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Global preparedness minimizes the risk to food supplies , To satisfy a growing demand for food, global agricultural production must increase by 70\% by 2050. However, pests and crop diseases put global food supplies at risk. Worldwide, yield losses caused by pests and diseases are estimated to average 21.5\% in wheat, 30.0\% in rice, 22.6\% in maize, 17.2\% in potato, and 21.4\% in soybean ( 1 ); these crops account for half of the global human calorie intake ( 2 ). Climate change and global trade drive the distribution, host range, and impact of plant diseases ( 3 ), many of which can spread or reemerge after having been under control ( 4 ). Though many national and regional plant protection organizations (NPPOs and RPPOs) work to monitor and contain crop disease outbreaks, many countries, particularly low-income countries (LICs), do not efficiently exchange information, delaying coordinated responses to prevent disease establishment and spread. To improve responses to unexpected crop disease spread, we propose a Global Surveillance System (GSS) that will extend and adapt established biosecurity practices and networking facilities into LICs, enabling countries and regions to quickly respond to emerging disease outbreaks to stabilize food supplies, enhancing global food protection.}
@@ -210,6 +161,455 @@
       \endverb
       \keyw{Introduction,Plant Morphology,Plant Pathology,Plant Stress}
     \endentry
+    \entry{arnalbarbedoDigitalImageProcessing2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7b64b289446966b22b23a151244f02af}{%
+           family={Arnal\bibnamedelima Barbedo},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jayme\bibnamedelima Garcia},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b64b289446966b22b23a151244f02af}
+      \strng{fullhash}{7b64b289446966b22b23a151244f02af}
+      \strng{fullhashraw}{7b64b289446966b22b23a151244f02af}
+      \strng{bibnamehash}{7b64b289446966b22b23a151244f02af}
+      \strng{authorbibnamehash}{7b64b289446966b22b23a151244f02af}
+      \strng{authornamehash}{7b64b289446966b22b23a151244f02af}
+      \strng{authorfullhash}{7b64b289446966b22b23a151244f02af}
+      \strng{authorfullhashraw}{7b64b289446966b22b23a151244f02af}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a survey on methods that use digital image processing techniques to detect, quantify and classify plant diseases from digital images in the visible spectrum. Although disease symptoms can manifest in any part of the plant, only methods that explore visible symptoms in leaves and stems were considered. This was done for two main reasons: to limit the length of the paper and because methods dealing with roots, seeds and fruits have some peculiarities that would warrant a specific survey. The selected proposals are divided into three classes according to their objective: detection, severity quantification, and classification. Each of those classes, in turn, are subdivided according to the main technical solution used in the algorithm. This paper is expected to be useful to researchers working both on vegetable pathology and pattern recognition, providing a comprehensive and accessible overview of this important field of research.}
+      \field{day}{7}
+      \field{issn}{2193-1801}
+      \field{journaltitle}{SpringerPlus}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{SpringerPlus}
+      \field{title}{Digital Image Processing Techniques for Detecting, Quantifying and Classifying Plant Diseases}
+      \field{urlday}{11}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{660}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/2193-1801-2-660
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/DL8WQ6KR/Arnal Barbedo - 2013 - Digital image processing techniques for detecting, quantifying and classifying plant diseases.pdf;/Users/darshanpillay/Zotero/storage/PES3R4WQ/2193-1801-2-660.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/2193-1801-2-660
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/2193-1801-2-660
+      \endverb
+      \keyw{Diseased Region,image processing algorithms,plant pathology,Powdery Mildew,Radial Basis Function,Texture Feature}
+    \endentry
+    \entry{liReviewImagingTechniques2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ad7517ebe80619f75e6261e4aae4f0e1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ddff1c6ccb542f71c04756739d1db1c5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=eed3cc4d53c4f07095819bb66d38e7a5}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Danfeng},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{fullhash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{fullhashraw}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{bibnamehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authorbibnamehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authornamehash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authorfullhash}{b4a71df6eeb7f2f65e80763ce8148098}
+      \strng{authorfullhashraw}{b4a71df6eeb7f2f65e80763ce8148098}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given the rapid development of plant genomic technologies, a lack of access to plant phenotyping capabilities limits our ability to dissect the genetics of quantitative traits. Effective, high-throughput phenotyping platforms have recently been developed to solve this problem. In high-throughput phenotyping platforms, a variety of imaging methodologies are being used to collect data for quantitative studies of complex traits related to the growth, yield and adaptation to biotic or abiotic stress (disease, insects, drought and salinity). These imaging techniques include visible imaging (machine vision), imaging spectroscopy (multispectral and hyperspectral remote sensing), thermal infrared imaging, fluorescence imaging, 3D imaging and tomographic imaging (MRT, PET and CT). This paper presents a brief review on these imaging techniques and their applications in plant phenotyping. The features used to apply these imaging techniques to plant phenotyping are described and discussed in this review.}
+      \field{day}{24}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{month}{10}
+      \field{number}{11}
+      \field{shortjournal}{Sensors (Basel)}
+      \field{title}{A {{Review}} of {{Imaging Techniques}} for {{Plant Phenotyping}}}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20078\bibrangedash 20111}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.3390/s141120078
+      \endverb
+      \verb{eprint}
+      \verb 25347588
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/LYCK58TF/Li et al. - 2014 - A Review of Imaging Techniques for Plant Phenotyping.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279472/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279472/
+      \endverb
+      \keyw{Plant phenotyping}
+    \endentry
+    \entry{minerviniImageAnalysisNew2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3b6aaf2559b35d08cdc003f3871bd6d0}{%
+           family={Minervini},
+           familyi={M\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b81fba05da4550e3b3fdad84305dd27a}{%
+           family={Scharr},
+           familyi={S\bibinitperiod},
+           given={Hanno},
+           giveni={H\bibinitperiod}}}%
+        {{hash=837d1f71e1b92108907a6b40b27bc9b8}{%
+           family={Tsaftaris},
+           familyi={T\bibinitperiod},
+           given={Sotirios\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{fullhash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{fullhashraw}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{bibnamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authorbibnamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authornamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authorfullhash}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \strng{authorfullhashraw}{ab1f2adb5fdbe9906181fb37389e1a75}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1053-5888, 1558-0792}
+      \field{journaltitle}{IEEE Signal Processing Magazine}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{4}
+      \field{shortjournal}{IEEE Signal Process. Mag.}
+      \field{shorttitle}{Image {{Analysis}}}
+      \field{title}{Image {{Analysis}}: {{The New Bottleneck}} in {{Plant Phenotyping}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{32}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{126\bibrangedash 131}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MSP.2015.2405111
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/ZLBZAMQM/Minervini et al. - 2015 - Image Analysis The New Bottleneck in Plant Phenotyping [Applications Corner].pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/7123050/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/7123050/
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
+    \entry{zhangHighthroughputPhenotypingPlant2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=5dc47fd87f12ee5ea7259a6b241b7679}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Huichun},
+           giveni={H\bibinitperiod}}}%
+        {{hash=55f210233ac686af68eba11a97bd84e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8f78109ff863f7f05f30f804b48d0ef1}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Xiuliang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=58f2aff416d95507554a7294088b03e9}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Liming},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9887f3927bed4a9b6f9546d19b040159}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Yufeng},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{fullhash}{cc134acc2bd3aba4ef2279104228758c}
+      \strng{fullhashraw}{cc134acc2bd3aba4ef2279104228758c}
+      \strng{bibnamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{authorbibnamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{authornamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
+      \strng{authorfullhash}{cc134acc2bd3aba4ef2279104228758c}
+      \strng{authorfullhashraw}{cc134acc2bd3aba4ef2279104228758c}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Acquisition of plant phenotypic information facilitates plant breeding, sheds light on gene action, and can be applied to optimize the quality of agricultural and forestry products. Because leaves often show the fastest responses to external environmental stimuli, leaf phenotypic traits are indicators of plant growth, health, and stress levels. Combination of new imaging sensors, image processing, and data analytics permits measurement over the full life span of plants at high temporal resolution and at several organizational levels from organs to individual plants to field populations of plants. We review the optical sensors and associated data analytics used for measuring morphological, physiological, and biochemical traits of plant leaves on multiple scales. We summarize the characteristics, advantages and limitations of optical sensing and data-processing methods applied in various plant phenotyping scenarios. Finally, we discuss the future prospects of plant leaf phenotyping research. This review aims to help researchers choose appropriate optical sensors and data processing methods to acquire plant leaf phenotypes rapidly, accurately, and cost-effectively.}
+      \field{day}{1}
+      \field{issn}{2214-5141}
+      \field{journaltitle}{The Crop Journal}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{The Crop Journal}
+      \field{title}{High-Throughput Phenotyping of Plant Leaf Morphological, Physiological, and Biochemical Traits on Multiple Scales Using Optical Sensing}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1303\bibrangedash 1318}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.cj.2023.04.014
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/LBQKJ4GD/Zhang et al. - 2023 - High-throughput phenotyping of plant leaf morphological, physiological, and biochemical traits on mu.pdf;/Users/darshanpillay/Zotero/storage/FMEF4B4M/S2214514123000740.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214514123000740
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214514123000740
+      \endverb
+      \keyw{Artificial intelligence,Image processing,Leaf traits,Machine learning,Optical sensing,Plant Phenotyping}
+    \endentry
+    \entry{choudhurySegmentationTechniquesChallenges2020}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3ab19acf09628175da7cd0a34c754a6}{%
+           family={Choudhury},
+           familyi={C\bibinitperiod},
+           given={Sruti\bibnamedelima Das},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{fullhash}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{fullhashraw}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{bibnamehash}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{authorbibnamehash}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{authornamehash}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{authorfullhash}{c3ab19acf09628175da7cd0a34c754a6}
+      \strng{authorfullhashraw}{c3ab19acf09628175da7cd0a34c754a6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This chapter presents a comprehensive and critical survey of segmentation techniques developed for above-ground plant phenotyping applications. From a practitioner’s point of view, three main parameters, that play pivotal roles in the choice of segmentation algorithms, are: phenotyping platforms, imaging modalities, and phenotyping categories. The chapter focuses on segmentation algorithms using single images; segmentation based on multiple images. It presents the state-of-the-art traditional and learning-based segmentation techniques used for plant phenotyping. The chapter summarizes publicly available benchmark datasets, and discusses the potential open problems. It also summarizes the traditional and learning-based segmentation techniques used for holistic and component plant phenotyping analysis in both controlled environment and field-based phenotyping platforms. Color image segmentation is the process of partitioning an image into different regions, based on the color feature of the image pixels.}
+      \field{booktitle}{Intelligent {{Image Analysis}} for {{Plant Phenotyping}}}
+      \field{edition}{1}
+      \field{isbn}{978-1-315-17730-4}
+      \field{pagetotal}{24}
+      \field{title}{Segmentation {{Techniques}} and {{Challenges}} in {{Plant Phenotyping}}}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{muller-linowPlantScreenMobile2019}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=737c558f13930fdb2cc4f4f746496872}{%
+           family={Müller-Linow},
+           familyi={M\bibinithyphendelim L\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=03990048d56a72ed354235197476d069}{%
+           family={Wilhelm},
+           familyi={W\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=563b65923bac1187abb1dc018b4b09e9}{%
+           family={Briese},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a72d5ec0145c5737fc4dac7d3edaa88a}{%
+           family={Wojciechowski},
+           familyi={W\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=43677feff02df8cd1730c806f1af7312}{%
+           family={Schurr},
+           familyi={S\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+        {{hash=95589f8de90b846467f4f387b0d214f8}{%
+           family={Fiorani},
+           familyi={F\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{fullhash}{dff55cf6392421692c033d3645eccdcd}
+      \strng{fullhashraw}{dff55cf6392421692c033d3645eccdcd}
+      \strng{bibnamehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{authorbibnamehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{authornamehash}{8518017738e5360fcf8d035d9554937a}
+      \strng{authorfullhash}{dff55cf6392421692c033d3645eccdcd}
+      \strng{authorfullhashraw}{dff55cf6392421692c033d3645eccdcd}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: The development of leaf area is one of the fundamental variables to quantify plant growth and physi‑ological function and is therefore widely used to characterize genotypes and their interaction with the environment. To date, analysis of leaf area often requires elaborate and destructive measurements or imaging‑based methods accompanied by automation that may result in costly solutions. Consequently in recent years there is an increasing trend towards simple and affordable sensor solutions and methodologies. A major focus is currently on harnessing the potential of applications developed for smartphones that provide access to analysis tools to a wide user basis. However, most existing applications entail significant manual effort during data acquisition and analysis. Results: With the development of Plant Screen Mobile we provide a suitable smartphone solution for estimating digi‑tal proxies of leaf area and biomass in various imaging scenarios in the lab, greenhouse and in the field. To distinguish between plant tissue and background the core of the application comprises different classification approaches that can be parametrized by users delivering results on‑the‑fly. We demonstrate the practical applications of computing projected leaf area based on two case studies with Eragrostis and Musa plants. These studies showed highly significant correlations with destructive measurements of leaf area and biomass from both ground truth measurements and estimations from well‑established screening systems. Conclusions: We show that a smartphone together with our analysis tool Plant Screen Mobile is a suitable platform for rapid quantification of leaf and shoot development of various plant architectures. Beyond the estimation of projected leaf area the app can also be used to quantify color and shape parameters of other plant material including seeds and flowers.}
+      \field{issn}{1746-4811}
+      \field{journaltitle}{Plant Methods}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Plant Methods}
+      \field{shorttitle}{Plant {{Screen Mobile}}}
+      \field{title}{Plant {{Screen Mobile}}: An Open-Source Mobile Device App for Plant Trait Analysis}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13007-019-0386-z
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/PTE3VDSF/Müller-Linow et al. - 2019 - Plant Screen Mobile an open-source mobile device app for plant trait analysis.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0386-z
+      \endverb
+      \verb{url}
+      \verb https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0386-z
+      \endverb
+      \keyw{Applications In Low-cost automated Greenhouses}
+    \endentry
+    \entry{gomesComputationalSustainabilityComputational2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=95cb7a90548b1a63dc278994785f3a9b}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{fullhash}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{fullhashraw}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{bibnamehash}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{authorbibnamehash}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{authornamehash}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{authorfullhash}{95cb7a90548b1a63dc278994785f3a9b}
+      \strng{authorfullhashraw}{95cb7a90548b1a63dc278994785f3a9b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{entrysubtype}{nonacademic}
+      \field{journaltitle}{The BRIDGE}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{title}{Computational {{Sustainability}} {{Computational Methods}} for a {{Sustainable Environment}}, {{Economy}}, and {{Society}}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{39}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/B8WWF9CQ/Gomes-NAE-Bridge-Winter09.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://computational-sustainability.cis.cornell.edu/pdfs/Gomes-NAE-Bridge-Winter09.pdf
+      \endverb
+      \verb{url}
+      \verb https://computational-sustainability.cis.cornell.edu/pdfs/Gomes-NAE-Bridge-Winter09.pdf
+      \endverb
+    \endentry
+    \entry{ortonIntroduction2020}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=2b5552182036160f072d916172054f0a}{%
+           family={Orton},
+           familyi={O\bibinitperiod},
+           given={Thomas\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2b5552182036160f072d916172054f0a}
+      \strng{fullhash}{2b5552182036160f072d916172054f0a}
+      \strng{fullhashraw}{2b5552182036160f072d916172054f0a}
+      \strng{bibnamehash}{2b5552182036160f072d916172054f0a}
+      \strng{authorbibnamehash}{2b5552182036160f072d916172054f0a}
+      \strng{authornamehash}{2b5552182036160f072d916172054f0a}
+      \strng{authorfullhash}{2b5552182036160f072d916172054f0a}
+      \strng{authorfullhashraw}{2b5552182036160f072d916172054f0a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Horticultural {{Plant Breeding}}}
+      \field{isbn}{978-0-12-815396-3}
+      \field{langid}{english}
+      \field{title}{Introduction}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-815396-3.09986-8
+      \endverb
+      \verb{file}
+      \verb /Users/darshanpillay/Zotero/storage/Y2F9J2IX/Orton - 2020 - Introduction.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128153963099868
+      \endverb
+      \keyw{Plant Phenotyping}
+    \endentry
     \entry{grimeEvidenceExistenceThree1997}{article}{}{}
       \name{author}{1}{}{%
         {{hash=615d76860b383a74fa25b54893e7ec56}{%
@@ -226,8 +626,8 @@
       \strng{authornamehash}{615d76860b383a74fa25b54893e7ec56}
       \strng{authorfullhash}{615d76860b383a74fa25b54893e7ec56}
       \strng{authorfullhashraw}{615d76860b383a74fa25b54893e7ec56}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The American Naturalist}
@@ -285,8 +685,8 @@
       \strng{authornamehash}{5b8a7aa1f6af6052305ac6e7e36004e9}
       \strng{authorfullhash}{5b8a7aa1f6af6052305ac6e7e36004e9}
       \strng{authorfullhashraw}{5b8a7aa1f6af6052305ac6e7e36004e9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Plant breeding techniques encompass all the processes aimed at improving the genetic characteristics of a crop. It helps in achieving desirable characteristics like resistance to diseases and pests, tolerance to environmental stresses, higher yield and improved quality of the crop. This review article aims to describe and evaluate the current plant breeding techniques and novel methods. This qualitative review employs a comparative approach in exploring the different plant breeding techniques. Conventional plant breeding techniques were compared with modern ones to understand the advancements in plant biotechnology. Backcross breeding, mass selection, and pure-line selection were all discussed in conventional plant breeding for self-pollination and recurrent selection and hybridisation were employed for cross-pollinated crops. Modern techniques comprise of CRISPR Cas-9, high-throughput phenotyping, marker-assisted selection and genomic selection. Further, novel techniques were reviewed to gain more insight. An in-depth analysis of conventional and modern plant breeding has helped gain insight on the advantages and disadvantages of the two. Modern breeding techniques have an upper hand as they are more reliable and less time consuming. It is also more accurate as it is a genotype-based method. However, conventional breeding techniques are cost effective and require less expertise. Modern plant breeding has an upper hand as it uses genomics techniques. Techniques like QTL mapping, marker assisted breeding aid in selection of superior plants right at the seedling stage, which is impossible with conventional breeding. Unlike the conventional method, modern methods are capable of selecting recessive alleles by using different markers. Modern plant breeding is a science and therefore more reliable and accurate.}
@@ -339,8 +739,8 @@
       \strng{authornamehash}{7d55fe3437aab0bce3817fc7489a06c5}
       \strng{authorfullhash}{7d55fe3437aab0bce3817fc7489a06c5}
       \strng{authorfullhashraw}{7d55fe3437aab0bce3817fc7489a06c5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{With increasing demand to support and accelerate progress in breeding for novel traits, the plant research community faces the need to accurately measure increasingly large numbers of plants and plant parameters. The goal is to provide quantitative analyses of plant structure and function relevant for traits that help plants better adapt to lowinput agriculture and resource-limited environments. We provide an overview of the inherently multidisciplinary research in plant phenotyping, focusing on traits that will assist in selecting genotypes with increased resource use efficiency. We highlight opportunities and challenges for integrating noninvasive or minimally invasive technologies into screening protocols to characterize plant responses to environmental challenges for both controlled and field experimentation. Although technology evolves rapidly, parallel efforts are still required because large-scale phenotyping demands accurate reporting of at least a minimum set of information concerning experimental protocols, data management schemas, and integration with modeling. The journey toward systematic plant phenotyping has only just begun.}
@@ -391,8 +791,8 @@
       \strng{authornamehash}{51d6795360ee32ab13273ec886b70132}
       \strng{authorfullhash}{51d6795360ee32ab13273ec886b70132}
       \strng{authorfullhashraw}{51d6795360ee32ab13273ec886b70132}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0003-0147, 1537-5323}
@@ -449,8 +849,8 @@
       \strng{authornamehash}{e49d9caafdd318ff2a7c7ff58665ff7b}
       \strng{authorfullhash}{e49d9caafdd318ff2a7c7ff58665ff7b}
       \strng{authorfullhashraw}{e49d9caafdd318ff2a7c7ff58665ff7b}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The purpose of phenotyping is to produce a description of the plant's anatomical, ontological, physiological, and biochemical properties. The description needs to be numerical, and the methodology needs to be rapid, repeatable, and inexpensive if a large number of samples need to be measured. In recent years, high throughput phenotyping analysis methods have become state of the art in the life sciences. The recent advancement in currently used new high throughput and high resolution phenotyping technologies is reviewed.}
@@ -496,8 +896,8 @@
       \strng{authornamehash}{954973c6f498062beb3a313d7a2134ab}
       \strng{authorfullhash}{954973c6f498062beb3a313d7a2134ab}
       \strng{authorfullhashraw}{954973c6f498062beb3a313d7a2134ab}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{To ensure that crop production keeps up with population growth, it is necessary to select crops with high yields and stress tolerance. It is possible to im..1102322}
@@ -517,71 +917,6 @@
       \verb https://www.abrinternationaljournal.org/abstract/review-on-plant-phenotyping-1102322.html
       \endverb
       \keyw{Plant Phenotyping}
-    \endentry
-    \entry{liReviewImagingTechniques2014}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=ad7517ebe80619f75e6261e4aae4f0e1}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Lei},
-           giveni={L\bibinitperiod}}}%
-        {{hash=ddff1c6ccb542f71c04756739d1db1c5}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Qin},
-           giveni={Q\bibinitperiod}}}%
-        {{hash=eed3cc4d53c4f07095819bb66d38e7a5}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Danfeng},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{fullhash}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{fullhashraw}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{bibnamehash}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{authorbibnamehash}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{authornamehash}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{authorfullhash}{b4a71df6eeb7f2f65e80763ce8148098}
-      \strng{authorfullhashraw}{b4a71df6eeb7f2f65e80763ce8148098}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Given the rapid development of plant genomic technologies, a lack of access to plant phenotyping capabilities limits our ability to dissect the genetics of quantitative traits. Effective, high-throughput phenotyping platforms have recently been developed to solve this problem. In high-throughput phenotyping platforms, a variety of imaging methodologies are being used to collect data for quantitative studies of complex traits related to the growth, yield and adaptation to biotic or abiotic stress (disease, insects, drought and salinity). These imaging techniques include visible imaging (machine vision), imaging spectroscopy (multispectral and hyperspectral remote sensing), thermal infrared imaging, fluorescence imaging, 3D imaging and tomographic imaging (MRT, PET and CT). This paper presents a brief review on these imaging techniques and their applications in plant phenotyping. The features used to apply these imaging techniques to plant phenotyping are described and discussed in this review.}
-      \field{day}{24}
-      \field{eprinttype}{pubmed}
-      \field{issn}{1424-8220}
-      \field{journaltitle}{Sensors (Basel, Switzerland)}
-      \field{month}{10}
-      \field{number}{11}
-      \field{shortjournal}{Sensors (Basel)}
-      \field{title}{A {{Review}} of {{Imaging Techniques}} for {{Plant Phenotyping}}}
-      \field{urlday}{20}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{14}
-      \field{year}{2014}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{20078\bibrangedash 20111}
-      \range{pages}{34}
-      \verb{doi}
-      \verb 10.3390/s141120078
-      \endverb
-      \verb{eprint}
-      \verb 25347588
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/LYCK58TF/Li et al. - 2014 - A Review of Imaging Techniques for Plant Phenotyping.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279472/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279472/
-      \endverb
-      \keyw{Plant phenotyping}
     \endentry
     \entry{walterPlantPhenotypingBean2015}{article}{}{}
       \name{author}{3}{}{%
@@ -706,78 +1041,6 @@
       \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00508/full
       \endverb
       \keyw{high-throughput plant phenotyping,image analysis,multimodal image sequence,phenotype taxonomy,physiological phenotype,Plant Morphology,structural phenotype,Temporal phenotype}
-    \endentry
-    \entry{zhangHighthroughputPhenotypingPlant2023}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=5dc47fd87f12ee5ea7259a6b241b7679}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Huichun},
-           giveni={H\bibinitperiod}}}%
-        {{hash=55f210233ac686af68eba11a97bd84e2}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Lu},
-           giveni={L\bibinitperiod}}}%
-        {{hash=8f78109ff863f7f05f30f804b48d0ef1}{%
-           family={Jin},
-           familyi={J\bibinitperiod},
-           given={Xiuliang},
-           giveni={X\bibinitperiod}}}%
-        {{hash=58f2aff416d95507554a7294088b03e9}{%
-           family={Bian},
-           familyi={B\bibinitperiod},
-           given={Liming},
-           giveni={L\bibinitperiod}}}%
-        {{hash=9887f3927bed4a9b6f9546d19b040159}{%
-           family={Ge},
-           familyi={G\bibinitperiod},
-           given={Yufeng},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{09a65df6b36e2b0b8a8a0292801fcd36}
-      \strng{fullhash}{cc134acc2bd3aba4ef2279104228758c}
-      \strng{fullhashraw}{cc134acc2bd3aba4ef2279104228758c}
-      \strng{bibnamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
-      \strng{authorbibnamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
-      \strng{authornamehash}{09a65df6b36e2b0b8a8a0292801fcd36}
-      \strng{authorfullhash}{cc134acc2bd3aba4ef2279104228758c}
-      \strng{authorfullhashraw}{cc134acc2bd3aba4ef2279104228758c}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Acquisition of plant phenotypic information facilitates plant breeding, sheds light on gene action, and can be applied to optimize the quality of agricultural and forestry products. Because leaves often show the fastest responses to external environmental stimuli, leaf phenotypic traits are indicators of plant growth, health, and stress levels. Combination of new imaging sensors, image processing, and data analytics permits measurement over the full life span of plants at high temporal resolution and at several organizational levels from organs to individual plants to field populations of plants. We review the optical sensors and associated data analytics used for measuring morphological, physiological, and biochemical traits of plant leaves on multiple scales. We summarize the characteristics, advantages and limitations of optical sensing and data-processing methods applied in various plant phenotyping scenarios. Finally, we discuss the future prospects of plant leaf phenotyping research. This review aims to help researchers choose appropriate optical sensors and data processing methods to acquire plant leaf phenotypes rapidly, accurately, and cost-effectively.}
-      \field{day}{1}
-      \field{issn}{2214-5141}
-      \field{journaltitle}{The Crop Journal}
-      \field{month}{10}
-      \field{number}{5}
-      \field{shortjournal}{The Crop Journal}
-      \field{title}{High-Throughput Phenotyping of Plant Leaf Morphological, Physiological, and Biochemical Traits on Multiple Scales Using Optical Sensing}
-      \field{urlday}{20}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{11}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1303\bibrangedash 1318}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.1016/j.cj.2023.04.014
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/LBQKJ4GD/Zhang et al. - 2023 - High-throughput phenotyping of plant leaf morphological, physiological, and biochemical traits on mu.pdf;/Users/darshanpillay/Zotero/storage/FMEF4B4M/S2214514123000740.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S2214514123000740
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S2214514123000740
-      \endverb
-      \keyw{Artificial intelligence,Image processing,Leaf traits,Machine learning,Optical sensing,Plant Phenotyping}
     \endentry
     \entry{zhangLeafAreaIndex2021}{article}{}{}
       \name{author}{7}{}{%
@@ -943,8 +1206,8 @@
       \strng{authornamehash}{006ba99418bb5e7d97ef528edc9471e8}
       \strng{authorfullhash}{006ba99418bb5e7d97ef528edc9471e8}
       \strng{authorfullhashraw}{006ba99418bb5e7d97ef528edc9471e8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Plant-based techniques to measure crop water status offer advantages over soil-based methods. The objective of this study was to quantify the relationship between leaf thickness measurements, as a promising plant-based technique, with leaf relative water content (RWC) and assess the model across different species and leaf positions. The relationship between RWC and relative thickness (RT) was determined on corn (Zea mays L.), sorghum (Sorghum bicolor (L.) Moench), soybean (Glycine max (L.) Merr.), and fava bean (Vicia faba L.). RWC was calculated as measured leaf water content/leaf water content at full turgor, and RT as measured leaf thickness/leaf thickness at full turgor. Two leaves from the top, middle, and bottom of five plants of each species were collected at 60 days of age. Leaf samples brought to full turgor were left to dehydrate in a lab. Leaf thickness was measured using a magnetic field sensor and water content using weight loss. The RWC-RT relationship showed a distinct breakpoint, which we hypothesise coincides with the turgor loss point. Linear piecewise modelling was used to regress RWC versus RT, resulted in models explaining 86–97\% of the variations. The precision was improved by including leaf position on the plant in the model. The piecewise model parameters were related to salt tolerance of the species, which is also an indicator of drought resistance. Generally, the species with greater drought and salinity tolerance had a larger RT at the breakpoint.}
@@ -1002,8 +1265,8 @@
       \strng{authornamehash}{17e2562805f581a885590dfd8380091d}
       \strng{authorfullhash}{17e2562805f581a885590dfd8380091d}
       \strng{authorfullhashraw}{17e2562805f581a885590dfd8380091d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In thermal remote sensing the invisible radiation patterns of objects are converted into visible images and these images are called thermograms or thermal images. Thermal images can be acquired using portable, hand-held or thermal sensors that are coupled with optical systems mounted on an airplane or satellite. This technology is a non-invasive, non-contact and non-destructive technique used to determine thermal properties and features of any object of interest and therefore it can be used in many fields, where heat is generated or lost in space and time. Potential use of thermal remote sensing in agriculture includes nursery and greenhouse monitoring, irrigation scheduling, plants disease detection, estimating fruit yield, evaluating maturity of fruits and bruise detection in fruits and vegetables. This paper reviews the application of thermal imaging in agriculture and its potential use in various agricultural practices.}
@@ -1082,8 +1345,8 @@
       \strng{authornamehash}{85805c24365f2d51a57f227d47c99646}
       \strng{authorfullhash}{4e533f178a340ba4876d6a0955b37948}
       \strng{authorfullhashraw}{4e533f178a340ba4876d6a0955b37948}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In sugarcane production, irrigation scheduling based on accurate estimation of the water status is essential to ensure profitable yields. Water stress causes an increment in leaf surface temperature since stomatal closure reduces transpiration; therefore, canopy temperature (CT) is recognized as a useful tool for water stress detection. Thermography could be an alternative way, yet few reports are available on its use in sugarcane. In the present study, we established well-watered and water-stressed sugarcane canopies and acquired CT readings and thermal images, concurrently measuring photosynthesis under a greenhouse condition to validate the usability of thermography. Water suspension raised the soil pF up to the permanent wilting point, putting the water-stressed canopy under a highly dry condition. The shortage of water hardly altered the appearance of sugarcane but significantly dropped photosynthesis and transpiration rates, resulting in increasing CT. The colorings of thermal images were also greatly affected by the water stress; consequently, it became easier to distinguish the well-watered and water-stressed canopies. R gray level was most sensitive to the changes in CT among colors, suggesting that it could be a good indicator of sugarcane water status. Since crop water stress index calculated from transpiration rate was well correlated with the differences of CT and R gray level between the canopies, our study demonstrated that both CT measurement and thermography are useful for water stress detection, however, considering its ease of evaluation and small differences of CT in case of bad weather, the use of thermal images could be more recommended.}
@@ -1146,8 +1409,8 @@
       \strng{authornamehash}{2b6811d5e371824d186b189648a1360b}
       \strng{authorfullhash}{bbbf1e9e63daaa808f039c614c0b7336}
       \strng{authorfullhashraw}{bbbf1e9e63daaa808f039c614c0b7336}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Root phenotyping aims to characterize root system architecture because of its functional role in resource acquisition. RGB imaging and analysis procedures measure root system traits via colour contrasts between roots and growth media or artificial backgrounds. In the case of plants grown in soil-filled rhizoboxes, where the colour contrast can be poor, it is hypothesized that root imaging based on spectral signatures improves segmentation and provides additional knowledge on physico-chemical root properties.}
@@ -1399,57 +1662,6 @@
       \endverb
       \keyw{horticultural crop,image analysis,phenomics,phenotyping,Plant Phenotyping,sensor}
     \endentry
-    \entry{arnalbarbedoDigitalImageProcessing2013}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=7b64b289446966b22b23a151244f02af}{%
-           family={Arnal\bibnamedelima Barbedo},
-           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={Jayme\bibnamedelima Garcia},
-           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-      }
-      \strng{namehash}{7b64b289446966b22b23a151244f02af}
-      \strng{fullhash}{7b64b289446966b22b23a151244f02af}
-      \strng{fullhashraw}{7b64b289446966b22b23a151244f02af}
-      \strng{bibnamehash}{7b64b289446966b22b23a151244f02af}
-      \strng{authorbibnamehash}{7b64b289446966b22b23a151244f02af}
-      \strng{authornamehash}{7b64b289446966b22b23a151244f02af}
-      \strng{authorfullhash}{7b64b289446966b22b23a151244f02af}
-      \strng{authorfullhashraw}{7b64b289446966b22b23a151244f02af}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This paper presents a survey on methods that use digital image processing techniques to detect, quantify and classify plant diseases from digital images in the visible spectrum. Although disease symptoms can manifest in any part of the plant, only methods that explore visible symptoms in leaves and stems were considered. This was done for two main reasons: to limit the length of the paper and because methods dealing with roots, seeds and fruits have some peculiarities that would warrant a specific survey. The selected proposals are divided into three classes according to their objective: detection, severity quantification, and classification. Each of those classes, in turn, are subdivided according to the main technical solution used in the algorithm. This paper is expected to be useful to researchers working both on vegetable pathology and pattern recognition, providing a comprehensive and accessible overview of this important field of research.}
-      \field{day}{7}
-      \field{issn}{2193-1801}
-      \field{journaltitle}{SpringerPlus}
-      \field{month}{12}
-      \field{number}{1}
-      \field{shortjournal}{SpringerPlus}
-      \field{title}{Digital Image Processing Techniques for Detecting, Quantifying and Classifying Plant Diseases}
-      \field{urlday}{11}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{2}
-      \field{year}{2013}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{660}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1186/2193-1801-2-660
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/DL8WQ6KR/Arnal Barbedo - 2013 - Digital image processing techniques for detecting, quantifying and classifying plant diseases.pdf;/Users/darshanpillay/Zotero/storage/PES3R4WQ/2193-1801-2-660.html
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1186/2193-1801-2-660
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1186/2193-1801-2-660
-      \endverb
-      \keyw{Diseased Region,image processing algorithms,plant pathology,Powdery Mildew,Radial Basis Function,Texture Feature}
-    \endentry
     \entry{laxmanNoninvasiveQuantificationTomato2018}{article}{}{}
       \name{author}{4}{}{%
         {{hash=2d13925b434efe35513f054359740891}{%
@@ -1553,8 +1765,8 @@
       \strng{authornamehash}{8a8b84a415bc863fb9f7f08c3ac5e6bd}
       \strng{authorfullhash}{795fe70e4c13c49a65cc8f661b94ac95}
       \strng{authorfullhashraw}{795fe70e4c13c49a65cc8f661b94ac95}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Plant phenomics has been rapidly advancing over the past few years. This advancement is attributed to the increased innovation and availability of new technologies which can enable the high-throughput phenotyping of complex plant traits. The application of artificial intelligence in various domains of science has also grown exponentially in recent years. Notably, the computer vision, machine learning, and deep learning aspects of artificial intelligence have been successfully integrated into non-invasive imaging techniques. This integration is gradually improving the efficiency of data collection and analysis through the application of machine and deep learning for robust image analysis. In addition, artificial intelligence has fostered the development of software and tools applied in field phenotyping for data collection and management. These include opensource devices and tools which are enabling community driven research and data-sharing, thereby availing the large amounts of data required for the accurate study of phenotypes. This paper reviews more than one hundred current state-of-the-art papers concerning AI-applied plant phenotyping published between 2010 and 2020. It provides an overview of current phenotyping technologies and the ongoing integration of artificial intelligence into plant phenotyping. Lastly, the limitations of the current approaches/methods and future directions are discussed.}
@@ -1591,8 +1803,8 @@
       \keyw{Applications In Low-cost automated Greenhouses,Good example of introduction}
     \endentry
     \entry{SensorsMeasuringPlant}{online}{}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{title}{Sensors for Measuring Plant Phenotyping: {{A}} Review}
       \field{urlday}{9}
@@ -1656,8 +1868,8 @@
       \strng{authornamehash}{7957944e924c74333fe0ffcaa4d14b59}
       \strng{authorfullhash}{d2083b2076f79401281c17a791e1ffd8}
       \strng{authorfullhashraw}{d2083b2076f79401281c17a791e1ffd8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{With the establishment of advanced technology facilities for high throughput plant phenotyping, the problem of estimating plant biomass of individual plants from their two dimensional images is becoming increasingly important. The approach predominantly cited in literature is to estimate the biomass of a plant as a linear function of the projected shoot area of plants in the images. However, the estimation error from this model, which is solely a function of projected shoot area, is large, prohibiting accurate estimation of the biomass of plants, particularly for the salt-stressed plants. In this paper, we propose a method based on plant specific weight for improving the accuracy of the linear model and reducing the estimation bias (the difference between actual shoot dry weight and the value of the shoot dry weight estimated with a predictive model). For the proposed method in this study, we modeled the plant shoot dry weight as a function of plant area and plant age. The data used for developing our model and comparing the results with the linear model were collected from a completely randomized block design experiment. A total of 320 plants from two bread wheat varieties were grown in a supported hydroponics system in a greenhouse. The plants were exposed to two levels of hydroponic salt treatments (NaCl at 0 and 100 mM) for 6 weeks. Five harvests were carried out. Each time 64 randomly selected plants were imaged and then harvested to measure the shoot fresh weight and shoot dry weight. The results of statistical analysis showed that with our proposed method, most of the observed variance can be explained, and moreover only a small difference between actual and estimated shoot dry weight was obtained. The low estimation bias indicates that our proposed method can be used to estimate biomass of individual plants regardless of what variety the plant is and what salt treatment has been applied. We validated this model on an independent set of barley data. The technique presented in this paper may extend to other plants and types of stresses.}
@@ -1721,8 +1933,8 @@
       \strng{authornamehash}{979be9a42707d60baf5005c3244fa714}
       \strng{authorfullhash}{3e5bd57cf2e986d4823d28e74dea6601}
       \strng{authorfullhashraw}{3e5bd57cf2e986d4823d28e74dea6601}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Leaf and canopy characteristics influence light interception and photosynthesis, which ultimately contribute to total biomass production and crop yield. Inexpensive hand-held digital cameras may provide an alternative to time-consuming destructive sampling methods used to assess these traits. The objective of this study was to test the use of common digital cameras as a potential phenotyping tool to predict yield and other crop traits in two soybean (Glycine max L. Merr.) cultivars subjected to differences in soil moisture availability. Weekly digital images were acquired from each plot and used to estimate canopy cover, total aboveground biomass, leaf biomass, photosynthesis, and grain yield. The method proved effective in identifying the dynamics of canopy cover and changes in biomass and grain yield as influenced by soil water availability. Further, it was possible to differentiate between cultivars and accurately determine the timing of maximum crop biomass and canopy cover. The image analysis also indicated the onset of leaf senescence which led to a decrease in total biomass around 90 to 105 d after planting. Principal components analysis showed that canopy coverage extracted from images collected spanning a period from beginning pod to seed filling was positively correlated with grain yield. Models developed using multiple regression analysis exhibited strong relationships between the ground cover data obtained using image analysis and grain yield (R2 = 0.74), crop growth rate (R2 = 0.69), and photosynthesis (R2 = 0.80). Based on these results, digital imaging has potential as a tool to rapidly assess soybean canopy development and estimate biomass accumulation and grain yield.}
@@ -2081,115 +2293,6 @@
       \endverb
       \keyw{development,growth,leaf area,modeling,phenotyping}
     \endentry
-    \entry{choudhurySegmentationTechniquesChallenges2020}{incollection}{}{}
-      \name{author}{1}{}{%
-        {{hash=c3ab19acf09628175da7cd0a34c754a6}{%
-           family={Choudhury},
-           familyi={C\bibinitperiod},
-           given={Sruti\bibnamedelima Das},
-           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {CRC Press}%
-      }
-      \strng{namehash}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{fullhash}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{fullhashraw}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{bibnamehash}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{authorbibnamehash}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{authornamehash}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{authorfullhash}{c3ab19acf09628175da7cd0a34c754a6}
-      \strng{authorfullhashraw}{c3ab19acf09628175da7cd0a34c754a6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This chapter presents a comprehensive and critical survey of segmentation techniques developed for above-ground plant phenotyping applications. From a practitioner’s point of view, three main parameters, that play pivotal roles in the choice of segmentation algorithms, are: phenotyping platforms, imaging modalities, and phenotyping categories. The chapter focuses on segmentation algorithms using single images; segmentation based on multiple images. It presents the state-of-the-art traditional and learning-based segmentation techniques used for plant phenotyping. The chapter summarizes publicly available benchmark datasets, and discusses the potential open problems. It also summarizes the traditional and learning-based segmentation techniques used for holistic and component plant phenotyping analysis in both controlled environment and field-based phenotyping platforms. Color image segmentation is the process of partitioning an image into different regions, based on the color feature of the image pixels.}
-      \field{booktitle}{Intelligent {{Image Analysis}} for {{Plant Phenotyping}}}
-      \field{edition}{1}
-      \field{isbn}{978-1-315-17730-4}
-      \field{pagetotal}{24}
-      \field{title}{Segmentation {{Techniques}} and {{Challenges}} in {{Plant Phenotyping}}}
-      \field{year}{2020}
-      \field{dateera}{ce}
-    \endentry
-    \entry{muller-linowPlantScreenMobile2019}{article}{}{}
-      \name{author}{6}{}{%
-        {{hash=737c558f13930fdb2cc4f4f746496872}{%
-           family={Müller-Linow},
-           familyi={M\bibinithyphendelim L\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=03990048d56a72ed354235197476d069}{%
-           family={Wilhelm},
-           familyi={W\bibinitperiod},
-           given={Jens},
-           giveni={J\bibinitperiod}}}%
-        {{hash=563b65923bac1187abb1dc018b4b09e9}{%
-           family={Briese},
-           familyi={B\bibinitperiod},
-           given={Christoph},
-           giveni={C\bibinitperiod}}}%
-        {{hash=a72d5ec0145c5737fc4dac7d3edaa88a}{%
-           family={Wojciechowski},
-           familyi={W\bibinitperiod},
-           given={Tobias},
-           giveni={T\bibinitperiod}}}%
-        {{hash=43677feff02df8cd1730c806f1af7312}{%
-           family={Schurr},
-           familyi={S\bibinitperiod},
-           given={Ulrich},
-           giveni={U\bibinitperiod}}}%
-        {{hash=95589f8de90b846467f4f387b0d214f8}{%
-           family={Fiorani},
-           familyi={F\bibinitperiod},
-           given={Fabio},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{8518017738e5360fcf8d035d9554937a}
-      \strng{fullhash}{dff55cf6392421692c033d3645eccdcd}
-      \strng{fullhashraw}{dff55cf6392421692c033d3645eccdcd}
-      \strng{bibnamehash}{8518017738e5360fcf8d035d9554937a}
-      \strng{authorbibnamehash}{8518017738e5360fcf8d035d9554937a}
-      \strng{authornamehash}{8518017738e5360fcf8d035d9554937a}
-      \strng{authorfullhash}{dff55cf6392421692c033d3645eccdcd}
-      \strng{authorfullhashraw}{dff55cf6392421692c033d3645eccdcd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Background: The development of leaf area is one of the fundamental variables to quantify plant growth and physi‑ological function and is therefore widely used to characterize genotypes and their interaction with the environment. To date, analysis of leaf area often requires elaborate and destructive measurements or imaging‑based methods accompanied by automation that may result in costly solutions. Consequently in recent years there is an increasing trend towards simple and affordable sensor solutions and methodologies. A major focus is currently on harnessing the potential of applications developed for smartphones that provide access to analysis tools to a wide user basis. However, most existing applications entail significant manual effort during data acquisition and analysis. Results: With the development of Plant Screen Mobile we provide a suitable smartphone solution for estimating digi‑tal proxies of leaf area and biomass in various imaging scenarios in the lab, greenhouse and in the field. To distinguish between plant tissue and background the core of the application comprises different classification approaches that can be parametrized by users delivering results on‑the‑fly. We demonstrate the practical applications of computing projected leaf area based on two case studies with Eragrostis and Musa plants. These studies showed highly significant correlations with destructive measurements of leaf area and biomass from both ground truth measurements and estimations from well‑established screening systems. Conclusions: We show that a smartphone together with our analysis tool Plant Screen Mobile is a suitable platform for rapid quantification of leaf and shoot development of various plant architectures. Beyond the estimation of projected leaf area the app can also be used to quantify color and shape parameters of other plant material including seeds and flowers.}
-      \field{issn}{1746-4811}
-      \field{journaltitle}{Plant Methods}
-      \field{langid}{english}
-      \field{month}{12}
-      \field{number}{1}
-      \field{shortjournal}{Plant Methods}
-      \field{shorttitle}{Plant {{Screen Mobile}}}
-      \field{title}{Plant {{Screen Mobile}}: An Open-Source Mobile Device App for Plant Trait Analysis}
-      \field{urlday}{25}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{15}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{2}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1186/s13007-019-0386-z
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/PTE3VDSF/Müller-Linow et al. - 2019 - Plant Screen Mobile an open-source mobile device app for plant trait analysis.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0386-z
-      \endverb
-      \verb{url}
-      \verb https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0386-z
-      \endverb
-      \keyw{Applications In Low-cost automated Greenhouses}
-    \endentry
     \entry{daschoudhuryHolisticComponentPlant2018}{article}{}{}
       \name{author}{5}{}{%
         {{hash=a6c18b8156280772d3aa7851821d045d}{%
@@ -2227,8 +2330,8 @@
       \strng{authorfullhash}{fa064003c7a735a74dc18ecbd5fd04f3}
       \strng{authorfullhashraw}{fa064003c7a735a74dc18ecbd5fd04f3}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Image-based plant phenotyping facilitates the extraction of traits noninvasively by analyzing large number of plants in a relatively short period of time. It has the potential to compute advanced phenotypes by considering the whole plant as a single object (holistic phenotypes) or as individual components, i.e., leaves and the stem (component phenotypes), to investigate the biophysical characteristics of the plants. The emergence timing, total number of leaves present at any point of time and the growth of individual leaves during vegetative stage life cycle of the maize plants are significant phenotypic expressions that best contribute to assess the plant vigor. However, image-based automated solution to this novel problem is yet to be explored.}
@@ -2288,8 +2391,8 @@
       \strng{authornamehash}{178bfd06423715f56b9a59f9e78a91b8}
       \strng{authorfullhash}{178bfd06423715f56b9a59f9e78a91b8}
       \strng{authorfullhashraw}{178bfd06423715f56b9a59f9e78a91b8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this review, we present a comprehensive and critical survey on image-based plant segmentation techniques. In this context, ‘‘segmentation” refers to the process of classifying an image into plant and nonplant pixels. Good performance in this process is crucial for further analysis of the plant such as plant classification (i.e. identifying the plant as either crop or weed), and effective action based on this analysis, e.g. precision application of herbicides in smart agriculture applications.}
@@ -2358,8 +2461,8 @@
       \strng{authornamehash}{da8d9b042b2be25a3693452e28f993cf}
       \strng{authorfullhash}{6d3a8e9741b1cfc4abe3ec029692421f}
       \strng{authorfullhashraw}{6d3a8e9741b1cfc4abe3ec029692421f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{To improve the segmentation precision of overlapping crop leaves, this paper presents an effective image segmentation method based on the Chan–Vese model and Sobel operator. The approach consists of three stages. First, a feature that identifies hues with relatively high levels of green is used to extract the region of leaves and remove the background. Second, the Chan–Vese model and improved Sobel operator are implemented to extract the leaf contours and detect the edges, respectively. Third, a target leaf with a complex background and overlapping is extracted by combining the results obtained by the Chan–Vese model and Sobel operator. To verify the effectiveness of the proposed algorithm, a segmentation experiment was performed on 30 images of cucumber leaf. The mean error rate of the proposed method is 0.0428, which is a decrease of 6.54\% compared with the mean error rate of the level set method. Experimental results show that the proposed method can accurately extract the target leaf from cucumber leaf images with complex backgrounds and overlapping regions.}
@@ -2730,8 +2833,8 @@
       \strng{authornamehash}{0358cb904d2ba27bb257c1e0b0a11f44}
       \strng{authorfullhash}{2edc1957c27863194b9e46095a6f5f4e}
       \strng{authorfullhashraw}{2edc1957c27863194b9e46095a6f5f4e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Our work is focused on developing an autonomous robot to monitor greenhouses and large fields. This system is designed to operate autonomously to extract useful information from the plants based on precise GPS localization. The proposed robot is based on an RGB camera for plant detection and a multispectral camera for extracting the different special bands for processing, and an embedded architecture integrating a Nvidia Jetson Nano, which allows us to perform the required processing. Our system uses a multi-sensor fusion to manage two parts of the algorithm. Therefore, the proposed algorithm was partitioned on the CPU-GPU embedded architecture. This allows us to process each image in 1.94 s in a sequential implementation on the embedded architecture. The approach followed in our implementation is based on a Hardware/Software Co-Design study to propose an optimal implementation. The experiments were conducted on a tomato farm, and the system showed that we can process different images in real time. The parallel implementation allows to process each image in 36 ms allowing us to satisfy the real-time constraints based on 5 images/s. On a laptop, we have a total processing time of 604 ms for the sequential implementation and 9 ms for the parallel processing. In this context, we obtained an acceleration factor of 66 for the laptop and 54 for the embedded architecture. The energy consumption evaluation showed that the prototyped system consumes a power between 4 W and 8 W. For this raison, in our case, we opted a low-cost embedded architecture based on Nvidia Jetson Nano.}
@@ -2809,8 +2912,8 @@
       \strng{authornamehash}{cdb23d4b5d4c401fa6b9cca8ad2a680b}
       \strng{authorfullhash}{15e33cf851e7ee45edb9c02daaf600f0}
       \strng{authorfullhashraw}{15e33cf851e7ee45edb9c02daaf600f0}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Quantifying plant water content and nitrogen levels and determining water and nitrogen phenotypes is important for crop management and achieving optimal yield and quality. Hyperspectral methods have the potential to advance high throughput phenotyping efforts by providing a rapid, accurate, and nondestructive alternative for estimating biochemical and physiological plant traits. Our study (i) acquired hyperspectral images of wheat plants using a high throughput phenotyping system, (ii) developed regression models capable of predicting water and nitrogen levels of wheat plants, and (iii) applied the regression coefficients from the best-performing models to hyperspectral images in order to develop prediction maps to visualize nitrogen and water distribution within plants. Hyperspectral images were collected of four wheat (Triticum aestivum) genotypes grown in nine soil nutrient conditions and under two water treatments. Five multivariate regression methods in combination with 10 spectral preprocessing techniques were employed to find a model with strong predictive performance. Visible and near infrared wavelengths (VNIR: 400–1,000nm) alone were not sufficient to accurately predict water and nitrogen content (validation R2 = 0.56 and R2 = 0.59, respectively) but model accuracy was improved when shortwave-infrared wavelengths (SWIR: 1,000–2,500nm) were incorporated (validation R2 = 0.63 and R2 = 0.66, respectively). Wavelength reduction produced equivalent model accuracies while reducing model size and complexity (validation R2 = 0.69 and R2 = 0.66 for water and nitrogen, respectively). Developed distribution maps provided a visual representation of the concentration and distribution of water within plants while nitrogen maps seemed to suffer from noise. The findings and methods from this study demonstrate the high potential of high-throughput hyperspectral imagery for estimating and visualizing the distribution of plant chemical properties.}
@@ -2881,8 +2984,8 @@
       \strng{authornamehash}{be61e0641d56a54369c0a56532304909}
       \strng{authorfullhash}{fdb4cb256ef343687a246f9743f88829}
       \strng{authorfullhashraw}{fdb4cb256ef343687a246f9743f88829}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Conventional field phenotyping for drought tolerance, the most important factor limiting yield at a global scale, is labor-intensive and time-consuming. Automated greenhouse platforms can increase the precision and throughput of plant phenotyping and contribute to a faster release of drought tolerant varieties. The aim of this work was to establish a framework of analysis to identify early traits which could be efficiently measured in a greenhouse automated phenotyping platform, for predicting the drought tolerance of field grown soybean genotypes. A group of genotypes was evaluated, which showed variation in their drought susceptibility index (DSI) for final biomass and leaf area. A large number of traits were measured before and after the onset of a water deficit treatment, which were analyzed under several criteria: the significance of the regression with the DSI, phenotyping cost, earliness, and repeatability. The most efficient trait was found to be transpiration efficiency measured at 13 days after emergence. This trait was further tested in a second experiment with different water deficit intensities, and validated using a different set of genotypes against field data from a trial network in a third experiment. The framework applied in this work for assessing traits under different criteria could be helpful for selecting those most efficient for automated phenotyping.}
@@ -2961,8 +3064,8 @@
       \strng{authorfullhash}{4a8aeeed21ef081ee68595bb6be6c74c}
       \strng{authorfullhashraw}{4a8aeeed21ef081ee68595bb6be6c74c}
       \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Food scarcity, population growth, and global climate change have propelled crop yield growth driven by high-throughput phenotyping into the era of big data. However, access to large-scale phenotypic data has now become a critical barrier that phenomics urgently must overcome. Fortunately, the high-throughput plant phenotyping platform (HT3P), employing advanced sensors and data collection systems, can take full advantage of non-destructive and high-throughput methods to monitor, quantify, and evaluate specific phenotypes for large-scale agricultural experiments, and it can effectively perform phenotypic tasks that traditional phenotyping could not do. In this way, HT3Ps are novel and powerful tools, for which various commercial, customized, and even self-developed ones have been recently introduced in rising numbers. Here, we review these HT3Ps in nearly 7 years from greenhouses and growth chambers to the field, and from ground-based proximal phenotyping to aerial large-scale remote sensing. Platform configurations, novelties, operating modes, current developments, as well the strengths and weaknesses of diverse types of HT3Ps are thoroughly and clearly described. Then, miscellaneous combinations of HT3Ps for comparative validation and comprehensive analysis are systematically present, for the first time. Finally, we consider current phenotypic challenges and provide fresh perspectives on future development trends of HT3Ps. This review aims to provide ideas, thoughts, and insights for the optimal selection, exploitation, and utilization of HT3Ps, and thereby pave the way to break through current phenotyping bottlenecks in botany.}
@@ -3047,8 +3150,8 @@
       \strng{authornamehash}{6cd7096967103336a5984c3d62858025}
       \strng{authorfullhash}{a61d15a99f8b4548c7b042077c956f30}
       \strng{authorfullhashraw}{a61d15a99f8b4548c7b042077c956f30}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Remote monitoring of plants using hyperspectral imaging has become an important tool for the study of plant growth, development, and physiology. Many applications are oriented towards use in field environments to enable non-destructive analysis of crop responses due to factors such as drought, nutrient deficiency, and disease, e.g., using tram, drone, or airplane mounted instruments. The field setting introduces a wide range of uncontrolled environmental variables that make validation and interpretation of spectral responses challenging, and as such laband greenhouse-deployed systems for plant studies and phenotyping are of increasing interest. In this study, we have designed and developed an open-source, hyperspectral reflectance-based imaging system for lab-based plant experiments: the HyperScanner. The reliability and accuracy of HyperScanner were validated using drought and salt stress experiments with Arabidopsis thaliana. Results: A robust, scalable, and reliable system was created. The system was built using open-sourced parts, and all custom parts, operational methods, and data have been made publicly available in order to maintain the open-source aim of HyperScanner. The gathered reflectance images showed changes in narrowband red and infrared reflectance spectra for each of the stress tests that was evident prior to other visual physiological responses and exhibited congruence with measurements using full-range contact spectrometers. Conclusions: HyperScanner offers the potential for reliable and inexpensive laboratory hyperspectral imaging systems. HyperScanner was able to quickly collect accurate reflectance curves on a variety of plant stress experiments. The resulting images showed spectral differences in plants shortly after application of a treatment but before visual manifestation. HyperScanner increases the capacity for spectroscopic and imaging-based analytical tools by providing more access to hyperspectral analyses in the laboratory setting.}
@@ -3153,8 +3256,8 @@
       \strng{authornamehash}{4503934697ebc1ff39114a83d83755af}
       \strng{authorfullhash}{e4f3d0aeab4f96aea446be7aa6d79ce9}
       \strng{authorfullhashraw}{e4f3d0aeab4f96aea446be7aa6d79ce9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Premise of the Study Image-based phenomics is a powerful approach to capture and quantify plant diversity. However, commercial platforms that make consistent image acquisition easy are often cost-prohibitive. To make high-throughput phenotyping methods more accessible, low-cost microcomputers and cameras can be used to acquire plant image data. Methods and Results We used low-cost Raspberry Pi computers and cameras to manage and capture plant image data. Detailed here are three different applications of Raspberry Pi–controlled imaging platforms for seed and shoot imaging. Images obtained from each platform were suitable for extracting quantifiable plant traits (e.g., shape, area, height, color) en masse using open-source image processing software such as PlantCV. Conclusions This protocol describes three low-cost platforms for image acquisition that are useful for quantifying plant diversity. When coupled with open-source image processing tools, these imaging platforms provide viable low-cost solutions for incorporating high-throughput phenomics into a wide range of research programs.}
@@ -3185,67 +3288,6 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/aps3.1031
       \endverb
       \keyw{Applications In Low-cost automated Greenhouses,imaging,low-cost phenotyping,morphology,Raspberry Pi}
-    \endentry
-    \entry{minerviniImageAnalysisNew2015}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=3b6aaf2559b35d08cdc003f3871bd6d0}{%
-           family={Minervini},
-           familyi={M\bibinitperiod},
-           given={Massimo},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b81fba05da4550e3b3fdad84305dd27a}{%
-           family={Scharr},
-           familyi={S\bibinitperiod},
-           given={Hanno},
-           giveni={H\bibinitperiod}}}%
-        {{hash=837d1f71e1b92108907a6b40b27bc9b8}{%
-           family={Tsaftaris},
-           familyi={T\bibinitperiod},
-           given={Sotirios\bibnamedelima A.},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{fullhash}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{fullhashraw}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{bibnamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{authorbibnamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{authornamehash}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{authorfullhash}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \strng{authorfullhashraw}{ab1f2adb5fdbe9906181fb37389e1a75}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{1053-5888, 1558-0792}
-      \field{journaltitle}{IEEE Signal Processing Magazine}
-      \field{langid}{english}
-      \field{month}{7}
-      \field{number}{4}
-      \field{shortjournal}{IEEE Signal Process. Mag.}
-      \field{shorttitle}{Image {{Analysis}}}
-      \field{title}{Image {{Analysis}}: {{The New Bottleneck}} in {{Plant Phenotyping}}}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{32}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{126\bibrangedash 131}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/MSP.2015.2405111
-      \endverb
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/ZLBZAMQM/Minervini et al. - 2015 - Image Analysis The New Bottleneck in Plant Phenotyping [Applications Corner].pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://ieeexplore.ieee.org/document/7123050/
-      \endverb
-      \verb{url}
-      \verb https://ieeexplore.ieee.org/document/7123050/
-      \endverb
-      \keyw{Applications In Low-cost automated Greenhouses}
     \endentry
     \entry{czedik-eysenbergPhenoBoxFlexibleAutomated2018}{article}{}{}
       \name{author}{7}{}{%
@@ -3293,8 +3335,8 @@
       \strng{authornamehash}{53a39697ce442b4477a1a256ccae10f6}
       \strng{authorfullhash}{e734105c475511e8f217956e56c042b3}
       \strng{authorfullhashraw}{e734105c475511e8f217956e56c042b3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{There is a need for flexible and affordable plant phenotyping solutions for basic research and plant breeding. We demonstrate our open source plant imaging and processing solution (‘PhenoBox’/‘PhenoPipe’) and provide construction plans, source code and documentation to rebuild the system. Use of the PhenoBox is exemplified by studying infection of the model grass Brachypodium distachyon by the head smut fungus Ustilago bromivora, comparing phenotypic responses of maize to infection with a solopathogenic Ustilago maydis (corn smut) strain and effector deletion strains, and studying salt stress response in Nicotiana benthamiana. In U. bromivora-infected grass, phenotypic differences between infected and uninfected plants were detectable weeks before qualitative head smut symptoms. Based on this, we could predict the infection outcome for individual plants with high accuracy. Using a PhenoPipe module for calculation of multi-dimensional distances from phenotyping data, we observe a time after infection-dependent impact of U. maydis effector deletion strains on phenotypic response in maize. The PhenoBox/PhenoPipe system is able to detect established salt stress responses in N. benthamiana. We have developed an affordable, automated, open source imaging and data processing solution that can be adapted to various phenotyping applications in plant biology and beyond.}
@@ -3406,48 +3448,6 @@
       \endverb
       \keyw{Applications In Low-cost automated Greenhouses,greenhouse climate control,L-system,plant digitization,plant visualization,stem detection,tomato plant}
     \endentry
-    \entry{gomesComputationalSustainabilityComputational2009}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=95cb7a90548b1a63dc278994785f3a9b}{%
-           family={Gomes},
-           familyi={G\bibinitperiod},
-           given={Carla},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{fullhash}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{fullhashraw}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{bibnamehash}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{authorbibnamehash}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{authornamehash}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{authorfullhash}{95cb7a90548b1a63dc278994785f3a9b}
-      \strng{authorfullhashraw}{95cb7a90548b1a63dc278994785f3a9b}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{entrysubtype}{nonacademic}
-      \field{journaltitle}{The BRIDGE}
-      \field{langid}{english}
-      \field{number}{4}
-      \field{title}{Computational {{Sustainability}} {{Computational Methods}} for a {{Sustainable Environment}}, {{Economy}}, and {{Society}}}
-      \field{urlday}{25}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{volume}{39}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /Users/darshanpillay/Zotero/storage/B8WWF9CQ/Gomes-NAE-Bridge-Winter09.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://computational-sustainability.cis.cornell.edu/pdfs/Gomes-NAE-Bridge-Winter09.pdf
-      \endverb
-      \verb{url}
-      \verb https://computational-sustainability.cis.cornell.edu/pdfs/Gomes-NAE-Bridge-Winter09.pdf
-      \endverb
-    \endentry
     \entry{bauckhageDataMiningPattern2013}{article}{}{}
       \name{author}{2}{}{%
         {{hash=a19299883183370e09a01f6cec3b9ea4}{%
@@ -3469,8 +3469,8 @@
       \strng{authornamehash}{1adf26d5478c034c30f19b06ecb0081b}
       \strng{authorfullhash}{1adf26d5478c034c30f19b06ecb0081b}
       \strng{authorfullhashraw}{1adf26d5478c034c30f19b06ecb0081b}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Modern communication, sensing, and actuator technologies as well as methods from signal processing, pattern recognition, and data mining are increasingly applied in agriculture. Developments such as increased mobility, wireless networks, new environmental sensors, robots, and the computational cloud put the vision of a sustainable agriculture for anybody, anytime, and anywhere within reach. Yet, precision farming is a fundamentally new domain for computational intelligence and constitutes a truly interdisciplinary venture. Accordingly, researchers and experts of complementary skills have to cooperate in order to develop models and tools for data intensive discovery that allow for operation through users that are not necessarily trained computer scientists. We present approaches and applications that address these challenges and underline the potential of data mining and pattern recognition in agriculture.}
