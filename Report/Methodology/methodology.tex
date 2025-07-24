@@ -1,2 +1,69 @@
+\chapter{Methodology}
+
+\section{Dataset}
 \paragraph{}
-This is placeholder for methodology
+We use a subset of the plant village data set for healthy and diseased tomotoe leaves.
+
+\section{Microservice architecture}
+\begin{itemize}
+	\item Our image processing pipeline consists of a cluster of docker nodes running image processing services
+	\item We use a dockerized ubuntu container with python installation as nodes
+	\item Each node runs a flask rest API web service
+\end{itemize}
+
+\section{Image processing pipeline}
+\begin{itemize}
+	\item We use a conventional image classification pipeline
+	\item  Preprocessing phase
+	\item Segmentation phase
+	\item post-procesing phase
+	\item feature extraction phase
+\end{itemize}
+
+\subsection{Preprocessing Phase}
+\begin{itemize}
+	\item Color Space Conversion ino HSV (removes luminance issues so more robust to varying lighting conditions)
+	\item Filters to make histogram bimodal so foreground and background pixels can be distinguished
+	\item apply other transforms like guassian blur, mean histogram filter to make foreground and background pixel intensity levels when changed to gray scale image more differetiated from each other
+	\item convert image to gray scale image
+\end{itemize}
+
+\subsection{Segmentation Phase}
+\begin{itemize}
+	\item We apply otsu segmentation thresholding method
+	\item due to varying lighting conditions across all images we use adaptive thresholding
+\end{itemize}
+
+\subsection{Post-processing Phase}
+\begin{itemize}
+	\item Artefacts and noise can be introduce from otsu segmentation
+	\item We fill in holes, and remove noise and artefacts (apply morphological operations)
+	\item Produce a binary mask we can use to isolate the leaf image in the gray level image of leaf
+\end{itemize}
+
+\subsection{Feature Extraction Phase}
+\begin{itemize}
+	\item Textture features are emperically best predictors of tomotoe leaf disease detection
+	\item Caculate gray level co-occurence matrix
+	\item Entropy, variance etc various other metrics are calculated which make up values in feature vector
+\end{itemize}
+
+\section{Classification  Mechanism}
+\begin{itemize}
+	\item We pass feature vector calculated from gray level co-occurence matrix
+	\item This feature vector is fed into SVM classifier which determines whether or not original image leaf has disease or not
+	\item This SVM is trained before hand.
+	\item Use simple dataset split or 10-fold cross validation
+\end{itemize}
+
+\section{Analysis}
+\begin{itemize}
+	\item Use OpenTelemetry to calculate end-end how much network and compute resources are used
+	\item Use OpenTelemetry to calculate how long each image takes to process
+	\item Calculate metrics to show reliablity of binary SVM classifier.
+		\subitem F measure
+		\subitem Accuracy
+		\subitem Precesion
+		\subitem  true positive rate
+		\subitem true negative rate
+\end{itemize}
