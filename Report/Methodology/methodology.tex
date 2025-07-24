@@ -1,14 +1,16 @@
 \chapter{Methodology}
 
 \section{Dataset}
-\paragraph{}
-We use a subset of the plant village data set for healthy and diseased tomotoe leaves.
+\begin{itemize}
+	\item In recent years plant a large annotaed dataset of diesaes and healthy leafs of various plant species were released to accerlerate the development of machine learning plant disease and stress detection. Notably the PlantVillage data set \cite{liReviewComputerVision2020, jiangConvolutionalNeuralNetworks2020, jafarRevolutionizingAgricultureArtificial2024}
+\end{itemize}
 
 \section{Microservice architecture}
 \begin{itemize}
 	\item Our image processing pipeline consists of a cluster of docker nodes running image processing services
 	\item We use a dockerized ubuntu container with python installation as nodes
 	\item Each node runs a flask rest API web service
+	\item Reason for this choice is that we can implement on-site local network of nodes that dont rely on a cloud or central server (edge networks). Therefore keeping cost low \cite{grecoComputerVisionAlgorithms2024}
 \end{itemize}
 
 \section{Image processing pipeline}
@@ -22,7 +24,8 @@ We use a subset of the plant village data set for healthy and diseased tomotoe l
 
 \subsection{Preprocessing Phase}
 \begin{itemize}
-	\item Color Space Conversion ino HSV (removes luminance issues so more robust to varying lighting conditions)
+	\item Preprocessing involves removing noise, and enhancing the image so that salient features of the image are analysed  more effectivley in downstream phases of the pipeline. For example adjusting contrast mitigates varying lighting, shadows, and lumincance issues which can affect the overall accuracy of segmentation.colour conversion space is used to address lighting issues. and filtering also plays important role in image enhancement and has effectively been used for plant leaf diesaes detection. \cite{hamudaSurveyImageProcessing2016a} (see the preprocessing phase section for more citations regarding the filtering, and image enhancement)
+	\item Color Space Conversion ino HSV (removes luminance issues so more robust to varying lighting conditions) \cite{kimDevelopmentLowcostAutomated2024}
 	\item Filters to make histogram bimodal so foreground and background pixels can be distinguished
 	\item apply other transforms like guassian blur, mean histogram filter to make foreground and background pixel intensity levels when changed to gray scale image more differetiated from each other
 	\item convert image to gray scale image
@@ -30,6 +33,8 @@ We use a subset of the plant village data set for healthy and diseased tomotoe l
 
 \subsection{Segmentation Phase}
 \begin{itemize}
+	\item Use this resource to find brief sentence describing otsu method \cite{perez-sanzPlantPhenomicsOverview2017}
+	\item Otsu method is a widely applied threshold segmentation method in plant phenotyping. It's primary advantages include simple calculation and high efficiency making it very attrative for low-cost image processing pipelines. It is however sensitive to noise, and has low robustness to varying light conditions where bimodal histogram distrubutions are not possible. However emperically it has been succesfully in the phenotyping of many different plant organs across different species \cite{liReviewComputerVision2020} (you can include other sources from this article look at the table summarizing the 2d segmentation methods).
 	\item We apply otsu segmentation thresholding method
 	\item due to varying lighting conditions across all images we use adaptive thresholding
 \end{itemize}
@@ -58,12 +63,11 @@ We use a subset of the plant village data set for healthy and diseased tomotoe l
 
 \section{Analysis}
 \begin{itemize}
-	\item Use OpenTelemetry to calculate end-end how much network and compute resources are used
-	\item Use OpenTelemetry to calculate how long each image takes to process
+	\item Common measures for such systems include resource consumption, computing speed, and accuracy \cite{grecoComputerVisionAlgorithms2024}. Therefore we Use OpenTelemetry to calculate end-end how much network and compute resources are use. Use OpenTelemetry to calculate how long each image takes to process
 	\item Calculate metrics to show reliablity of binary SVM classifier.
-		\subitem F measure
-		\subitem Accuracy
-		\subitem Precesion
-		\subitem  true positive rate
-		\subitem true negative rate
+		\subitem F measure (common metric for binary classifiers)  \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}
+		\subitem Accuracy (common metric for binary classifiers) \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}
+		\subitem Precesion (common metric for binary classifiers) \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}
+		\subitem  true positive rate (common metric for binary classifiers)  \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}
+		\subitem true negative rate (common metric for binary classifiers) \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}
 \end{itemize}
