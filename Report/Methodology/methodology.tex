@@ -9,6 +9,9 @@
 
 \section{Microservice architecture}
 \begin{itemize}
+	\item Use of dockerized containers allows reproducibility of our development environemnt on varying hardwares. Thus allowing computatinal repdoruciblity and other researchers to easily extend and reproduce our results with less effort \cite{boettigerIntroductionDockerReproducible2015}.
+	\item A microservice architecture is a pattern of structuing a computing system application as a composition of microservices. A microservice is an independnet unit of the application which can be deployed run and scaled in isolation. Some benefits include modulatiry in that parts of the system can be replaced or extended without resambelling the whole system or having all the knowledge of the system. \cite{dragoniMicroservicesYesterdayToday2017, velepuchaSurveyMicroservicesArchitecture2023}
+	\item Each service can be developed independelty and therefore choose the most suitable tool chains to solve the problem. There exsit numerous open-source software packages that can be used in plant phenotyping and the ability to implement a solution in any one of them and repalce them in the future is of great benefit to researchers. \cite{dragoniMicroservicesYesterdayToday2017} (benefits of microservice approach in this cite)
 	\item Our image processing pipeline consists of a cluster of docker nodes running image processing services
 	\item We use a dockerized ubuntu container with python installation as nodes
 	\item Each node runs a flask rest API web service
@@ -17,7 +20,7 @@
 
 \section{Image processing pipeline}
 \begin{itemize}
-	\item We use a conventional image classification pipeline
+	\item We use a conventional image classification pipeline. The typical predetermined phases in a classical pipeline include. preprocessing, segmentation, feature extraction, and classification \cite{jafarRevolutionizingAgricultureArtificial2024, kaurPlantsDiseaseIdentification2019, perez-sanzPlantPhenomicsOverview2017, alhiaryFastAccurateDetection2011}
 	\item  Preprocessing phase
 	\item Segmentation phase
 	\item post-procesing phase
