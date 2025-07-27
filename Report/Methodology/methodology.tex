@@ -52,22 +52,8 @@ The second preprocessing step we apply is median filtering.
 	\item This feature vector is fed into SVM classifier which determines whether or not original image leaf has disease or not
 \end{itemize}
 
-\section{Microservice architecture}
-\begin{itemize}
-	\item Use of dockerized containers allows reproducibility of our development environemnt on varying hardwares. Thus allowing computatinal repdoruciblity and other researchers to easily extend and reproduce our results with less effort \cite{boettigerIntroductionDockerReproducible2015}.
-	\item A microservice architecture is a pattern of structuing a computing system application as a composition of microservices. A microservice is an independnet unit of the application which can be deployed run and scaled in isolation. Some benefits include modulatiry in that parts of the system can be replaced or extended without resambelling the whole system or having all the knowledge of the system. \cite{dragoniMicroservicesYesterdayToday2017, velepuchaSurveyMicroservicesArchitecture2023}
-	\item Each service can be developed independelty and therefore choose the most suitable tool chains to solve the problem. There exsit numerous open-source software packages that can be used in plant phenotyping and the ability to implement a solution in any one of them and repalce them in the future is of great benefit to researchers. \cite{dragoniMicroservicesYesterdayToday2017} (benefits of microservice approach in this cite)
-	\item Our image processing pipeline consists of a cluster of docker nodes running image processing services
-	\item We use a dockerized ubuntu container with python installation as nodes
-	\item Each node runs a flask rest API web service
-	\item Reason for this choice is that we can implement on-site local network of nodes that dont rely on a cloud or central server (edge networks). Therefore keeping cost low \cite{grecoComputerVisionAlgorithms2024}
-\end{itemize}
-
 \section{Analysis}
 \begin{itemize}
-	\item Telemetry daya is information of an application system gathered during its operation aimed at montioring and analyzing the systems performance and behaviour \cite{wangBuildingObservableSystem2024}. Trace offers a comprehensive view of the requests entire lifecule and path from the moment it is received until prcoessing is complete \cite{wangBuildingObservableSystem2024}
-	\item OpenTelemetry is an open-source obervablity framework to provide standard way of collecting and transmiting telemetry data \cite{wangBuildingObservableSystem2024}. A standard platform for colltginc and transmiting operational data of distrubuted syustems. \cite{thakurReviewOpentelemetryHTTP2022}
-	\item Common measures for such systems include resource consumption, computing speed, and accuracy \cite{grecoComputerVisionAlgorithms2024}. Therefore we Use OpenTelemetry to calculate end-end how much network and compute resources are use. Use OpenTelemetry to calculate how long each image takes to process
 	\item Calculate metrics to show reliablity of binary SVM classifier.
 		\subitem F measure (common metric for binary classifiers)  \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}
 		\subitem Accuracy (common metric for binary classifiers) \cite{lopez-garciaAutomaticDetectionSkin2010, AdvancedDataMining2008}

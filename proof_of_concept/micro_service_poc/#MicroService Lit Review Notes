@@ -1,0 +1,48 @@
+Notes for Microservice Addition to project:
+
+## Add to lit review
+-1. There exist open source image processing pipelines that make use tools like PlantCV. Making them composable and extensible.
+-citeKey: ubbensDeepPlantPhenomics2017
+-citeKey: tausenGreenotyperImageBasedPlant2020
+-citeKey: minerviniPhenotikiOpenSoftware2017
+
+0. Use this article to justify use of open-source software for microservice architecture
+- citeKey: kimDevelopmentLowcostAutomated2024
+
+## Add to lit review for Docker
+
+1. Reproducibility key so that others can trust its accuracy
+- Citekey: collbergMeasuringReproducibilityComputer
+
+2. Many developed image processing pipelines do not have open-source code libraries, and even when they do reproducing the results is often difficult because of changing tecn and software environments.
+# In fact while many papers are theoritically sound it is hard to reproduce, validate and trust the results published in many image processing papers
+- citeKey: boettigerIntroductionDockerReproducible2015
+- alhiaryFastAccurateDetection2011
+
+3. Some exisiting solutions include workflows (but properity intefaces, and slow development time cause lack of adoption)
+- Need more citations for this
+
+4. Ansible solutions exist, but docker images have simpler syntax than other tools like asnible. It is declartive, and more human readable (boettigerIntroductionDockerReproducible2015)
+- https://github.com/calizarr/PhenoPiSight
+
+5. There exist open-source, modular and hardware platform independent solutions which  make reproducible, and extensible plant phneotyping possible. One notable example is PlantCV.
+citeKey: fahlgrenVersatilePhenotypingSystem2015
+
+6. 
+#In computing sciencess they have been studies done into the reproducibility of results. And many were found to have proofs, but no code available and very few had date
+# IP held by other company
+# Anti-competition
+# No backup
+- citeKey: collbergMeasuringReproducibilityComputer
+
+7. Software tools need to be flexible and changeable by researchers. Reason is for phenotyping different traits need to be measured differently hence requiring different software or tools.
+-citeKey: gehanPlantCVV2Image2017
+
+8. Parrallel computing resources are collocated near input data to reduce the cost, scalablity and performance of systems where high throughput pneoytpung is required
+-citeKey: gonzalezPhytoOracleScalableModular2023
+
+9. Existing solutions for distributed computing resources do exit e.g PhytoOracle.
+-citeKey: gonzalezPhytoOracleScalableModular2023
+
+10. deeplearning models are good at plant detection but due to ther size and computation requriements are not feasible for low-cost environments like mobile devices
+citeKey: ahmedLeafImagebasedPlant2021
