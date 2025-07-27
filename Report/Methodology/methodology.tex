@@ -20,7 +20,7 @@
 
 \section{Image processing pipeline}
 \begin{itemize}
-	\item We use a conventional image classification pipeline. The typical predetermined phases in a classical pipeline include. preprocessing, segmentation, feature extraction, and classification \cite{jafarRevolutionizingAgricultureArtificial2024, kaurPlantsDiseaseIdentification2019, perez-sanzPlantPhenomicsOverview2017, alhiaryFastAccurateDetection2011}
+	\item We use a conventional image classification pipeline. The typical predetermined phases in a classical pipeline include. preprocessing, segmentation, feature extraction, and classification \cite{jafarRevolutionizingAgricultureArtificial2024, kaurPlantsDiseaseIdentification2019, perez-sanzPlantPhenomicsOverview2017, alhiaryFastAccurateDetection2011, desaiEnhancingImageQuality2025}
 	\item  Preprocessing phase
 	\item Segmentation phase
 	\item post-procesing phase
@@ -29,47 +29,40 @@
 
 \subsection{Preprocessing Phase}
 \begin{itemize}
-	\item Color conversion and histogram ewulaiztion used to imporve the quality and clarity of of images. \cite{thangaduraiComputerVisionimageEnhancement2014}. Histogram equalization enhances the contrast
+	\item Color conversion and histogram ewulaiztion used to imporve the quality and clarity of of images. \cite{thangaduraiComputerVisionimageEnhancement2014}. Histogram equalization enhances the contrast by uniformly distributing the intensity values of the image. \cite{gonzalezDigitalImageProcessing2017}. Use adaptive histogram equalization to deal with varying illumunation condtions \cite{kiranPlantLeafDisease2023}
 	\item Hue channel is best for segmentation it cast all intenstiy related infromation \cite{ahmedLeafImagebasedPlant2021}
 	\item Histogram equalization used already for preprocessing \cite{arivazhaganDetectionUnhealthyRegion2013}
 	\item Plants show relevaltivly low reflectance in the red and blue regions of the spectrum with peak in the green band. Non-normalized RGG values are directly propotional to the total light reflected on the surface therefore they are highly senstive to intensity of illuminating source and viewing angles \cite{perezColourShapeAnalysis2000}. Can apply NDI index to reduce lighting problems
-	\item Preprocessing involves removing noise, and enhancing the image so that salient features of the image are analysed  more effectivley in downstream phases of the pipeline. For example adjusting contrast mitigates varying lighting, shadows, and lumincance issues which can affect the overall accuracy of segmentation.colour conversion space is used to address lighting issues. and filtering also plays important role in image enhancement and has effectively been used for plant leaf diesaes detection. \cite{hamudaSurveyImageProcessing2016a} (see the preprocessing phase section for more citations regarding the filtering, and image enhancement)
+	\item Preprocessing involves removing noise, and enhancing the image so that salient features of the image are analysed  more effectivley in downstream phases of the pipeline. For example adjusting contrast mitigates varying lighting, shadows, and lumincance issues which can affect the overall accuracy of segmentation.colour conversion space is used to address lighting issues. and filtering also plays important role in image enhancement and has effectively been used for plant leaf diesaes detection. \cite{hamudaSurveyImageProcessing2016a}
 	\item Color Space Conversion ino HSV (removes luminance issues so more robust to varying lighting conditions). \cite{kimDevelopmentLowcostAutomated2024, wangColorImageSegmentation2003}. This color space mimics or tries to reprent the aritists notions of hue, tint, shade and tone \cite{smithColorGamutTransform1978}. HSV is more intuitive for human perception. And robust to lighting (illumination changes). It offers superior contrast and visial clarity ti distinguis between healthy and diseased regions in leaf images. It can enhance visibility of subtle disease patterns \cite{hussainRobustLeafDisease2024}. HS channels not affected by light changes and can therefore express the hue and brightness of colors to facilate color contrast \cite{fanEstimatingAquaticplantArea2021}. The images in the plantvillage dataset are set against a grey or black background, and noise from camera flash and varying illumination will affect segmentation. A tomotoe leaf whether diseased or healthy has color properties significantly different from the background, so based on this assumption we are justified in this case in using the hue channel to segement our image.
 	\item use guassian filters to remove noise and unncessary information from image.
-	\item the histrograme equalization tehcnique is used to adjust the contrast of the image.\cite{saiImageQualityEnhancement2023}
-	\item convert image to gray scale image
+	\item the histrogram equalization tehcnique is used to adjust the contrast of the image.\cite{saiImageQualityEnhancement2023}
+	\item Random noise typically consits of sharp transitions in image intensity, it is for this this reason smoothing filters are used to denoise the image \cite{gonzalezDigitalImageProcessing2017}. We use the median filter which is a fairly common filter used to remove impulse or salt and pepper noise from an image \cite{desaiEnhancingImageQuality2025}
 \end{itemize}
 
 \subsection{Segmentation Phase}
 \begin{itemize}
+	\item We use  a global threshold segmentation method since it is easy to implement, computationally fast, and has been widley used successfully in many image processing segmentation pipelines \cite{gonzalezDigitalImageProcessing2017, jardimImageThresholdingApproaches2023}
 	\item Use this resource to find brief sentence describing otsu method \cite{perez-sanzPlantPhenomicsOverview2017}
 	\item Otsu method is a widely applied threshold segmentation method in plant phenotyping. It's primary advantages include simple calculation and high efficiency making it very attrative for low-cost image processing pipelines. It is however sensitive to noise, and has low robustness to varying light conditions where bimodal histogram distrubutions are not possible. However emperically it has been succesfully in the phenotyping of many different plant organs across different species \cite{liReviewComputerVision2020} (you can include other sources from this article look at the table summarizing the 2d segmentation methods and where otsu is used). It is a global threshold and therefore has simple implementation. and stable performance and is widley used in plant image segmentation \cite{fanEstimatingAquaticplantArea2021}. The otsu method selects best threshold on on maximum interclass variance. Suitable for bimodal distributions, but where unimodal histrogram or non-bimodal performance is poort. \cite{fanEstimatingAquaticplantArea2021}. We apply preprocessing steps which attempt to normalize the histogram and and mitigate lumincance issues to increase the effectivness of our segmentation.
 	\item We apply otsu segmentation thresholding method
 	\item due to varying lighting conditions across all images we use adaptive thresholding
 \end{itemize}
 
-\subsection{Post-processing Phase}
-\begin{itemize}
-	\item Artefacts and noise can be introduce from otsu segmentation
-	\item We fill in holes, and remove noise and artefacts (apply morphological operations)
-	\item Produce a binary mask we can use to isolate the leaf image in the gray level image of leaf
-\end{itemize}
-
 \subsection{Feature Extraction Phase}
 \begin{itemize}
 	\item Texture features have proven to be espeically useful for plant pathogen detection \cite{arivazhaganDetectionUnhealthyRegion2013, kimClassificationGrapefruitPeel}
 	\item Textture features are emperically best predictors of tomotoe leaf disease detection \cite{mokhtarSVMBasedDetectionTomato2015} since occurenc of plat disaes cause specific changes in texture of the leaft and therefeore textetd based features can be used to train a classifier \cite{ahmedLeafImagebasedPlant2021}
-	\item Caculate gray level co-occurence matrix
-	\item Entropy, variance etc various other metrics are calculated which make up values in feature vector
+	\item The gray level co-occurence methodlogyy is a statisitcal way to descibe the shape by smapling the way gray levels ocuren in relation to other gray levels. And have been applied successfully to detect and clasify plant pathogens \cite{arivazhaganDetectionUnhealthyRegion2013, mokhtarSVMBasedDetectionTomato2015}.
+	\item Caculate gray level co-occurence matrix. Concerned with the spatial statistical distrubiton of gray tones. Based on assumption that the texture information in the overall average spatial relationship the gray tones in the image have with one another. \cite{haralickTexturalFeaturesImage1973}. Following a similar approach to \cite{mokhtarSVMBasedDetectionTomato2015} we compute the common energy, contrast, sum of squares, correlation, entropy, sum entropy, cluster shade, and cluster prominence, and homogenity metrics from the gray level occurence matrix. These are defined as well in the original paper introducing GLCM and mockhtar.
 \end{itemize}
 
 \section{Classification  Mechanism}
 \begin{itemize}
-	\item The gray level co-occurence methodlogyu is a statisitcal way to descibe the shape by smapling the way gray levels ocuren in relation to other gray levels. And have been applied successfully to detect and clasify plant pathogens \cite{arivazhaganDetectionUnhealthyRegion2013, mokhtarSVMBasedDetectionTomato2015}.
+	\item SVM is a machine supervised learning method which has been shown to be an effective classifer of leaf diseases in an image processing pipeline \cite{mokhtarSVMBasedDetectionTomato2015}.
+	\item We use machine learning Support Vector Machine binary classifier to identify whether or not a leaf is diseased or not. This has shown to be particularly effective for leaf disease detection in the literature \cite{kiranPlantLeafDisease2023, mokhtarSVMBasedDetectionTomato2015, harakannanavarPlantLeafDisease2022, govardhanDiagnosisTomatoPlant2019}.
 	\item We pass feature vector calculated from gray level co-occurence matrix
 	\item This feature vector is fed into SVM classifier which determines whether or not original image leaf has disease or not
-	\item This SVM is trained before hand.
-	\item Use simple dataset split or 10-fold cross validation
 \end{itemize}
 
 \section{Analysis}
