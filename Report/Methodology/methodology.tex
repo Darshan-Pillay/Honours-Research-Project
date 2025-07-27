@@ -7,25 +7,16 @@ The PlantVillage dataset is used in our study. PlantVillage is a collection of 5
 Many studies in image-based plant disease detection typically have predetermined phases in their image processing pipeline. Namely, preprocessing, segmentation, and feature extraction \cite{jafarRevolutionizingAgricultureArtificial2024, kaurPlantsDiseaseIdentification2019, perez-sanzPlantPhenomicsOverview2017, alhiaryFastAccurateDetection2011, desaiEnhancingImageQuality2025}. We follow suit and include each of those phases in our image processing pipeline.
 
 \subsection{Preprocessing Phase}
-Image preprocessing involves removing noise, and enhancing the image.
-[Why would you want to do this? 
-so that important features of the image are analysed more effectivley in downstream processing phases such as segmentation. For example our choosen method of segmentation is thresholding by Otsu, but this method assumes bimodal histogram distrubution which noise and illumination variance can break this assumption leading to over or under segmentation of the leaf from the background.
-[So? Why Care?  
-Additionally preprocessing also enhances the accuracy of image classification \cite{kiranPlantLeafDisease2023. parkImagePreProcessingMethod2021}. Therefore we perform preprocessing to makes our segmentation and classifiation phases more robust to noise and various lighting condtions which make our classifier more effective under various condtions.
+Preprocessing involves tasks such as noise removal, image enhancement, and colour space conversion. In image acquisition, noise from the imaging sensor, the environment, or another source can compromise the accuracy of downstream image processing and classification phases. For example, we choose a global thresholding segmentation method, which we discuss later, and these methods often perform poorly in the presence of noise or uneven illumination \cite{gonzalezDigitalImageProcessing2017}. Nevertheless, preprocessing steps such as histogram equalisation and median filtering effectively mitigate noise and illumination issues \cite{gonzalezDigitalImageProcessing2017, saiImageQualityEnhancement2023, thangaduraiComputerVisionimageEnhancement2014}. Thus, preprocessing is a crucial phase of image processing pipelines, which enhances the overall accuracy of segmentation and image classification  \cite{kiranPlantLeafDisease2023, parkImagePreProcessingMethod2021}. Therefore, we apply several preprocessing steps to enhance the overall effectiveness and accuracy of our segmentation and classification phases.
 
-We first convert the image to gray scale.
+\subparagraph{}
+We aim to compute texture features of the tomato leaf in each image using the grey-level co-occurrence matrix \cite{haralickTexturalFeaturesImage1973}, which requires a grey-level image to calculate. Therefore, the first preprocessing step we perform is the conversion from the leaf image's original RGB colour space to the grayscale colour space. 
 
-The first preprocessing step we apply is histogram equalization.
+\subparagraph{}
+Once we obtain the grayscale image of the tomato leaf, we apply histogram equalisation. This preprocessing method is used in the literature to add more contrast between the background and foreground of an image \cite{saiImageQualityEnhancement2023}. Image contrast enhancement is achieved by uniformly distributing the grey-level intensity values of the image \cite{gonzalezDigitalImageProcessing2017}, which makes histogram equalisation particularly useful for dealing with various illumination conditions \cite{kiranPlantLeafDisease2023}. 
 
-The second preprocessing step we apply is median filtering.
-
-\begin{itemize}
-	\item  histogram ewulaiztion used to imporve the quality and clarity of of images. \cite{thangaduraiComputerVisionimageEnhancement2014}. Histogram equalization enhances the contrast by uniformly distributing the intensity values of the image. \cite{gonzalezDigitalImageProcessing2017}. Use adaptive histogram equalization to deal with varying illumunation condtions \cite{kiranPlantLeafDisease2023}
-	\item Histogram equalization used already for preprocessing \cite{arivazhaganDetectionUnhealthyRegion2013}
-	\item preprocesisng filtering also plays important role in image enhancement and has effectively been used for plant leaf diesaes detection. \cite{hamudaSurveyImageProcessing2016a}
-	\item the histrogram equalization tehcnique is used to adjust the contrast of the image.\cite{saiImageQualityEnhancement2023}
-	\item Random noise typically consits of sharp transitions in image intensity, it is for this this reason smoothing filters are used to denoise the image \cite{gonzalezDigitalImageProcessing2017}. We use the median filter which is a fairly common filter used to remove impulse or salt and pepper noise from an image \cite{desaiEnhancingImageQuality2025}
-\end{itemize}
+\subparagraph{}
+Lastly, we apply median filtering to remove common salt-and-pepper noise from the image. Median filtering is an effective image enhancement preprocessing step that has been successfully used in plant leaf disease detection \cite{hamudaSurveyImageProcessing2016a, desaiEnhancingImageQuality2025}. Noise manifests as sharp transitions in image intensity seen in the grayscale image histogram \cite{gonzalezDigitalImageProcessing2017}, therefore noise can negatively affect the accuracy of global threshold segmentation methods, which we use in this study; therefore, to  enhance segmentation accuracy and robustness, we apply median filtering to denoise the image.
 
 \subsection{Segmentation Phase}
 \begin{itemize}
