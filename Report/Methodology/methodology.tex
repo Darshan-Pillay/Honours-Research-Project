@@ -31,14 +31,10 @@ Concretely, for each leaf image, our segmentation phase aims to segment the leaf
 After segmentation, we have the isolated leaf image in the grey-scale colour space, and proceed to feature extraction. We are only extracting textural features from metrics calculated using a grey-level co-occurrence matrix \cite{haralickTexturalFeaturesImage1973}. Textural features are empirically some of the best predictors of leaf disease detection \cite{kimClassificationGrapefruitPeel, arivazhaganDetectionUnhealthyRegion2013}, since the occurrence of a plant disease induces specific changes in the texture of the leaf \cite{mokhtarSVMBasedDetectionTomato2015}. Thus, we choose textural features because we can construct feature vectors from these texture metrics to train a classifier to detect the presence or absence of a tomato leaf disease \cite{ahmedLeafImagebasedPlant2021, mokhtarSVMBasedDetectionTomato2015, arivazhaganDetectionUnhealthyRegion2013}.
 
 \subparagraph{}
-Discuss the specific method of obtaining the metrics from gray-level co-occurence matrix.
+Gray-level co-occurrence matrices (GLCM) \cite{haralickTexturalFeaturesImage1973} measure the statistical spatial distribution of gray-level tones, and several parameters can be calculated from these matrices to investigate the textural properties of an object in an image \cite{argentiFastAlgorithmsTexture1990}. GLCM derived textural features are widely used in the literature to detect plant leaf diseases \cite{arivazhaganDetectionUnhealthyRegion2013, mokhtarSVMBasedDetectionTomato2015}.
 
-
-\begin{itemize}
-	\item Textture features are emperically best predictors of tomotoe leaf disease detection \cite{mokhtarSVMBasedDetectionTomato2015} since occurenc of plat disaes cause specific changes in texture of the leaft and therefeore textetd based features can be used to train a classifier \cite{ahmedLeafImagebasedPlant2021}
-	\item The gray level co-occurence methodlogyy is a statisitcal way to descibe the shape by smapling the way gray levels ocuren in relation to other gray levels. And have been applied successfully to detect and clasify plant pathogens \cite{arivazhaganDetectionUnhealthyRegion2013, mokhtarSVMBasedDetectionTomato2015}.
-	\item Caculate gray level co-occurence matrix. Concerned with the spatial statistical distrubiton of gray tones. Based on assumption that the texture information in the overall average spatial relationship the gray tones in the image have with one another. \cite{haralickTexturalFeaturesImage1973}. Following a similar approach to \cite{mokhtarSVMBasedDetectionTomato2015} we compute the common energy, contrast, sum of squares, correlation, entropy, sum entropy, cluster shade, and cluster prominence, and homogenity metrics from the gray level occurence matrix. These are defined as well in the original paper introducing GLCM and mockhtar.
-\end{itemize}
+\subparagraph{}
+Following the approach in \cite{mokhtarSVMBasedDetectionTomato2015}, we compute a GLCM from the grayscale leaf image produced by the segmentation phase. Thereafter, we extract the following parameters from the GLCM: energy, contrast, sum of squares, correlation, entropy, sum entropy, cluster shade, cluster prominence, and homogeneity metrics \cite{arivazhaganDetectionUnhealthyRegion2013, haralickTexturalFeaturesImage1973, mokhtarSVMBasedDetectionTomato2015}. Together, all these calculated GLCM parameters form a feature vector, which we will use in our classification mechanism, as discussed in the next section.
 
 \section{Classification  Mechanism}
 \begin{itemize}
