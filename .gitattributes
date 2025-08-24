@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+proof_of_concept/image_processing_poc/plant_village_dataset.zip filter=lfs diff=lfs merge=lfs -text

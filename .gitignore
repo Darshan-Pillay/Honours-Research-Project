@@ -1,3 +1,6 @@
+## Ignore large tracked files
+proof_of_concept/image_processing_poc/plant_village_dataset.zip
+
 ##Ignore build folder
 Build/
 
