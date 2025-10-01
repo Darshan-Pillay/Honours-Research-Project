@@ -4,6 +4,9 @@ proof_of_concept/image_processing_poc/plant_village_dataset.zip
 ##Ignore build folder
 Build/
 
+## Ignore /.idea
+proof_of_concept/.idea
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
