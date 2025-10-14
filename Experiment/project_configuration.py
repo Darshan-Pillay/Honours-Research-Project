@@ -1,17 +1,12 @@
 import os
-from typing import List
 
 # Project Root
 ROOT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 
 # Data Set Related Paths
-Plant_Village_Directory = ROOT_DIRECTORY + "/Data Set/PlantVillage"
+Data_Set_Directory = ROOT_DIRECTORY + "/DataSet"
+Plant_Village_Directory = Data_Set_Directory + "/PlantVillage"
+Gray_Scale_Image_Directory = Data_Set_Directory + "/GrayScale"
 
-def all_plant_village_tomato_directories() -> List[str]:
-    return list(filter(is_tomato_data_directory, os.listdir(Plant_Village_Directory)))
-
-def is_tomato_data_directory(directory: str) -> bool:
-    if directory.startswith("Tomato"):
-        return True
-
-    return False
+# Training Data Related Paths
+Training_Data_File_Path = ROOT_DIRECTORY + "/TrainingData/training_data.csv"
