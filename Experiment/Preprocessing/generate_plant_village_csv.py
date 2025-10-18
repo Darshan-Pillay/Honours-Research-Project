@@ -153,4 +153,10 @@ Applies histogram equalization to a gray scale image
 def equalize_grayscale_image(grayscale_img: numpy.ndarray) -> numpy.ndarray:
     return pcv.hist_equalization(grayscale_img)
 
+"""
+Apply median filter to grayscale image
+"""
+def median_filter_grayscale_image(grayscale_img: numpy.ndarray) -> numpy.ndarray:
+    return pcv.median_blur(grayscale_img, 5)
+
 generate_training_data_csv()
