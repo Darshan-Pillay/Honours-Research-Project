@@ -159,4 +159,11 @@ Apply median filter to grayscale image
 def median_filter_grayscale_image(grayscale_img: numpy.ndarray) -> numpy.ndarray:
     return pcv.median_blur(grayscale_img, 5)
 
+"""
+Note: 
+We use object_type dark which assumes that the object to segment is darker than the background
+"""
+def otsu_segment(grayscale_img: numpy.ndarray) -> numpy.ndarray:
+    return pcv.threshold.otsu(grayscale_img, object_type="dark")
+
 generate_training_data_csv()
