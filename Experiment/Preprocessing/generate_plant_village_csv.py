@@ -147,4 +147,10 @@ def generate_grayscale_leaf_image(
     # Return path of saved grayscale leaf image
     return grayscale_leaf_image_filename
 
+"""
+Applies histogram equalization to a gray scale image
+"""
+def equalize_grayscale_image(grayscale_img: numpy.ndarray) -> numpy.ndarray:
+    return pcv.hist_equalization(grayscale_img)
+
 generate_training_data_csv()
