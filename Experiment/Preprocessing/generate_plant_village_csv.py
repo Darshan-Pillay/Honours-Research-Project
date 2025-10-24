@@ -219,3 +219,17 @@ def compute_glcm_metrics(grayscale_img: numpy.ndarray) -> numpy.ndarray:
     ]).flatten()
 
     return texture_feature_vector
+
+"""
+Saves texture vector to disk
+"""
+def save_texture_vector_to_disk(
+        feature_vector: numpy.ndarray,
+        destination_path: str):
+    numpy.save(destination_path, feature_vector, allow_pickle=False)
+
+"""
+Loads texture vector from disk
+"""
+def load_texture_vector_from_disk(feature_vector_path: str) -> numpy.ndarray:
+    return numpy.load(feature_vector_path, allow_pickle=False)
