@@ -1,9 +1,16 @@
 import os
+from unittest.mock import sentinel
+
 import cv2
 import numpy
 from plantcv import plantcv as pcv
 from io import TextIOWrapper
 from typing import List
+
+from skimage.feature.texture import (
+    modified_graycomatrix,
+    graycoprops
+)
 
 from project_configuration import (
     Plant_Village_Directory,
@@ -166,4 +173,49 @@ We use object_type dark which assumes that the object to segment is darker than 
 def otsu_segment(grayscale_img: numpy.ndarray) -> numpy.ndarray:
     return pcv.threshold.otsu(grayscale_img, object_type="dark")
 
-generate_training_data_csv()
+"""
+Takes in a grayscale_img and computes a texture feature vector based on GLCM metrics.
+"""
+def compute_glcm_metrics(grayscale_img: numpy.ndarray) -> numpy.ndarray:
+    # Calculate GLCM
+    distances = [1] # we can increase this, but lose textural resolution
+    angles = [0, 45, 90, 135]
+    levels = 256 # assume 8bit image
+
+    glcm = modified_graycomatrix(
+        grayscale_img.astype(numpy.int8),
+        distances=distances,
+        angles=angles,
+        levels=levels,
+        symmetric=True,
+        normed=True,
+        sentinel_value=-1
+    )
+
+    # Calculate GLCM Metrics
+    contrast: numpy.ndarray = graycoprops(glcm, prop="contrast")
+    energy: numpy.ndarray = graycoprops(glcm, prop="energy")
+    homogeneity: numpy.ndarray = graycoprops(glcm, prop="homogeneity")
+    correlation: numpy.ndarray = graycoprops(glcm, prop="correlation")
+    dissimilarity: numpy.ndarray = graycoprops(glcm, prop="dissimilarity")
+    ASM: numpy.ndarray = graycoprops(glcm, prop="ASM")
+    mean: numpy.ndarray = graycoprops(glcm, prop="mean")
+    variance: numpy.ndarray = graycoprops(glcm, prop="variance")
+    std: numpy.ndarray = graycoprops(glcm, prop="std")
+    entropy: numpy.ndarray = graycoprops(glcm, prop="entropy")
+
+    # Create Texture Feature Vector
+    texture_feature_vector = numpy.array([
+        contrast,
+        energy,
+        homogeneity,
+        correlation,
+        dissimilarity,
+        ASM,
+        mean,
+        variance,
+        std,
+        entropy
+    ]).flatten()
+
+    return texture_feature_vector
