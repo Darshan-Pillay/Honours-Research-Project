@@ -12,7 +12,7 @@ Build/
 */.idea
 
 ##
-Experiment/DataSet
+Experiment/TrainingData
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
