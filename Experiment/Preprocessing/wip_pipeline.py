@@ -1,5 +1,4 @@
 import os
-from unittest.mock import sentinel
 
 import cv2
 import numpy
@@ -15,6 +14,7 @@ from skimage.feature.texture import (
 from project_configuration import (
     Plant_Village_Directory,
     Gray_Scale_Image_Directory,
+    Equalized_Gray_Scale_Image_Directory,
     Training_Data_File_Path
 )
 
@@ -69,45 +69,6 @@ def generate_training_data_for_tomato_leaf_category(tomato_leaf_category: str, c
             tomato_leaf_image_category=tomato_leaf_category
         )
 
-        write_training_datum_to_csvfile(
-            csv_file_descriptor=csv_file_descriptor,
-            tomato_leaf_image_category=tomato_leaf_category,
-            rgb_leaf_image_path=rgb_leaf_image_path,
-            grayscale_leaf_image_filename=grayscale_leaf_image_file_name
-        )
-
-"""
-Writes a string of the form 'tomato_leaf_image_category, rgb_leaf_image_path, is_image_for_diseased_plant
-grayscale_image_filename' to the csv file with handle csv_file_descriptor.
-
-For example, if tomato_leaf_image_category is Tomato_Late_Blight, rgb_leaf_image_path is /example.jpg,
-grayscale_leaf_image_file_name is /grayscale/example.jpg, then the line
-Tomato_Late_Blight,/example.jpg,/grayscale/example.jpg,true is written to csv file.
-"""
-def write_training_datum_to_csvfile(
-        csv_file_descriptor: TextIOWrapper,
-        tomato_leaf_image_category: str,
-        rgb_leaf_image_path: str,
-        grayscale_leaf_image_filename: str
-):
-    is_image_for_diseased_plant = False if "healthy" in tomato_leaf_image_category else True
-
-    training_datum = [
-        tomato_leaf_image_category,
-        rgb_leaf_image_path,
-        grayscale_leaf_image_filename,
-        str(is_image_for_diseased_plant)
-    ]
-
-    csv_file_descriptor.write(",".join(training_datum) + "\n")
-
-"""
-Creates a directory at path if it does not exist
-"""
-def create_directory_if_needed(path: str):
-    if not os.path.exists(path):
-        os.mkdir(path)
-
 """
 Writes img to disk at path destination
 """
@@ -139,7 +100,7 @@ def generate_grayscale_leaf_image(
     grayscale_leaf_image_filename: str,
     tomato_leaf_image_category: str,
 ) -> str:
-    # Create directory if needed
+    # Create grayscale directories
     create_directory_if_needed(path=Gray_Scale_Image_Directory)
     grayscale_leaf_image_directory = os.path.join(Gray_Scale_Image_Directory, tomato_leaf_image_category)
     create_directory_if_needed(path=grayscale_leaf_image_directory)
@@ -153,6 +114,30 @@ def generate_grayscale_leaf_image(
 
     # Return path of saved grayscale leaf image
     return grayscale_leaf_image_filename
+
+def equalize_histogram_of_grayscale_image(
+        grayscale_image: numpy.ndarray,
+        tomato_leaf_category: str
+) -> numpy.ndarray:
+    # Create equalized grayscale image histogram
+    create_directory_if_needed(path=Equalized_Gray_Scale_Image_Directory)
+
+    equalized_grayscale_image_directory = os.path.join(
+        Equalized_Gray_Scale_Image_Directory,
+        tomato_leaf_category
+    )
+
+    create_directory_if_needed(path=equalized_grayscale_image_directory)
+
+    # Equalize grayscale image
+    equalized_grayscale_image = equalize_grayscale_image(grayscale_image)
+
+    # Save equalized image to disk
+    image_filename = os.path.join(equalized_grayscale_image_directory, grayscale_leaf_image_filename)
+    save_image(destination=grayscale_leaf_image_filename, img=grayscale_leaf_img)
+
+    return equalized_grayscale_image
+
 
 """
 Applies histogram equalization to a gray scale image
