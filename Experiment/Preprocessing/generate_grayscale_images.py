@@ -51,3 +51,5 @@ def create_all_grayscale_leaf_image_directories():
         )
 
         create_directory_if_needed(tomato_leaf_image_category_directory)
+
+generate_grayscale_leaf_images()
