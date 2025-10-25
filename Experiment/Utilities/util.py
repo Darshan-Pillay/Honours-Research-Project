@@ -2,15 +2,28 @@ import os
 import cv2
 import numpy
 
-"""
-Creates a directory at path if it does not exist
-"""
 def create_directory_if_needed(path: str):
+    """
+    Creates a directory at path if it does not exist
+    """
     if not os.path.exists(path):
         os.mkdir(path)
 
-"""
-Writes img to disk at path destination
-"""
 def save_image(destination: str, img: numpy.ndarray):
+    """
+    Writes img to disk at path destination
+    """
     cv2.imwrite(destination, img)
+
+def count_files_in_directory(directory_path: str) -> int:
+    """
+    Counts all files in a directory and its subdirectories. We used this function
+    to verify our preprocessing steps generate the expected number of images. For
+    example the database we used for our research contains 16011 tomato leaf images,
+    so we can use this function to verify that each preprocessing step saves to disk
+    the correct number of images.
+    """
+    total_files = 0
+    for root, _, files in os.walk(directory_path):
+        total_files += len(files)
+    return total_files
