@@ -27,5 +27,6 @@ All_Preprocessed_Training_Data_Directories: list[str] = [
     Equalized_Gray_Scale_Image_Directory,
     Median_Filtered_Equalized_Gray_Scale_Image_Directory,
     Otsu_Segmentation_Binary_Mask_Image_Directory,
-    Segmented_Image_Directory
+    Segmented_Image_Directory,
+    Feature_Vector_Directory
 ]

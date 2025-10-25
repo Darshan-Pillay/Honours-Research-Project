@@ -1,12 +1,13 @@
 import os
 import numpy
 
-from Preprocessing.generate_training_data_csv import generate_csv_file
-from plantcv import plantcv as pcv
+from plantcv import (
+    plantcv as pcv
+)
 
 from Utilities.util import (
     create_directory_if_needed,
-    save_image
+    save_image, count_files_in_directory
 )
 
 from project_configuration import (
@@ -16,6 +17,15 @@ from project_configuration import (
 from Preprocessing.compute_all_training_data import (
     plant_village_tomato_leaf_image_directories,
     compute_all_training_data_info
+)
+
+from Preprocessing.generate_training_data_csv import (
+    generate_csv_file
+)
+
+from Preprocessing.feature_extraction import (
+    compute_glcm_metrics,
+    save_texture_vector_to_disk
 )
 
 def generate_all_training_data():
@@ -80,6 +90,11 @@ def preprocess_training_data():
         save_image(destination=datum_info.otsu_segmented_image_path, img=segmented_image)
 
         # Calculate feature vector
+        texture_feature_vector = compute_glcm_metrics(segmented_image)
+        save_texture_vector_to_disk(
+            feature_vector=texture_feature_vector,
+            destination_path=datum_info.feature_vector_path
+        )
 
 def transform_rgb_image_to_grayscale(rgb_image: numpy.ndarray) -> numpy.ndarray:
     """
