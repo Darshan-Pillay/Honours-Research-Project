@@ -12,7 +12,7 @@ from project_configuration import (
     Feature_Vector_Directory
 )
 
-def compute_all_training_data() -> list[CsvDataSetItem]:
+def compute_all_training_data_info() -> list[CsvDataSetItem]:
     """
     :return: A list of all training csv data items
     """

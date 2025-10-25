@@ -21,3 +21,11 @@ Feature_Vector_Directory = Data_Set_Directory + "/FeatureVectors"
 
 Training_Data_File_Directory = Data_Set_Directory + "/TrainingData/"
 Training_Data_File_Path = Training_Data_File_Directory + "/training_data.csv"
+
+All_Preprocessed_Training_Data_Directories: list[str] = [
+    Gray_Scale_Image_Directory,
+    Equalized_Gray_Scale_Image_Directory,
+    Median_Filtered_Equalized_Gray_Scale_Image_Directory,
+    Otsu_Segmentation_Binary_Mask_Image_Directory,
+    Segmented_Image_Directory
+]

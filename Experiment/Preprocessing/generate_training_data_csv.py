@@ -1,7 +1,7 @@
 from CsvDataSetItem import CsvDataSetItem
 from Utilities.util import create_directory_if_needed
 from csv import DictWriter
-from Preprocessing.compute_all_training_data import compute_all_training_data
+from Preprocessing.compute_all_training_data import compute_all_training_data_info
 
 from project_configuration import (
     Training_Data_File_Directory,
@@ -12,7 +12,7 @@ def generate_csv_file():
     """
     Generates csv training data file
     """
-    training_data = compute_all_training_data()
+    training_data = compute_all_training_data_info()
     write_training_data_to_csvfile(training_data)
 
 def write_training_data_to_csvfile(data: list[CsvDataSetItem]):
