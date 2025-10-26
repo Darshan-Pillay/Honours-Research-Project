@@ -5,28 +5,24 @@ from plantcv import (
     plantcv as pcv
 )
 
-from Utilities.util import (
-    create_directory_if_needed,
-    save_image, count_files_in_directory
-)
-
-from project_configuration import (
+from ProjectConfiguration import (
     All_Preprocessed_Training_Data_Directories
 )
 
-from Preprocessing.compute_all_training_data import (
+from Preprocessing.Utilities import (
     plant_village_tomato_leaf_image_directories,
-    compute_all_training_data_info
+    compute_all_training_data_info, create_directory_if_needed, save_image
 )
 
 from Preprocessing.generate_training_data_csv import (
     generate_csv_file
 )
 
-from Preprocessing.feature_extraction import (
+from Preprocessing.FeatureExtraction import (
     compute_glcm_metrics,
     save_texture_vector_to_disk
 )
+
 
 def generate_all_training_data():
     # Generate CSV training file
@@ -148,3 +144,5 @@ def segment_grayscale_image_with_otsu_binary_mask(
     )
 
     return segmented_image
+
+generate_all_training_data()
