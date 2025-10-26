@@ -1,0 +1,35 @@
+import os
+
+# Project Root
+ROOT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
+
+Data_Set_Directory = ROOT_DIRECTORY + "/DataSet"
+
+Plant_Village_Directory = Data_Set_Directory + "/PlantVillage"
+
+Gray_Scale_Image_Directory = Data_Set_Directory + "/GrayScale"
+
+Equalized_Gray_Scale_Image_Directory = Data_Set_Directory + "/EqualizedGrayScale"
+
+Median_Filtered_Equalized_Gray_Scale_Image_Directory = Data_Set_Directory + "/MedianFilteredEqualizedGrayScale"
+
+Otsu_Segmentation_Binary_Mask_Image_Directory = Data_Set_Directory + "/OtsuBinaryMask"
+
+Segmented_Image_Directory = Data_Set_Directory + "/OtsuSegmentedImages"
+
+Feature_Vector_Directory = Data_Set_Directory + "/FeatureVectors"
+
+Training_Data_File_Directory = Data_Set_Directory + "/TrainingData/"
+Training_Data_Csv_File_Path = Training_Data_File_Directory + "/training_data.csv"
+Training_Data_File_Path = Training_Data_File_Directory + "/training_data.pkl"
+Test_Data_File_Directory = Data_Set_Directory + "/TestData/"
+Test_Data_File_Path = Test_Data_File_Directory + "/test_data.pkl"
+
+All_Preprocessed_Training_Data_Directories: list[str] = [
+    Gray_Scale_Image_Directory,
+    Equalized_Gray_Scale_Image_Directory,
+    Median_Filtered_Equalized_Gray_Scale_Image_Directory,
+    Otsu_Segmentation_Binary_Mask_Image_Directory,
+    Segmented_Image_Directory,
+    Feature_Vector_Directory
+]
