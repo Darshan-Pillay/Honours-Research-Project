@@ -47,4 +47,32 @@ With this training dataset, we train our Support Vector Machine using the radial
 To avoid overfitting and bias from the dataset, we perform 10-fold cross-validation \cite{AdvancedDataMining2008}. In this training methodology, the data set is divided equally or nearly equally into 10 subsets. Then, cross-validation is performed 10 times, where one set is selected as the test set, and the union of the others forms the training set. The cross-validation procedure is repeated 10 times.
 
 \section{Analysis}
-We aim to measure the reliability of our binary SVM tomato classifier by evaluating its F-measure, accuracy, precision, actual positive rate, and true negative rate \cite{AdvancedDataMining2008}. These metrics are commonly used to measure the performance of binary classifiers and predictive models \cite{lopez-garciaAutomaticDetectionSkin2010}; therefore, their use allows comparison of our system with other studies. Additionally, we measure the average classification time of the system, which is the time it takes for classification to occur from the start of preprocessing to the end of classification.
+We aim to measure the reliability of our binary SVM tomato classifier by evaluating its F-measure, accuracy, precision, recall, actual positive rate, and true negative rate \cite{AdvancedDataMining2008}. These metrics are commonly used to measure the performance of binary classifiers and predictive models \cite{lopez-garciaAutomaticDetectionSkin2010}; therefore, their use allows comparison of our system with other studies. Additionally, we measure the average classification time of the system, which is the time it takes for classification to occur from the start of preprocessing to the end of classification.
+
+\paragraph{Precision}
+Suppose there are $N$ samples, and a classifier $C$ predicts that a sample $x$ is positive and it is positive, then this prediction is called a true positive. If the classifier predicts $x$ is positive when it is not, then this prediction is called a false positive. We denote TP as the total number of true positives, and FP as the total number of false positives. Then precision is the ratio of all true positives over all positives observed. Symbolically,
+
+\begin{equation}
+	\text{Precision} = \frac{TP}{TP + FP}.
+\end{equation}
+
+\paragraph{Accuracy}
+Using the terminology defined above accuracy is the ratio of all correct predictions over the total number of samples. Note that analoglosly the TN is a prediction for which a classifier correctly predicts a sample is negative. And FN is the converse that is if the sample is predicted as negative when it is not. Then symbolically accuracy is defined as: 
+
+\begin{equation}
+	\text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}.
+\end{equation}
+
+\paragraph{Recall}
+Also known as true positive rate or a classifiers ablity to correctly identify true positive samples is defined as:
+
+\begin{equation}
+	\text{Recall} = \frac{TP}{TP +  FN}.
+\end{equation}
+
+\paragraph{F1-score}
+F1-score is the harmonic mean or weighted avergae of precision and recall. F1-score takes false positive and false negative predictions into account. Symbolically:
+
+\begin{equation}
+	\text{F1} = 2* \frac{Precision  * Recall}{Precision +  Recall}.
+\end{equation}
