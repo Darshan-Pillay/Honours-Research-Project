@@ -1,8 +1,11 @@
-# Abstract
-Plant diseases significantly reduce agricultural yield, putting the global food supply at risk. Traditional pathogen detection methods rely on plant pathology expertise. Moreover, traditional methods are destructive, labor-intensive, and time-consuming. Thus, plant phenotyping image processing tools are used as an alternative for detecting plant pathogens; however, these tools can be in- flexible, commercially owned, and expensive. Consequently, there is demand for flexible, reliable, open-source image processing tools for plant pathogen de- tection in low-cost agricultural environments. Accordingly, a support vector machine (SVM) binary classifier was developed to detect tomato leaf diseases. This paper presents and evaluates the performance of this image processing tool. The classifier is trained using textural parameters calculated from gray- level co-occurrence matrices. These parameters are extracted from images of tomato leaves in the publicly available PlantVillage dataset. Overall, the image processing tool is shown to be reliable and efficient in detecting tomato leaf diseases. The underlying implementation is open-source and utilizes modular computer vision libraries, enabling other researchers to modify or extend it. Additionally, the classifier can be turned into a mobile application for low-cost automated greenhouse management. Overall, the developed image processing tool is flexible, reliable, modifiable, and efficient in detecting tomato plant leaf pathogens.
+# About
+I built a flexible, open-source computer vision toolfor plant disease detection. My work focuses on using SVM classifiers and texture features from leaf images to identify tomato diseases efficiently and reliably. It’s designed for low-cost agricultural environments and can be extended into mobile-based greenhouse monitoring.
+
+# Project Snapshot
+- **Goal**: Detect tomato leaf diseases from images.
+- **Method**: SVM binary classification using GLCM-based texture features.
+- **Data**: [PlantVillage tomato leaf images](https://www.kaggle.com/datasets/emmarex/plantdisease)
+- **Value**: Open-source, modular, efficient, and adaptable for mobile deployment.
 
 ## Software Built On Top Of
 This project uses a fork of the scimage project which has a modified GLCM function. To see the details of this modification, please refer to my fork [here](https://github.com/Darshan-Pillay/scikit-image-honours-research-project/tree/research_project)
-
-## Dataset
-We used a version of the plant village data set which can be obtained [here](https://www.kaggle.com/datasets/emmarex/plantdisease)
